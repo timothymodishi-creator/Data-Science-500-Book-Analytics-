@@ -1,0 +1,1001 @@
+title,category,category_grouped,price_gbp,log_price,rating,rating_word,stock_quantity,in_stock,num_reviews,title_length,url
+A Light in the Attic,Poetry,Poetry,51.77,3.9659428474175766,3,Three,22,1,0,20,https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+Tipping the Velvet,Historical Fiction,Historical Fiction,53.74,4.002594703612533,1,One,20,1,0,18,https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html
+Soumission,Fiction,Fiction,50.1,3.933784497209659,1,One,20,1,0,10,https://books.toscrape.com/catalogue/soumission_998/index.html
+Sharp Objects,Mystery,Mystery,47.82,3.888140064964814,4,Four,20,1,0,13,https://books.toscrape.com/catalogue/sharp-objects_997/index.html
+Sapiens: A Brief History of Humankind,History,History,54.23,4.011506283913096,5,Five,20,1,0,37,https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html
+The Requiem Red,Young Adult,Young Adult,22.65,3.1633631149379418,1,One,19,1,0,15,https://books.toscrape.com/catalogue/the-requiem-red_995/index.html
+The Dirty Little Secrets of Getting Your Dream Job,Business,Business,33.34,3.5363108554693294,4,Four,19,1,0,50,https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html
+"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",Default,Default,17.93,2.9407479652212314,3,Three,19,1,0,87,https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html
+The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,Default,Default,22.6,3.1612467120315646,4,Four,19,1,0,94,https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html
+The Black Maria,Poetry,Poetry,52.15,3.973118104787957,1,One,19,1,0,15,https://books.toscrape.com/catalogue/the-black-maria_991/index.html
+"Starving Hearts (Triangular Trade Trilogy, #1)",Default,Default,13.99,2.7073833121145063,2,Two,19,1,0,46,https://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html
+Shakespeare's Sonnets,Poetry,Poetry,20.66,3.0754672415728446,4,Four,19,1,0,21,https://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html
+Set Me Free,Young Adult,Young Adult,17.46,2.9156062290747062,5,Five,19,1,0,11,https://books.toscrape.com/catalogue/set-me-free_988/index.html
+Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),Sequential Art,Sequential Art,52.29,3.975748696308691,5,Five,19,1,0,55,https://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html
+Rip it Up and Start Again,Music,Music,35.02,3.58407433974781,5,Five,19,1,0,25,https://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html
+"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",Music,Music,57.25,4.06474409244581,3,Three,19,1,0,82,https://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html
+Olio,Poetry,Poetry,23.88,3.2140642678709788,1,One,19,1,0,4,https://books.toscrape.com/catalogue/olio_984/index.html
+Mesaerion: The Best Science Fiction Stories 1800-1849,Science Fiction,Science Fiction,37.59,3.6529931755495273,1,One,19,1,0,53,https://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html
+Libertarianism for Beginners,Politics,Other,51.33,3.9575698203841165,2,Two,19,1,0,28,https://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html
+It's Only the Himalayas,Travel,Travel,45.17,3.8323302365188976,2,Two,19,1,0,23,https://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html
+In Her Wake,Thriller,Thriller,12.84,2.6275629501895237,1,One,19,1,0,11,https://books.toscrape.com/catalogue/in-her-wake_980/index.html
+How Music Works,Music,Music,37.32,3.6459719531026598,2,Two,19,1,0,15,https://books.toscrape.com/catalogue/how-music-works_979/index.html
+"Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More",Food and Drink,Food and Drink,30.52,3.4506222649896783,3,Three,19,1,0,175,https://books.toscrape.com/catalogue/foolproof-preserving-a-guide-to-small-batch-jams-jellies-pickles-condiments-and-more-a-foolproof-guide-to-making-small-batch-jams-jellies-pickles-condiments-and-more_978/index.html
+Chase Me (Paris Nights #2),Romance,Romance,25.27,3.2684276036974484,5,Five,19,1,0,26,https://books.toscrape.com/catalogue/chase-me-paris-nights-2_977/index.html
+Black Dust,Romance,Romance,34.53,3.5703774100329357,5,Five,19,1,0,10,https://books.toscrape.com/catalogue/black-dust_976/index.html
+Birdsong: A Story in Pictures,Childrens,Childrens,54.64,4.018902367055242,3,Three,19,1,0,29,https://books.toscrape.com/catalogue/birdsong-a-story-in-pictures_975/index.html
+America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana,Default,Default,22.5,3.1570004211501135,3,Three,19,1,0,107,https://books.toscrape.com/catalogue/americas-cradle-of-quarterbacks-western-pennsylvanias-football-factory-from-johnny-unitas-to-joe-montana_974/index.html
+Aladdin and His Wonderful Lamp,Default,Default,53.13,3.9913885608088866,3,Three,19,1,0,30,https://books.toscrape.com/catalogue/aladdin-and-his-wonderful-lamp_973/index.html
+Worlds Elsewhere: Journeys Around Shakespeare’s Globe,Nonfiction,Nonfiction,40.3,3.720862499966987,5,Five,18,1,0,53,https://books.toscrape.com/catalogue/worlds-elsewhere-journeys-around-shakespeares-globe_972/index.html
+Wall and Piece,Art,Other,44.18,3.810654511039857,4,Four,18,1,0,14,https://books.toscrape.com/catalogue/wall-and-piece_971/index.html
+The Four Agreements: A Practical Guide to Personal Freedom,Spirituality,Other,17.66,2.926382195419198,5,Five,18,1,0,58,https://books.toscrape.com/catalogue/the-four-agreements-a-practical-guide-to-personal-freedom_970/index.html
+The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,Nonfiction,Nonfiction,31.05,3.467297183366679,3,Three,18,1,0,73,https://books.toscrape.com/catalogue/the-five-love-languages-how-to-express-heartfelt-commitment-to-your-mate_969/index.html
+The Elephant Tree,Thriller,Thriller,23.82,3.211649779776461,5,Five,18,1,0,17,https://books.toscrape.com/catalogue/the-elephant-tree_968/index.html
+The Bear and the Piano,Childrens,Childrens,36.89,3.6346872250305093,1,One,18,1,0,22,https://books.toscrape.com/catalogue/the-bear-and-the-piano_967/index.html
+Sophie's World,Philosophy,Philosophy,15.94,2.8296776892239084,5,Five,18,1,0,14,https://books.toscrape.com/catalogue/sophies-world_966/index.html
+Penny Maybe,Default,Default,33.29,3.534853766474829,3,Three,18,1,0,11,https://books.toscrape.com/catalogue/penny-maybe_965/index.html
+Maude (1883-1993):She Grew Up with the country,Default,Default,18.02,2.9454910571172443,2,Two,18,1,0,46,https://books.toscrape.com/catalogue/maude-1883-1993she-grew-up-with-the-country_964/index.html
+"In a Dark, Dark Wood",Mystery,Mystery,19.63,3.0267463270831603,1,One,18,1,0,20,https://books.toscrape.com/catalogue/in-a-dark-dark-wood_963/index.html
+Behind Closed Doors,Thriller,Thriller,52.22,3.9744342655495433,4,Four,18,1,0,19,https://books.toscrape.com/catalogue/behind-closed-doors_962/index.html
+You can't bury them all: Poems,Poetry,Poetry,33.63,3.5447203584143305,2,Two,17,1,0,30,https://books.toscrape.com/catalogue/you-cant-bury-them-all-poems_961/index.html
+Slow States of Collapse: Poems,Poetry,Poetry,57.31,4.065773605234065,3,Three,17,1,0,30,https://books.toscrape.com/catalogue/slow-states-of-collapse-poems_960/index.html
+Reasons to Stay Alive,Nonfiction,Nonfiction,26.41,3.3109079103146946,2,Two,17,1,0,21,https://books.toscrape.com/catalogue/reasons-to-stay-alive_959/index.html
+Private Paris (Private #10),Fiction,Fiction,47.61,3.883829271057364,5,Five,17,1,0,27,https://books.toscrape.com/catalogue/private-paris-private-10_958/index.html
+#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.,Nonfiction,Nonfiction,23.11,3.1826266921930797,5,Five,17,1,0,66,https://books.toscrape.com/catalogue/higherselfie-wake-up-your-life-free-your-soul-find-your-tribe_957/index.html
+Without Borders (Wanderlove #1),New Adult,Other,45.07,3.830161978947826,2,Two,16,1,0,31,https://books.toscrape.com/catalogue/without-borders-wanderlove-1_956/index.html
+When We Collided,Contemporary,Other,31.77,3.489513462710723,1,One,16,1,0,16,https://books.toscrape.com/catalogue/when-we-collided_955/index.html
+"We Love You, Charlie Freeman",Fiction,Fiction,50.27,3.9371057857956093,5,Five,16,1,0,28,https://books.toscrape.com/catalogue/we-love-you-charlie-freeman_954/index.html
+Untitled Collection: Sabbath Poems 2014,Poetry,Poetry,14.27,2.725890119230541,4,Four,16,1,0,39,https://books.toscrape.com/catalogue/untitled-collection-sabbath-poems-2014_953/index.html
+"Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness",Nonfiction,Nonfiction,44.18,3.810654511039857,4,Four,16,1,0,105,https://books.toscrape.com/catalogue/unseen-city-the-majesty-of-pigeons-the-discreet-charm-of-snails-other-wonders-of-the-urban-wilderness_952/index.html
+Unicorn Tracks,Fantasy,Fantasy,18.78,2.984671326194566,3,Three,16,1,0,14,https://books.toscrape.com/catalogue/unicorn-tracks_951/index.html
+"Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink",History,History,25.52,3.277899165317662,1,One,16,1,0,102,https://books.toscrape.com/catalogue/unbound-how-eight-technologies-made-us-human-transformed-society-and-brought-our-world-to-the-brink_950/index.html
+Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2),Sequential Art,Sequential Art,16.28,2.8495497633759097,1,One,16,1,0,55,https://books.toscrape.com/catalogue/tsubasa-world-chronicle-2-tsubasa-world-chronicle-2_949/index.html
+Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity,Nonfiction,Nonfiction,31.12,3.469478889078561,3,Three,16,1,0,75,https://books.toscrape.com/catalogue/throwing-rocks-at-the-google-bus-how-growth-became-the-enemy-of-prosperity_948/index.html
+This One Summer,Sequential Art,Sequential Art,19.49,3.0199369622508083,4,Four,16,1,0,15,https://books.toscrape.com/catalogue/this-one-summer_947/index.html
+Thirst,Fiction,Fiction,17.27,2.9052603703899154,5,Five,16,1,0,6,https://books.toscrape.com/catalogue/thirst_946/index.html
+The Torch Is Passed: A Harding Family Story,Add a comment,Add a comment,19.09,3.000222178826843,1,One,16,1,0,43,https://books.toscrape.com/catalogue/the-torch-is-passed-a-harding-family-story_945/index.html
+The Secret of Dreadwillow Carse,Childrens,Childrens,56.13,4.045329372736371,1,One,16,1,0,31,https://books.toscrape.com/catalogue/the-secret-of-dreadwillow-carse_944/index.html
+"The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!",Food and Drink,Food and Drink,56.41,4.050218504179545,1,One,16,1,0,127,https://books.toscrape.com/catalogue/the-pioneer-woman-cooks-dinnertime-comfort-classics-freezer-food-16-minute-meals-and-other-delicious-ways-to-solve-supper_943/index.html
+The Past Never Ends,Mystery,Mystery,56.5,4.051784947803305,4,Four,16,1,0,19,https://books.toscrape.com/catalogue/the-past-never-ends_942/index.html
+The Natural History of Us (The Fine Art of Pretending #2),Young Adult,Young Adult,45.22,3.8334126048462345,3,Three,16,1,0,57,https://books.toscrape.com/catalogue/the-natural-history-of-us-the-fine-art-of-pretending-2_941/index.html
+The Nameless City (The Nameless City #1),Sequential Art,Sequential Art,38.16,3.6676558176623097,4,Four,16,1,0,40,https://books.toscrape.com/catalogue/the-nameless-city-the-nameless-city-1_940/index.html
+The Murder That Never Was (Forensic Instincts #5),Fiction,Fiction,54.11,4.009331187895144,3,Three,16,1,0,49,https://books.toscrape.com/catalogue/the-murder-that-never-was-forensic-instincts-5_939/index.html
+The Most Perfect Thing: Inside (and Outside) a Bird's Egg,Science,Science,42.96,3.7832801295354206,4,Four,16,1,0,57,https://books.toscrape.com/catalogue/the-most-perfect-thing-inside-and-outside-a-birds-egg_938/index.html
+"The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy",Add a comment,Add a comment,23.89,3.2144661163795005,4,Four,16,1,0,150,https://books.toscrape.com/catalogue/the-mindfulness-and-acceptance-workbook-for-anxiety-a-guide-to-breaking-free-from-anxiety-phobias-and-worry-using-acceptance-and-commitment-therapy_937/index.html
+The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing,Nonfiction,Nonfiction,16.77,2.87751164216656,3,Three,16,1,0,86,https://books.toscrape.com/catalogue/the-life-changing-magic-of-tidying-up-the-japanese-art-of-decluttering-and-organizing_936/index.html
+"The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer",Default,Default,20.59,3.072230244526716,5,Five,16,1,0,82,https://books.toscrape.com/catalogue/the-inefficiency-assassin-time-management-tactics-for-working-smarter-not-longer_935/index.html
+The Gutsy Girl: Escapades for Your Life of Epic Adventure,Nonfiction,Nonfiction,37.13,3.6410013738694724,1,One,16,1,0,57,https://books.toscrape.com/catalogue/the-gutsy-girl-escapades-for-your-life-of-epic-adventure_934/index.html
+The Electric Pencil: Drawings from Inside State Hospital No. 3,Nonfiction,Nonfiction,56.06,4.044103345785354,1,One,16,1,0,62,https://books.toscrape.com/catalogue/the-electric-pencil-drawings-from-inside-state-hospital-no-3_933/index.html
+The Death of Humanity: and the Case for Life,Philosophy,Philosophy,58.11,4.079400114836278,4,Four,16,1,0,44,https://books.toscrape.com/catalogue/the-death-of-humanity-and-the-case-for-life_932/index.html
+"The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life",Health,Other,49.05,3.9130225057612296,3,Three,16,1,0,91,https://books.toscrape.com/catalogue/the-bulletproof-diet-lose-up-to-a-pound-a-day-reclaim-energy-and-focus-upgrade-your-life_931/index.html
+The Art Forger,Add a comment,Add a comment,40.76,3.731938943574383,3,Three,16,1,0,14,https://books.toscrape.com/catalogue/the-art-forger_930/index.html
+The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind,History,History,19.73,3.0315819264476884,1,One,16,1,0,75,https://books.toscrape.com/catalogue/the-age-of-genius-the-seventeenth-century-and-the-birth-of-the-modern-mind_929/index.html
+The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution,Spirituality,Other,32.24,3.5037539699872475,5,Five,16,1,0,67,https://books.toscrape.com/catalogue/the-activists-tao-te-ching-ancient-advice-for-a-modern-revolution_928/index.html
+Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up,Nonfiction,Nonfiction,41.83,3.7572387916272794,4,Four,16,1,0,78,https://books.toscrape.com/catalogue/spark-joy-an-illustrated-master-class-on-the-art-of-organizing-and-tidying-up_927/index.html
+Soul Reader,Default,Default,39.58,3.7032753343976688,2,Two,16,1,0,11,https://books.toscrape.com/catalogue/soul-reader_926/index.html
+Security,Horror,Horror,39.25,3.6951100038645723,2,Two,16,1,0,8,https://books.toscrape.com/catalogue/security_925/index.html
+"Saga, Volume 6 (Saga (Collected Editions) #6)",Fantasy,Fantasy,25.02,3.2588654730843594,3,Three,16,1,0,45,https://books.toscrape.com/catalogue/saga-volume-6-saga-collected-editions-6_924/index.html
+"Saga, Volume 5 (Saga (Collected Editions) #5)",Sequential Art,Sequential Art,51.04,3.9520126536443043,2,Two,16,1,0,45,https://books.toscrape.com/catalogue/saga-volume-5-saga-collected-editions-5_923/index.html
+Reskilling America: Learning to Labor in the Twenty-First Century,Nonfiction,Nonfiction,19.83,3.0363942552728806,2,Two,16,1,0,65,https://books.toscrape.com/catalogue/reskilling-america-learning-to-labor-in-the-twenty-first-century_922/index.html
+"Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)",Sequential Art,Sequential Art,50.4,3.9396381724611196,3,Three,16,1,0,67,https://books.toscrape.com/catalogue/rat-queens-vol-3-demons-rat-queens-collected-editions-11-15_921/index.html
+"Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)",Sequential Art,Sequential Art,13.61,2.681706225762608,5,Five,16,1,0,81,https://books.toscrape.com/catalogue/princess-jellyfish-2-in-1-omnibus-vol-01-princess-jellyfish-2-in-1-omnibus-1_920/index.html
+Princess Between Worlds (Wide-Awake Princess #5),Fantasy,Fantasy,13.34,2.663052835171474,5,Five,16,1,0,48,https://books.toscrape.com/catalogue/princess-between-worlds-wide-awake-princess-5_919/index.html
+"Pop Gun War, Volume 1: Gift",Sequential Art,Sequential Art,18.97,2.994231147427724,1,One,16,1,0,27,https://books.toscrape.com/catalogue/pop-gun-war-volume-1-gift_918/index.html
+"Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics",History,History,36.28,3.6184569898173904,2,Two,16,1,0,163,https://books.toscrape.com/catalogue/political-suicide-missteps-peccadilloes-bad-calls-backroom-hijinx-sordid-pasts-rotten-breaks-and-just-plain-dumb-mistakes-in-the-annals-of-american-politics_917/index.html
+Patience,Sequential Art,Sequential Art,10.16,2.412335956953165,3,Three,16,1,0,8,https://books.toscrape.com/catalogue/patience_916/index.html
+"Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)",Sequential Art,Sequential Art,15.44,2.7997173896280336,4,Four,16,1,0,54,https://books.toscrape.com/catalogue/outcast-vol-1-a-darkness-surrounds-him-outcast-1_915/index.html
+orange: The Complete Collection 1 (orange: The Complete Collection #1),Sequential Art,Sequential Art,48.41,3.9001528328576587,1,One,16,1,0,70,https://books.toscrape.com/catalogue/orange-the-complete-collection-1-orange-the-complete-collection-1_914/index.html
+Online Marketing for Busy Authors: A Step-By-Step Guide,Self Help,Other,46.35,3.8575668196320874,1,One,16,1,0,55,https://books.toscrape.com/catalogue/online-marketing-for-busy-authors-a-step-by-step-guide_913/index.html
+On a Midnight Clear,Add a comment,Add a comment,14.07,2.712706012638404,3,Three,16,1,0,19,https://books.toscrape.com/catalogue/on-a-midnight-clear_912/index.html
+Obsidian (Lux #1),Young Adult,Young Adult,14.86,2.7638002162067017,2,Two,16,1,0,17,https://books.toscrape.com/catalogue/obsidian-lux-1_911/index.html
+My Paris Kitchen: Recipes and Stories,Food and Drink,Food and Drink,33.37,3.5371840908617425,2,Two,16,1,0,37,https://books.toscrape.com/catalogue/my-paris-kitchen-recipes-and-stories_910/index.html
+Masks and Shadows,Fantasy,Fantasy,56.4,4.050044303325521,2,Two,16,1,0,17,https://books.toscrape.com/catalogue/masks-and-shadows_909/index.html
+"Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed",Food and Drink,Food and Drink,14.02,2.7093826463359885,4,Four,16,1,0,83,https://books.toscrape.com/catalogue/mama-tried-traditional-italian-cooking-for-the-screwed-crude-vegan-and-tattooed_908/index.html
+"Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)",Sequential Art,Sequential Art,46.91,3.8693242508950307,2,Two,16,1,0,61,https://books.toscrape.com/catalogue/lumberjanes-vol-2-friendship-to-the-max-lumberjanes-5-8_907/index.html
+"Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)",Sequential Art,Sequential Art,45.61,3.8418151103846494,3,Three,16,1,0,62,https://books.toscrape.com/catalogue/lumberjanes-vol-1-beware-the-kitten-holy-lumberjanes-1-4_906/index.html
+Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12),Sequential Art,Sequential Art,19.92,3.040705639196722,2,Two,16,1,0,55,https://books.toscrape.com/catalogue/lumberjanes-vol-3-a-terrible-plan-lumberjanes-9-12_905/index.html
+"Layered: Baking, Building, and Styling Spectacular Cakes",Food and Drink,Food and Drink,40.11,3.716251400909787,1,One,16,1,0,56,https://books.toscrape.com/catalogue/layered-baking-building-and-styling-spectacular-cakes_904/index.html
+Judo: Seven Steps to Black Belt (an Introductory Guide for Beginners),Add a comment,Add a comment,53.9,4.005513348515485,2,Two,16,1,0,69,https://books.toscrape.com/catalogue/judo-seven-steps-to-black-belt-an-introductory-guide-for-beginners_903/index.html
+Join,Science Fiction,Science Fiction,35.67,3.6019589820832345,5,Five,16,1,0,4,https://books.toscrape.com/catalogue/join_902/index.html
+In the Country We Love: My Family Divided,Nonfiction,Nonfiction,22.0,3.1354942159291497,4,Four,16,1,0,41,https://books.toscrape.com/catalogue/in-the-country-we-love-my-family-divided_901/index.html
+Immunity: How Elie Metchnikoff Changed the Course of Modern Medicine,Science,Science,57.36,4.066630723654585,5,Five,16,1,0,68,https://books.toscrape.com/catalogue/immunity-how-elie-metchnikoff-changed-the-course-of-modern-medicine_900/index.html
+"I Hate Fairyland, Vol. 1: Madly Ever After (I Hate Fairyland (Compilations) #1-5)",Sequential Art,Sequential Art,29.17,3.40684805317097,2,Two,16,1,0,81,https://books.toscrape.com/catalogue/i-hate-fairyland-vol-1-madly-ever-after-i-hate-fairyland-compilations-1-5_899/index.html
+I am a Hero Omnibus Volume 1,Sequential Art,Sequential Art,54.63,4.018722624087202,3,Three,16,1,0,28,https://books.toscrape.com/catalogue/i-am-a-hero-omnibus-volume-1_898/index.html
+How to Be Miserable: 40 Strategies You Already Use,Self Help,Other,46.03,3.8507856959569566,1,One,16,1,0,50,https://books.toscrape.com/catalogue/how-to-be-miserable-40-strategies-you-already-use_897/index.html
+Her Backup Boyfriend (The Sorensen Family #1),Romance,Romance,33.97,3.5544905510752844,1,One,16,1,0,45,https://books.toscrape.com/catalogue/her-backup-boyfriend-the-sorensen-family-1_896/index.html
+"Giant Days, Vol. 2 (Giant Days #5-8)",Sequential Art,Sequential Art,22.11,3.1402654242862895,2,Two,16,1,0,36,https://books.toscrape.com/catalogue/giant-days-vol-2-giant-days-5-8_895/index.html
+Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton,Historical Fiction,Historical Fiction,29.69,3.4239368686316447,3,Three,16,1,0,73,https://books.toscrape.com/catalogue/forever-and-forever-the-courtship-of-henry-longfellow-and-fanny-appleton_894/index.html
+First and First (Five Boroughs #3),Romance,Romance,15.97,2.831447079246135,4,Four,16,1,0,34,https://books.toscrape.com/catalogue/first-and-first-five-boroughs-3_893/index.html
+Fifty Shades Darker (Fifty Shades #2),Romance,Romance,21.96,3.133753571451366,1,One,16,1,0,37,https://books.toscrape.com/catalogue/fifty-shades-darker-fifty-shades-2_892/index.html
+Everydata: The Misinformation Hidden in the Little Data You Consume Every Day,Nonfiction,Nonfiction,54.35,4.013676659154646,2,Two,16,1,0,77,https://books.toscrape.com/catalogue/everydata-the-misinformation-hidden-in-the-little-data-you-consume-every-day_891/index.html
+"Don't Be a Jerk: And Other Practical Advice from Dogen, Japan's Greatest Zen Master",Religion,Other,37.97,3.662792119350618,2,Two,16,1,0,83,https://books.toscrape.com/catalogue/dont-be-a-jerk-and-other-practical-advice-from-dogen-japans-greatest-zen-master_890/index.html
+Danganronpa Volume 1,Sequential Art,Sequential Art,51.99,3.9701032165046706,4,Four,16,1,0,20,https://books.toscrape.com/catalogue/danganronpa-volume-1_889/index.html
+Crown of Midnight (Throne of Glass #2),Fantasy,Fantasy,43.29,3.790758917935107,3,Three,16,1,0,38,https://books.toscrape.com/catalogue/crown-of-midnight-throne-of-glass-2_888/index.html
+"Codename Baboushka, Volume 1: The Conclave of Death",Sequential Art,Sequential Art,36.72,3.6301904577652566,4,Four,16,1,0,51,https://books.toscrape.com/catalogue/codename-baboushka-volume-1-the-conclave-of-death_887/index.html
+Camp Midnight,Sequential Art,Sequential Art,17.08,2.89480635496403,4,Four,16,1,0,13,https://books.toscrape.com/catalogue/camp-midnight_886/index.html
+Call the Nurse: True Stories of a Country Nurse on a Scottish Isle,Nonfiction,Nonfiction,29.14,3.4058531931983493,5,Five,16,1,0,66,https://books.toscrape.com/catalogue/call-the-nurse-true-stories-of-a-country-nurse-on-a-scottish-isle_885/index.html
+Burning,Young Adult,Young Adult,28.81,3.39484390768998,3,Three,16,1,0,7,https://books.toscrape.com/catalogue/burning_884/index.html
+Bossypants,Default,Default,49.46,3.921180943212912,2,Two,16,1,0,10,https://books.toscrape.com/catalogue/bossypants_883/index.html
+"Bitch Planet, Vol. 1: Extraordinary Machine (Bitch Planet (Collected Editions))",Sequential Art,Sequential Art,37.92,3.6615082573178044,2,Two,16,1,0,79,https://books.toscrape.com/catalogue/bitch-planet-vol-1-extraordinary-machine-bitch-planet-collected-editions_882/index.html
+"Avatar: The Last Airbender: Smoke and Shadow, Part 3 (Smoke and Shadow #3)",Fantasy,Fantasy,28.09,3.3703944725071104,2,Two,16,1,0,74,https://books.toscrape.com/catalogue/avatar-the-last-airbender-smoke-and-shadow-part-3-smoke-and-shadow-3_881/index.html
+Algorithms to Live By: The Computer Science of Human Decisions,Nonfiction,Nonfiction,30.81,3.4597807057610526,1,One,16,1,0,62,https://books.toscrape.com/catalogue/algorithms-to-live-by-the-computer-science-of-human-decisions_880/index.html
+A World of Flavor: Your Gluten Free Passport,Default,Default,42.95,3.783052624131186,1,One,16,1,0,44,https://books.toscrape.com/catalogue/a-world-of-flavor-your-gluten-free-passport_879/index.html
+"A Piece of Sky, a Grain of Rice: A Memoir in Four Meditations",Default,Default,56.76,4.05629649458457,5,Five,16,1,0,61,https://books.toscrape.com/catalogue/a-piece-of-sky-a-grain-of-rice-a-memoir-in-four-meditations_878/index.html
+A Murder in Time,Mystery,Mystery,16.64,2.8701690505786455,1,One,16,1,0,16,https://books.toscrape.com/catalogue/a-murder-in-time_877/index.html
+A Flight of Arrows (The Pathfinders #2),Historical Fiction,Historical Fiction,55.53,4.0347714706871995,5,Five,16,1,0,39,https://books.toscrape.com/catalogue/a-flight-of-arrows-the-pathfinders-2_876/index.html
+A Fierce and Subtle Poison,Young Adult,Young Adult,28.13,3.3717685709713434,4,Four,16,1,0,26,https://books.toscrape.com/catalogue/a-fierce-and-subtle-poison_875/index.html
+A Court of Thorns and Roses (A Court of Thorns and Roses #1),Fantasy,Fantasy,52.37,3.9772487903458535,1,One,16,1,0,60,https://books.toscrape.com/catalogue/a-court-of-thorns-and-roses-a-court-of-thorns-and-roses-1_874/index.html
+(Un)Qualified: How God Uses Broken People to Do Big Things,Christian,Other,54.0,4.007333185232471,5,Five,16,1,0,58,https://books.toscrape.com/catalogue/unqualified-how-god-uses-broken-people-to-do-big-things_873/index.html
+You Are What You Love: The Spiritual Power of Habit,Religion,Other,21.87,3.12982600803469,4,Four,15,1,0,51,https://books.toscrape.com/catalogue/you-are-what-you-love-the-spiritual-power-of-habit_872/index.html
+"William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4)",Science Fiction,Science Fiction,43.3,3.7909846770510898,4,Four,15,1,0,88,https://books.toscrape.com/catalogue/william-shakespeares-star-wars-verily-a-new-hope-william-shakespeares-star-wars-4_871/index.html
+Tuesday Nights in 1980,Fiction,Fiction,21.04,3.092858984284714,2,Two,15,1,0,22,https://books.toscrape.com/catalogue/tuesday-nights-in-1980_870/index.html
+Tracing Numbers on a Train,Default,Default,41.6,3.751854253275325,3,Three,15,1,0,26,https://books.toscrape.com/catalogue/tracing-numbers-on-a-train_869/index.html
+Throne of Glass (Throne of Glass #1),Fantasy,Fantasy,35.07,3.5854614949154477,3,Three,15,1,0,36,https://books.toscrape.com/catalogue/throne-of-glass-throne-of-glass-1_868/index.html
+Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History,History,History,59.64,4.104954741334116,1,One,15,1,0,89,https://books.toscrape.com/catalogue/thomas-jefferson-and-the-tripoli-pirates-the-forgotten-war-that-changed-american-history_867/index.html
+Thirteen Reasons Why,Default,Default,52.72,3.9837853716550367,1,One,15,1,0,20,https://books.toscrape.com/catalogue/thirteen-reasons-why_866/index.html
+The White Cat and the Monk: A Retelling of the Poem “Pangur Bán”,Childrens,Childrens,58.08,4.078892457663179,4,Four,15,1,0,64,https://books.toscrape.com/catalogue/the-white-cat-and-the-monk-a-retelling-of-the-poem-pangur-ban_865/index.html
+The Wedding Dress,Romance,Romance,24.12,3.223664341599998,1,One,15,1,0,17,https://books.toscrape.com/catalogue/the-wedding-dress_864/index.html
+The Vacationers,Fiction,Fiction,42.15,3.764682417529437,4,Four,15,1,0,15,https://books.toscrape.com/catalogue/the-vacationers_863/index.html
+The Third Wave: An Entrepreneur’s Vision of the Future,Business,Business,12.61,2.6108048166633746,5,Five,15,1,0,54,https://books.toscrape.com/catalogue/the-third-wave-an-entrepreneurs-vision-of-the-future_862/index.html
+The Stranger,Philosophy,Philosophy,17.44,2.914522218128448,4,Four,15,1,0,12,https://books.toscrape.com/catalogue/the-stranger_861/index.html
+The Shadow Hero (The Shadow Hero),Sequential Art,Sequential Art,33.14,3.5304697173662944,1,One,15,1,0,33,https://books.toscrape.com/catalogue/the-shadow-hero-the-shadow-hero_860/index.html
+The Secret (The Secret #1),Default,Default,27.37,3.34533224882076,4,Four,15,1,0,26,https://books.toscrape.com/catalogue/the-secret-the-secret-1_859/index.html
+The Regional Office Is Under Attack!,Fiction,Fiction,51.36,3.9581429410416993,5,Five,15,1,0,36,https://books.toscrape.com/catalogue/the-regional-office-is-under-attack_858/index.html
+The Psychopath Test: A Journey Through the Madness Industry,Default,Default,36.0,3.6109179126442243,2,Two,15,1,0,59,https://books.toscrape.com/catalogue/the-psychopath-test-a-journey-through-the-madness-industry_857/index.html
+The Project,Science Fiction,Science Fiction,10.65,2.4553061800117097,1,One,15,1,0,11,https://books.toscrape.com/catalogue/the-project_856/index.html
+The Power of Now: A Guide to Spiritual Enlightenment,Nonfiction,Nonfiction,43.54,3.7963876618292214,2,Two,15,1,0,52,https://books.toscrape.com/catalogue/the-power-of-now-a-guide-to-spiritual-enlightenment_855/index.html
+The Omnivore's Dilemma: A Natural History of Four Meals,Nonfiction,Nonfiction,38.21,3.6689318163042404,2,Two,15,1,0,55,https://books.toscrape.com/catalogue/the-omnivores-dilemma-a-natural-history-of-four-meals_854/index.html
+The Nerdy Nummies Cookbook: Sweet Treats for the Geek in All of Us,Food and Drink,Food and Drink,37.34,3.6464937376174986,5,Five,15,1,0,66,https://books.toscrape.com/catalogue/the-nerdy-nummies-cookbook-sweet-treats-for-the-geek-in-all-of-us_853/index.html
+The Murder of Roger Ackroyd (Hercule Poirot #4),Mystery,Mystery,44.1,3.8088822465086327,4,Four,15,1,0,47,https://books.toscrape.com/catalogue/the-murder-of-roger-ackroyd-hercule-poirot-4_852/index.html
+The Mistake (Off-Campus #2),New Adult,Other,43.29,3.790758917935107,3,Three,15,1,0,27,https://books.toscrape.com/catalogue/the-mistake-off-campus-2_851/index.html
+The Matchmaker's Playbook (Wingmen Inc. #1),New Adult,Other,55.85,4.040416220196545,1,One,15,1,0,43,https://books.toscrape.com/catalogue/the-matchmakers-playbook-wingmen-inc-1_850/index.html
+The Love and Lemons Cookbook: An Apple-to-Zucchini Celebration of Impromptu Cooking,Food and Drink,Food and Drink,37.6,3.653252276470785,2,Two,15,1,0,83,https://books.toscrape.com/catalogue/the-love-and-lemons-cookbook-an-apple-to-zucchini-celebration-of-impromptu-cooking_849/index.html
+The Long Shadow of Small Ghosts: Murder and Memory in an American City,Crime,Other,10.97,2.482403519569882,1,One,15,1,0,70,https://books.toscrape.com/catalogue/the-long-shadow-of-small-ghosts-murder-and-memory-in-an-american-city_848/index.html
+The Kite Runner,Default,Default,41.82,3.757005283161537,4,Four,15,1,0,15,https://books.toscrape.com/catalogue/the-kite-runner_847/index.html
+The House by the Lake,Historical Fiction,Historical Fiction,36.95,3.636269503841639,1,One,15,1,0,21,https://books.toscrape.com/catalogue/the-house-by-the-lake_846/index.html
+The Glittering Court (The Glittering Court #1),Fantasy,Fantasy,44.28,3.8128654338949275,1,One,15,1,0,46,https://books.toscrape.com/catalogue/the-glittering-court-the-glittering-court-1_845/index.html
+The Girl on the Train,Default,Default,55.02,4.0257087698319625,2,Two,15,1,0,21,https://books.toscrape.com/catalogue/the-girl-on-the-train_844/index.html
+The Genius of Birds,Nonfiction,Nonfiction,17.24,2.9036169846461855,1,One,15,1,0,19,https://books.toscrape.com/catalogue/the-genius-of-birds_843/index.html
+The Emerald Mystery,Default,Default,23.15,3.184284380098582,2,Two,15,1,0,19,https://books.toscrape.com/catalogue/the-emerald-mystery_842/index.html
+The Cookies & Cups Cookbook: 125+ sweet & savory recipes reminding you to Always Eat Dessert First,Food and Drink,Food and Drink,41.25,3.7436043538031827,1,One,15,1,0,98,https://books.toscrape.com/catalogue/the-cookies-cups-cookbook-125-sweet-savory-recipes-reminding-you-to-always-eat-dessert-first_841/index.html
+The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.,Default,Default,32.0,3.4965075614664802,3,Three,15,1,0,96,https://books.toscrape.com/catalogue/the-bridge-to-consciousness-im-writing-the-bridge-between-science-and-our-old-and-new-beliefs_840/index.html
+The Artist's Way: A Spiritual Path to Higher Creativity,Nonfiction,Nonfiction,38.49,3.676047475298558,5,Five,15,1,0,55,https://books.toscrape.com/catalogue/the-artists-way-a-spiritual-path-to-higher-creativity_839/index.html
+The Art of War,Default,Default,33.34,3.5363108554693294,5,Five,15,1,0,14,https://books.toscrape.com/catalogue/the-art-of-war_838/index.html
+The Argonauts,Autobiography,Other,10.93,2.4790562361098245,2,Two,15,1,0,13,https://books.toscrape.com/catalogue/the-argonauts_837/index.html
+The 10% Entrepreneur: Live Your Startup Dream Without Quitting Your Day Job,Business,Business,27.55,3.351656936102019,3,Three,15,1,0,75,https://books.toscrape.com/catalogue/the-10-entrepreneur-live-your-startup-dream-without-quitting-your-day-job_836/index.html
+Suddenly in Love (Lake Haven #1),Romance,Romance,55.99,4.0428758138469085,2,Two,15,1,0,32,https://books.toscrape.com/catalogue/suddenly-in-love-lake-haven-1_835/index.html
+Something More Than This,Romance,Romance,16.24,2.847232265235547,4,Four,15,1,0,24,https://books.toscrape.com/catalogue/something-more-than-this_834/index.html
+Soft Apocalypse,Science Fiction,Science Fiction,26.12,3.3002714630721948,2,Two,15,1,0,15,https://books.toscrape.com/catalogue/soft-apocalypse_833/index.html
+So You've Been Publicly Shamed,Nonfiction,Nonfiction,12.23,2.5824869781268642,2,Two,15,1,0,30,https://books.toscrape.com/catalogue/so-youve-been-publicly-shamed_832/index.html
+Shoe Dog: A Memoir by the Creator of NIKE,Business,Business,23.99,3.218475744846861,2,Two,15,1,0,41,https://books.toscrape.com/catalogue/shoe-dog-a-memoir-by-the-creator-of-nike_831/index.html
+"Shobu Samurai, Project Aryoku (#3)",Add a comment,Add a comment,29.06,3.4031953843248286,3,Three,15,1,0,34,https://books.toscrape.com/catalogue/shobu-samurai-project-aryoku-3_830/index.html
+Secrets and Lace (Fatal Hearts #1),Default,Default,20.27,3.0572976292121457,1,One,15,1,0,34,https://books.toscrape.com/catalogue/secrets-and-lace-fatal-hearts-1_829/index.html
+Scarlett Epstein Hates It Here,Young Adult,Young Adult,43.55,3.796612153916818,5,Five,15,1,0,30,https://books.toscrape.com/catalogue/scarlett-epstein-hates-it-here_828/index.html
+Romero and Juliet: A Tragic Tale of Love and Zombies,Default,Default,36.94,3.636005964506868,1,One,15,1,0,52,https://books.toscrape.com/catalogue/romero-and-juliet-a-tragic-tale-of-love-and-zombies_827/index.html
+Redeeming Love,Christian Fiction,Other,20.47,3.0666566118906897,5,Five,15,1,0,14,https://books.toscrape.com/catalogue/redeeming-love_826/index.html
+Poses for Artists Volume 1 - Dynamic and Sitting Poses: An Essential Reference for Figure Drawing and the Human Form,Default,Default,41.06,3.7390971702745537,1,One,15,1,0,116,https://books.toscrape.com/catalogue/poses-for-artists-volume-1-dynamic-and-sitting-poses-an-essential-reference-for-figure-drawing-and-the-human-form_825/index.html
+Poems That Make Grown Women Cry,Poetry,Poetry,14.19,2.7206373166076814,4,Four,15,1,0,31,https://books.toscrape.com/catalogue/poems-that-make-grown-women-cry_824/index.html
+"Nightingale, Sing",Young Adult,Young Adult,38.28,3.670715483486265,1,One,15,1,0,17,https://books.toscrape.com/catalogue/nightingale-sing_823/index.html
+Night Sky with Exit Wounds,Poetry,Poetry,41.05,3.738859386418957,1,One,15,1,0,26,https://books.toscrape.com/catalogue/night-sky-with-exit-wounds_822/index.html
+Mrs. Houdini,Historical Fiction,Historical Fiction,30.25,3.4420193761824107,5,Five,15,1,0,12,https://books.toscrape.com/catalogue/mrs-houdini_821/index.html
+Modern Romance,Add a comment,Add a comment,28.26,3.3762213955919784,5,Five,15,1,0,14,https://books.toscrape.com/catalogue/modern-romance_820/index.html
+Miss Peregrine’s Home for Peculiar Children (Miss Peregrine’s Peculiar Children #1),Default,Default,10.76,2.464703942470481,1,One,15,1,0,83,https://books.toscrape.com/catalogue/miss-peregrines-home-for-peculiar-children-miss-peregrines-peculiar-children-1_819/index.html
+Louisa: The Extraordinary Life of Mrs. Adams,Biography,Other,16.85,2.8820035082256483,2,Two,15,1,0,44,https://books.toscrape.com/catalogue/louisa-the-extraordinary-life-of-mrs-adams_818/index.html
+Little Red,Childrens,Childrens,13.47,2.6720775406433925,3,Three,15,1,0,10,https://books.toscrape.com/catalogue/little-red_817/index.html
+Library of Souls (Miss Peregrine’s Peculiar Children #3),Young Adult,Young Adult,48.56,3.9031840567609417,5,Five,15,1,0,56,https://books.toscrape.com/catalogue/library-of-souls-miss-peregrines-peculiar-children-3_816/index.html
+Large Print Heart of the Pride,Default,Default,19.15,3.0032042883926917,2,Two,15,1,0,30,https://books.toscrape.com/catalogue/large-print-heart-of-the-pride_815/index.html
+I Had a Nice Time And Other Lies...: How to find love & sh*t like that,Womens Fiction,Womens Fiction,57.36,4.066630723654585,4,Four,15,1,0,70,https://books.toscrape.com/catalogue/i-had-a-nice-time-and-other-lies-how-to-find-love-sht-like-that_814/index.html
+Hollow City (Miss Peregrine’s Peculiar Children #2),Fantasy,Fantasy,42.98,3.783734985126615,1,One,15,1,0,51,https://books.toscrape.com/catalogue/hollow-city-miss-peregrines-peculiar-children-2_813/index.html
+Grumbles,Default,Default,22.16,3.1424266527047946,2,Two,15,1,0,8,https://books.toscrape.com/catalogue/grumbles_812/index.html
+Full Moon over Noah’s Ark: An Odyssey to Mount Ararat and Beyond,Travel,Travel,49.43,3.920586236088634,4,Four,15,1,0,64,https://books.toscrape.com/catalogue/full-moon-over-noahs-ark-an-odyssey-to-mount-ararat-and-beyond_811/index.html
+Frostbite (Vampire Academy #2),Young Adult,Young Adult,29.99,3.433664571799657,5,Five,15,1,0,30,https://books.toscrape.com/catalogue/frostbite-vampire-academy-2_810/index.html
+Follow You Home,Horror,Horror,21.36,3.1072736482868986,1,One,15,1,0,15,https://books.toscrape.com/catalogue/follow-you-home_809/index.html
+First Steps for New Christians (Print Edition),Default,Default,29.0,3.4011973816621555,1,One,15,1,0,46,https://books.toscrape.com/catalogue/first-steps-for-new-christians-print-edition_808/index.html
+Finders Keepers (Bill Hodges Trilogy #2),Fiction,Fiction,53.53,3.9987510089379703,5,Five,15,1,0,40,https://books.toscrape.com/catalogue/finders-keepers-bill-hodges-trilogy-2_807/index.html
+"Fables, Vol. 1: Legends in Exile (Fables #1)",Sequential Art,Sequential Art,41.62,3.752323626670471,4,Four,15,1,0,44,https://books.toscrape.com/catalogue/fables-vol-1-legends-in-exile-fables-1_806/index.html
+Eureka Trivia 6.0,Default,Default,54.59,4.018003328965378,4,Four,15,1,0,17,https://books.toscrape.com/catalogue/eureka-trivia-60_805/index.html
+Drive: The Surprising Truth About What Motivates Us,Default,Default,34.95,3.5821290841670557,4,Four,15,1,0,51,https://books.toscrape.com/catalogue/drive-the-surprising-truth-about-what-motivates-us_804/index.html
+Done Rubbed Out (Reightman & Bailey #1),Default,Default,37.72,3.656356262408376,5,Five,15,1,0,39,https://books.toscrape.com/catalogue/done-rubbed-out-reightman-bailey-1_803/index.html
+Doing It Over (Most Likely To #1),Romance,Romance,35.61,3.600321427132145,3,Three,15,1,0,33,https://books.toscrape.com/catalogue/doing-it-over-most-likely-to-1_802/index.html
+"Deliciously Ella Every Day: Quick and Easy Recipes for Gluten-Free Snacks, Packed Lunches, and Simple Meals",Food and Drink,Food and Drink,42.16,3.764914140389934,3,Three,15,1,0,107,https://books.toscrape.com/catalogue/deliciously-ella-every-day-quick-and-easy-recipes-for-gluten-free-snacks-packed-lunches-and-simple-meals_801/index.html
+Dark Notes,Erotica,Other,19.19,3.005187432324746,5,Five,15,1,0,10,https://books.toscrape.com/catalogue/dark-notes_800/index.html
+"Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead",Nonfiction,Nonfiction,19.43,3.0170044088295307,3,Three,15,1,0,99,https://books.toscrape.com/catalogue/daring-greatly-how-the-courage-to-be-vulnerable-transforms-the-way-we-live-love-parent-and-lead_799/index.html
+Close to You,Christian Fiction,Other,49.46,3.921180943212912,4,Four,15,1,0,12,https://books.toscrape.com/catalogue/close-to-you_798/index.html
+Chasing Heaven: What Dying Taught Me About Living,Spirituality,Other,37.8,3.6584202466292277,2,Two,15,1,0,49,https://books.toscrape.com/catalogue/chasing-heaven-what-dying-taught-me-about-living_797/index.html
+Big Magic: Creative Living Beyond Fear,Nonfiction,Nonfiction,30.8,3.459466289786131,3,Three,15,1,0,38,https://books.toscrape.com/catalogue/big-magic-creative-living-beyond-fear_796/index.html
+Becoming Wise: An Inquiry into the Mystery and Art of Living,Nonfiction,Nonfiction,27.43,3.3474449256629084,2,Two,15,1,0,60,https://books.toscrape.com/catalogue/becoming-wise-an-inquiry-into-the-mystery-and-art-of-living_795/index.html
+Beauty Restored (Riley Family Legacy Novellas #3),Default,Default,11.11,2.494031557565001,2,Two,15,1,0,49,https://books.toscrape.com/catalogue/beauty-restored-riley-family-legacy-novellas-3_794/index.html
+Batman: The Long Halloween (Batman),Sequential Art,Sequential Art,36.5,3.624340932976365,2,Two,15,1,0,35,https://books.toscrape.com/catalogue/batman-the-long-halloween-batman_793/index.html
+Batman: The Dark Knight Returns (Batman),Sequential Art,Sequential Art,15.38,2.7960610784249234,5,Five,15,1,0,40,https://books.toscrape.com/catalogue/batman-the-dark-knight-returns-batman_792/index.html
+Ayumi's Violin,Default,Default,15.48,2.8021475244813256,2,Two,15,1,0,14,https://books.toscrape.com/catalogue/ayumis-violin_791/index.html
+Anonymous,Default,Default,46.82,3.867443962030179,4,Four,15,1,0,9,https://books.toscrape.com/catalogue/anonymous_790/index.html
+Amy Meets the Saints and Sages,Default,Default,18.46,2.968361076757859,3,Three,15,1,0,30,https://books.toscrape.com/catalogue/amy-meets-the-saints-and-sages_789/index.html
+Amid the Chaos,Cultural,Other,36.58,3.6264719939853194,1,One,15,1,0,14,https://books.toscrape.com/catalogue/amid-the-chaos_788/index.html
+Amatus,Default,Default,50.54,3.942358205224219,5,Five,15,1,0,6,https://books.toscrape.com/catalogue/amatus_787/index.html
+Agnostic: A Spirited Manifesto,Nonfiction,Nonfiction,12.51,2.6034301519721073,5,Five,15,1,0,30,https://books.toscrape.com/catalogue/agnostic-a-spirited-manifesto_786/index.html
+Zealot: The Life and Times of Jesus of Nazareth,History,History,24.7,3.246490991901174,3,Three,14,1,0,47,https://books.toscrape.com/catalogue/zealot-the-life-and-times-of-jesus-of-nazareth_785/index.html
+You (You #1),Thriller,Thriller,43.61,3.797958049140173,5,Five,14,1,0,12,https://books.toscrape.com/catalogue/you-you-1_784/index.html
+"Wonder Woman: Earth One, Volume One (Wonder Woman: Earth One #1)",Sequential Art,Sequential Art,37.34,3.6464937376174986,4,Four,14,1,0,64,https://books.toscrape.com/catalogue/wonder-woman-earth-one-volume-one-wonder-woman-earth-one-1_783/index.html
+Wild Swans,Young Adult,Young Adult,14.36,2.731766727719526,2,Two,14,1,0,10,https://books.toscrape.com/catalogue/wild-swans_782/index.html
+Why the Right Went Wrong: Conservatism--From Goldwater to the Tea Party and Beyond,Politics,Other,52.65,3.9824814690767076,4,Four,14,1,0,82,https://books.toscrape.com/catalogue/why-the-right-went-wrong-conservatism-from-goldwater-to-the-tea-party-and-beyond_781/index.html
+Whole Lotta Creativity Going On: 60 Fun and Unusual Exercises to Awaken and Strengthen Your Creativity,Nonfiction,Nonfiction,38.2,3.6686767467964168,4,Four,14,1,0,102,https://books.toscrape.com/catalogue/whole-lotta-creativity-going-on-60-fun-and-unusual-exercises-to-awaken-and-strengthen-your-creativity_780/index.html
+What's It Like in Space?: Stories from Astronauts Who've Been There,Nonfiction,Nonfiction,19.6,3.0252910757955354,2,Two,14,1,0,67,https://books.toscrape.com/catalogue/whats-it-like-in-space-stories-from-astronauts-whove-been-there_779/index.html
+"We Are Robin, Vol. 1: The Vigilante Business (We Are Robin #1)",Sequential Art,Sequential Art,53.9,4.005513348515485,1,One,14,1,0,62,https://books.toscrape.com/catalogue/we-are-robin-vol-1-the-vigilante-business-we-are-robin-1_778/index.html
+Walt Disney's Alice in Wonderland,Childrens,Childrens,12.96,2.6361960973342264,5,Five,14,1,0,33,https://books.toscrape.com/catalogue/walt-disneys-alice-in-wonderland_777/index.html
+V for Vendetta (V for Vendetta Complete),Default,Default,37.1,3.6402142821326553,4,Four,14,1,0,40,https://books.toscrape.com/catalogue/v-for-vendetta-v-for-vendetta-complete_776/index.html
+Until Friday Night (The Field Party #1),Young Adult,Young Adult,46.31,3.8567216896430567,2,Two,14,1,0,39,https://books.toscrape.com/catalogue/until-friday-night-the-field-party-1_775/index.html
+"Unbroken: A World War II Story of Survival, Resilience, and Redemption",Default,Default,45.95,3.849083205654272,2,Two,14,1,0,70,https://books.toscrape.com/catalogue/unbroken-a-world-war-ii-story-of-survival-resilience-and-redemption_774/index.html
+Twenty Yawns,Childrens,Childrens,22.08,3.138966441639899,2,Two,14,1,0,12,https://books.toscrape.com/catalogue/twenty-yawns_773/index.html
+Through the Woods,Sequential Art,Sequential Art,25.38,3.2726061472891685,2,Two,14,1,0,17,https://books.toscrape.com/catalogue/through-the-woods_772/index.html
+This Is Where It Ends,Young Adult,Young Adult,27.12,3.336481066942464,2,Two,14,1,0,21,https://books.toscrape.com/catalogue/this-is-where-it-ends_771/index.html
+The Year of Magical Thinking,Nonfiction,Nonfiction,43.04,3.785098311854479,2,Two,14,1,0,28,https://books.toscrape.com/catalogue/the-year-of-magical-thinking_770/index.html
+The Wright Brothers,Default,Default,56.8,4.056988775678332,4,Four,14,1,0,19,https://books.toscrape.com/catalogue/the-wright-brothers_769/index.html
+The White Queen (The Cousins' War #1),Add a comment,Add a comment,25.91,3.2924979647388146,5,Five,14,1,0,37,https://books.toscrape.com/catalogue/the-white-queen-the-cousins-war-1_768/index.html
+The Wedding Pact (The O'Malleys #2),Romance,Romance,32.61,3.5148236417370144,3,Three,14,1,0,35,https://books.toscrape.com/catalogue/the-wedding-pact-the-omalleys-2_767/index.html
+The Time Keeper,Fiction,Fiction,27.88,3.3631493140246254,5,Five,14,1,0,15,https://books.toscrape.com/catalogue/the-time-keeper_766/index.html
+The Testament of Mary,Fiction,Fiction,52.67,3.9828541861887374,4,Four,14,1,0,21,https://books.toscrape.com/catalogue/the-testament-of-mary_765/index.html
+The Star-Touched Queen,Fantasy,Fantasy,46.02,3.8505730431119236,5,Five,14,1,0,22,https://books.toscrape.com/catalogue/the-star-touched-queen_764/index.html
+The Songs of the Gods,Default,Default,44.48,3.8172726688823353,5,Five,14,1,0,21,https://books.toscrape.com/catalogue/the-songs-of-the-gods_763/index.html
+The Song of Achilles,Add a comment,Add a comment,37.4,3.648057459593681,5,Five,14,1,0,20,https://books.toscrape.com/catalogue/the-song-of-achilles_762/index.html
+The Rosie Project (Don Tillman #1),Default,Default,54.04,4.008060193625088,1,One,14,1,0,34,https://books.toscrape.com/catalogue/the-rosie-project-don-tillman-1_761/index.html
+The Power of Habit: Why We Do What We Do in Life and Business,Default,Default,16.88,2.883682769745368,3,Three,14,1,0,61,https://books.toscrape.com/catalogue/the-power-of-habit-why-we-do-what-we-do-in-life-and-business_760/index.html
+The Marriage of Opposites,Historical Fiction,Historical Fiction,28.08,3.3700506526653187,4,Four,14,1,0,25,https://books.toscrape.com/catalogue/the-marriage-of-opposites_759/index.html
+The Lucifer Effect: Understanding How Good People Turn Evil,Psychology,Other,10.4,2.4336133554004498,1,One,14,1,0,59,https://books.toscrape.com/catalogue/the-lucifer-effect-understanding-how-good-people-turn-evil_758/index.html
+The Long Haul (Diary of a Wimpy Kid #9),Humor,Humor,44.07,3.808216836702557,1,One,14,1,0,39,https://books.toscrape.com/catalogue/the-long-haul-diary-of-a-wimpy-kid-9_757/index.html
+The Loney,Horror,Horror,23.4,3.1945831322991562,1,One,14,1,0,9,https://books.toscrape.com/catalogue/the-loney_756/index.html
+The Literature Book (Big Ideas Simply Explained),Nonfiction,Nonfiction,17.43,2.9139797716817317,3,Three,14,1,0,48,https://books.toscrape.com/catalogue/the-literature-book-big-ideas-simply-explained_755/index.html
+The Last Mile (Amos Decker #2),Mystery,Mystery,54.21,4.011144096295953,2,Two,14,1,0,30,https://books.toscrape.com/catalogue/the-last-mile-amos-decker-2_754/index.html
+The Immortal Life of Henrietta Lacks,Add a comment,Add a comment,40.67,3.7297814454343623,2,Two,14,1,0,36,https://books.toscrape.com/catalogue/the-immortal-life-of-henrietta-lacks_753/index.html
+The Hidden Oracle (The Trials of Apollo #1),Fantasy,Fantasy,52.26,3.9751855803857863,2,Two,14,1,0,43,https://books.toscrape.com/catalogue/the-hidden-oracle-the-trials-of-apollo-1_752/index.html
+The Help Yourself Cookbook for Kids: 60 Easy Plant-Based Recipes Kids Can Make to Stay Healthy and Save the Earth,Food and Drink,Food and Drink,28.77,3.393501175027685,3,Three,14,1,0,113,https://books.toscrape.com/catalogue/the-help-yourself-cookbook-for-kids-60-easy-plant-based-recipes-kids-can-make-to-stay-healthy-and-save-the-earth_751/index.html
+The Guilty (Will Robie #4),Thriller,Thriller,13.82,2.695977619867941,2,Two,14,1,0,26,https://books.toscrape.com/catalogue/the-guilty-will-robie-4_750/index.html
+The First Hostage (J.B. Collins #2),Fiction,Fiction,25.85,3.2902658209548736,3,Three,14,1,0,35,https://books.toscrape.com/catalogue/the-first-hostage-jb-collins-2_749/index.html
+The Dovekeepers,Add a comment,Add a comment,48.78,3.907613296939446,1,One,14,1,0,15,https://books.toscrape.com/catalogue/the-dovekeepers_748/index.html
+The Darkest Lie,Young Adult,Young Adult,35.35,3.5931942039795284,5,Five,14,1,0,15,https://books.toscrape.com/catalogue/the-darkest-lie_747/index.html
+The Bane Chronicles (The Bane Chronicles #1-11),Fantasy,Fantasy,44.73,3.822754537669964,4,Four,14,1,0,47,https://books.toscrape.com/catalogue/the-bane-chronicles-the-bane-chronicles-1-11_746/index.html
+The Bad-Ass Librarians of Timbuktu: And Their Race to Save the World’s Most Precious Manuscripts,Nonfiction,Nonfiction,15.77,2.8195915758351173,1,One,14,1,0,96,https://books.toscrape.com/catalogue/the-bad-ass-librarians-of-timbuktu-and-their-race-to-save-the-worlds-most-precious-manuscripts_745/index.html
+The 14th Colony (Cotton Malone #11),Thriller,Thriller,39.24,3.6948615257914836,1,One,14,1,0,35,https://books.toscrape.com/catalogue/the-14th-colony-cotton-malone-11_744/index.html
+That Darkness (Gardiner and Renner #1),Mystery,Mystery,13.92,2.702702594775615,1,One,14,1,0,38,https://books.toscrape.com/catalogue/that-darkness-gardiner-and-renner-1_743/index.html
+Tastes Like Fear (DI Marnie Rome #3),Mystery,Mystery,10.69,2.458733775483977,1,One,14,1,0,36,https://books.toscrape.com/catalogue/tastes-like-fear-di-marnie-rome-3_742/index.html
+Take Me with You,Fiction,Fiction,45.21,3.833196224882175,3,Three,14,1,0,16,https://books.toscrape.com/catalogue/take-me-with-you_741/index.html
+Swell: A Year of Waves,Nonfiction,Nonfiction,45.58,3.841171264456195,1,One,14,1,0,22,https://books.toscrape.com/catalogue/swell-a-year-of-waves_740/index.html
+Superman Vol. 1: Before Truth (Superman by Gene Luen Yang #1),Sequential Art,Sequential Art,11.89,2.556451816951096,5,Five,14,1,0,61,https://books.toscrape.com/catalogue/superman-vol-1-before-truth-superman-by-gene-luen-yang-1_739/index.html
+Still Life with Bread Crumbs,Fiction,Fiction,26.41,3.3109079103146946,3,Three,14,1,0,28,https://books.toscrape.com/catalogue/still-life-with-bread-crumbs_738/index.html
+Steve Jobs,Default,Default,39.5,3.7013019741124933,5,Five,14,1,0,10,https://books.toscrape.com/catalogue/steve-jobs_737/index.html
+Sorting the Beef from the Bull: The Science of Food Fraud Forensics,Science,Science,44.74,3.822973188594635,4,Four,14,1,0,67,https://books.toscrape.com/catalogue/sorting-the-beef-from-the-bull-the-science-of-food-fraud-forensics_736/index.html
+Someone Like You (The Harrisons #2),Contemporary,Other,52.79,3.985087576285151,5,Five,14,1,0,35,https://books.toscrape.com/catalogue/someone-like-you-the-harrisons-2_735/index.html
+"So Cute It Hurts!!, Vol. 6 (So Cute It Hurts!! #6)",Sequential Art,Sequential Art,35.43,3.5953926110204724,4,Four,14,1,0,50,https://books.toscrape.com/catalogue/so-cute-it-hurts-vol-6-so-cute-it-hurts-6_734/index.html
+Shtum,Fiction,Fiction,55.84,4.0402403032289,4,Four,14,1,0,5,https://books.toscrape.com/catalogue/shtum_733/index.html
+See America: A Celebration of Our National Parks & Treasured Sites,Travel,Travel,48.87,3.9094196195580313,3,Three,14,1,0,66,https://books.toscrape.com/catalogue/see-america-a-celebration-of-our-national-parks-treasured-sites_732/index.html
+salt.,Poetry,Poetry,46.78,3.8666071418976635,4,Four,14,1,0,5,https://books.toscrape.com/catalogue/salt_731/index.html
+Robin War,Sequential Art,Sequential Art,47.82,3.888140064964814,3,Three,14,1,0,9,https://books.toscrape.com/catalogue/robin-war_730/index.html
+"Red Hood/Arsenal, Vol. 1: Open for Business (Red Hood/Arsenal #1)",Sequential Art,Sequential Art,25.48,3.2763897310688073,2,Two,14,1,0,65,https://books.toscrape.com/catalogue/red-hoodarsenal-vol-1-open-for-business-red-hoodarsenal-1_729/index.html
+Rain Fish,Childrens,Childrens,23.57,3.201526186533088,3,Three,14,1,0,9,https://books.toscrape.com/catalogue/rain-fish_728/index.html
+"Quarter Life Poetry: Poems for the Young, Broke and Hangry",Poetry,Poetry,50.89,3.949126093379648,5,Five,14,1,0,58,https://books.toscrape.com/catalogue/quarter-life-poetry-poems-for-the-young-broke-and-hangry_727/index.html
+Pet Sematary,Horror,Horror,10.56,2.4475508632442313,3,Three,14,1,0,12,https://books.toscrape.com/catalogue/pet-sematary_726/index.html
+"Overload: How to Unplug, Unwind, and Unleash Yourself from the Pressure of Stress",Self Help,Other,52.15,3.973118104787957,3,Three,14,1,0,81,https://books.toscrape.com/catalogue/overload-how-to-unplug-unwind-and-unleash-yourself-from-the-pressure-of-stress_725/index.html
+Once Was a Time,Childrens,Childrens,18.28,2.9590682891823996,2,Two,14,1,0,15,https://books.toscrape.com/catalogue/once-was-a-time_724/index.html
+Old School (Diary of a Wimpy Kid #10),Humor,Humor,11.83,2.551786178627545,5,Five,14,1,0,37,https://books.toscrape.com/catalogue/old-school-diary-of-a-wimpy-kid-10_723/index.html
+No Dream Is Too High: Life Lessons From a Man Who Walked on the Moon,Nonfiction,Nonfiction,21.95,3.133317936506554,2,Two,14,1,0,68,https://books.toscrape.com/catalogue/no-dream-is-too-high-life-lessons-from-a-man-who-walked-on-the-moon_722/index.html
+"Naruto (3-in-1 Edition), Vol. 14: Includes Vols. 40, 41 & 42 (Naruto: Omnibus #14)",Sequential Art,Sequential Art,38.39,3.6735119769828146,2,Two,14,1,0,82,https://books.toscrape.com/catalogue/naruto-3-in-1-edition-vol-14-includes-vols-40-41-42-naruto-omnibus-14_721/index.html
+My Name Is Lucy Barton,Fiction,Fiction,41.56,3.750914845033389,1,One,14,1,0,22,https://books.toscrape.com/catalogue/my-name-is-lucy-barton_720/index.html
+My Mrs. Brown,Fiction,Fiction,24.48,3.2378938307039626,3,Three,14,1,0,13,https://books.toscrape.com/catalogue/my-mrs-brown_719/index.html
+My Kind of Crazy,Young Adult,Young Adult,40.36,3.7223142302001735,1,One,14,1,0,16,https://books.toscrape.com/catalogue/my-kind-of-crazy_718/index.html
+Mr. Mercedes (Bill Hodges Trilogy #1),Fiction,Fiction,28.9,3.3978584803966405,1,One,14,1,0,37,https://books.toscrape.com/catalogue/mr-mercedes-bill-hodges-trilogy-1_717/index.html
+More Than Music (Chasing the Dream #1),Add a comment,Add a comment,37.61,3.653511310276145,2,Two,14,1,0,38,https://books.toscrape.com/catalogue/more-than-music-chasing-the-dream-1_716/index.html
+Made to Stick: Why Some Ideas Survive and Others Die,Business,Business,38.85,3.685122405236224,5,Five,14,1,0,52,https://books.toscrape.com/catalogue/made-to-stick-why-some-ideas-survive-and-others-die_715/index.html
+Luis Paints the World,Childrens,Childrens,53.95,4.006423680849631,3,Three,14,1,0,21,https://books.toscrape.com/catalogue/luis-paints-the-world_714/index.html
+Luckiest Girl Alive,Default,Default,49.83,3.928486731458811,3,Three,14,1,0,19,https://books.toscrape.com/catalogue/luckiest-girl-alive_713/index.html
+Lowriders to the Center of the Earth (Lowriders in Space #2),Sequential Art,Sequential Art,51.51,3.961003627649768,2,Two,14,1,0,60,https://books.toscrape.com/catalogue/lowriders-to-the-center-of-the-earth-lowriders-in-space-2_712/index.html
+Love Is a Mix Tape (Music #1),Music,Music,18.03,2.946016681308058,1,One,14,1,0,29,https://books.toscrape.com/catalogue/love-is-a-mix-tape-music-1_711/index.html
+Looking for Lovely: Collecting the Moments that Matter,Nonfiction,Nonfiction,29.14,3.4058531931983493,5,Five,14,1,0,54,https://books.toscrape.com/catalogue/looking-for-lovely-collecting-the-moments-that-matter_710/index.html
+"Living Leadership by Insight: A Good Leader Achieves, a Great Leader Builds Monuments",Default,Default,46.91,3.8693242508950307,4,Four,14,1,0,85,https://books.toscrape.com/catalogue/living-leadership-by-insight-a-good-leader-achieves-a-great-leader-builds-monuments_709/index.html
+Let It Out: A Journey Through Journaling,Nonfiction,Nonfiction,26.79,3.3246762437544124,5,Five,14,1,0,40,https://books.toscrape.com/catalogue/let-it-out-a-journey-through-journaling_708/index.html
+Lady Midnight (The Dark Artifices #1),Default,Default,16.28,2.8495497633759097,5,Five,14,1,0,37,https://books.toscrape.com/catalogue/lady-midnight-the-dark-artifices-1_707/index.html
+"It's All Easy: Healthy, Delicious Weeknight Meals in under 30 Minutes",Food and Drink,Food and Drink,19.55,3.022860940942244,1,One,14,1,0,69,https://books.toscrape.com/catalogue/its-all-easy-healthy-delicious-weeknight-meals-in-under-30-minutes_706/index.html
+Island of Dragons (Unwanteds #7),Fantasy,Fantasy,29.65,3.4226326623822203,1,One,14,1,0,32,https://books.toscrape.com/catalogue/island-of-dragons-unwanteds-7_705/index.html
+I Know What I'm Doing -- and Other Lies I Tell Myself: Dispatches from a Life Under Construction,Humor,Humor,25.98,3.2950958507796098,4,Four,14,1,0,96,https://books.toscrape.com/catalogue/i-know-what-im-doing-and-other-lies-i-tell-myself-dispatches-from-a-life-under-construction_704/index.html
+I Am Pilgrim (Pilgrim #1),Fiction,Fiction,10.6,2.451005098112319,4,Four,14,1,0,25,https://books.toscrape.com/catalogue/i-am-pilgrim-pilgrim-1_703/index.html
+"Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened",Humor,Humor,14.75,2.7568403652716422,5,Five,14,1,0,110,https://books.toscrape.com/catalogue/hyperbole-and-a-half-unfortunate-situations-flawed-coping-mechanisms-mayhem-and-other-things-that-happened_702/index.html
+"Hush, Hush (Hush, Hush #1)",Default,Default,47.02,3.8716175907931074,3,Three,14,1,0,26,https://books.toscrape.com/catalogue/hush-hush-hush-hush-1_701/index.html
+Hold Your Breath (Search and Rescue #1),Romance,Romance,28.82,3.3951793093365925,1,One,14,1,0,39,https://books.toscrape.com/catalogue/hold-your-breath-search-and-rescue-1_700/index.html
+Hamilton: The Revolution,Nonfiction,Nonfiction,58.79,4.090838422892813,3,Three,14,1,0,24,https://books.toscrape.com/catalogue/hamilton-the-revolution_699/index.html
+Greek Mythic History,Default,Default,10.23,2.418588768750352,5,Five,14,1,0,20,https://books.toscrape.com/catalogue/greek-mythic-history_698/index.html
+God: The Most Unpleasant Character in All Fiction,Religion,Other,30.03,3.434954478460289,5,Five,14,1,0,49,https://books.toscrape.com/catalogue/god-the-most-unpleasant-character-in-all-fiction_697/index.html
+Glory over Everything: Beyond The Kitchen House,Historical Fiction,Historical Fiction,45.84,3.8467375387295166,3,Three,14,1,0,47,https://books.toscrape.com/catalogue/glory-over-everything-beyond-the-kitchen-house_696/index.html
+Feathers: Displays of Brilliant Plumage,Art,Other,49.05,3.9130225057612296,3,Three,14,1,0,39,https://books.toscrape.com/catalogue/feathers-displays-of-brilliant-plumage_695/index.html
+"Far & Away: Places on the Brink of Change: Seven Continents, Twenty-Five Years",Nonfiction,Nonfiction,15.06,2.7763317085186157,4,Four,14,1,0,78,https://books.toscrape.com/catalogue/far-away-places-on-the-brink-of-change-seven-continents-twenty-five-years_694/index.html
+Every Last Word,Default,Default,46.47,3.8600979325632268,3,Three,14,1,0,15,https://books.toscrape.com/catalogue/every-last-word_693/index.html
+Eligible (The Austen Project #4),Fiction,Fiction,27.09,3.335413641116152,3,Three,14,1,0,32,https://books.toscrape.com/catalogue/eligible-the-austen-project-4_692/index.html
+El Deafo,Sequential Art,Sequential Art,57.62,4.071075935282746,5,Five,14,1,0,8,https://books.toscrape.com/catalogue/el-deafo_691/index.html
+Eight Hundred Grapes,Fiction,Fiction,14.39,2.733717947850788,4,Four,14,1,0,20,https://books.toscrape.com/catalogue/eight-hundred-grapes_690/index.html
+"Eaternity: More than 150 Deliciously Easy Vegan Recipes for a Long, Healthy, Satisfied, Joyful Life",Nonfiction,Nonfiction,51.75,3.965563772356176,5,Five,14,1,0,99,https://books.toscrape.com/catalogue/eaternity-more-than-150-deliciously-easy-vegan-recipes-for-a-long-healthy-satisfied-joyful-life_689/index.html
+"Eat Fat, Get Thin",Health,Other,54.07,4.00860510327439,2,Two,14,1,0,17,https://books.toscrape.com/catalogue/eat-fat-get-thin_688/index.html
+Don't Get Caught,Young Adult,Young Adult,55.35,4.031582240485785,1,One,14,1,0,16,https://books.toscrape.com/catalogue/dont-get-caught_687/index.html
+Doctor Sleep (The Shining #2),Horror,Horror,40.12,3.7164946211469094,2,Two,14,1,0,29,https://books.toscrape.com/catalogue/doctor-sleep-the-shining-2_686/index.html
+Demigods & Magicians: Percy and Annabeth Meet the Kanes (Percy Jackson & Kane Chronicles Crossover #1-3),Fantasy,Fantasy,37.51,3.6509179478268177,5,Five,14,1,0,104,https://books.toscrape.com/catalogue/demigods-magicians-percy-and-annabeth-meet-the-kanes-percy-jackson-kane-chronicles-crossover-1-3_685/index.html
+Dear Mr. Knightley,Fiction,Fiction,11.21,2.502255288122613,5,Five,14,1,0,18,https://books.toscrape.com/catalogue/dear-mr-knightley_684/index.html
+Daily Fantasy Sports,Default,Default,36.58,3.6264719939853194,1,One,14,1,0,20,https://books.toscrape.com/catalogue/daily-fantasy-sports_683/index.html
+Crazy Love: Overwhelmed by a Relentless God,Christian,Other,47.72,3.8860896234016415,2,Two,14,1,0,43,https://books.toscrape.com/catalogue/crazy-love-overwhelmed-by-a-relentless-god_682/index.html
+Cometh the Hour (The Clifton Chronicles #6),Fiction,Fiction,25.01,3.25848107946056,3,Three,14,1,0,43,https://books.toscrape.com/catalogue/cometh-the-hour-the-clifton-chronicles-6_681/index.html
+Code Name Verity (Code Name Verity #1),Add a comment,Add a comment,22.13,3.141130476243348,4,Four,14,1,0,38,https://books.toscrape.com/catalogue/code-name-verity-code-name-verity-1_680/index.html
+Clockwork Angel (The Infernal Devices #1),Default,Default,44.14,3.8097687713893897,1,One,14,1,0,41,https://books.toscrape.com/catalogue/clockwork-angel-the-infernal-devices-1_679/index.html
+City of Glass (The Mortal Instruments #3),Fantasy,Fantasy,56.02,4.043402083484526,4,Four,14,1,0,41,https://books.toscrape.com/catalogue/city-of-glass-the-mortal-instruments-3_678/index.html
+City of Fallen Angels (The Mortal Instruments #4),Default,Default,11.23,2.503891949699081,4,Four,14,1,0,49,https://books.toscrape.com/catalogue/city-of-fallen-angels-the-mortal-instruments-4_677/index.html
+City of Bones (The Mortal Instruments #1),Default,Default,43.28,3.790533107840436,1,One,14,1,0,41,https://books.toscrape.com/catalogue/city-of-bones-the-mortal-instruments-1_676/index.html
+City of Ashes (The Mortal Instruments #2),Default,Default,47.27,3.8768102496724017,1,One,14,1,0,41,https://books.toscrape.com/catalogue/city-of-ashes-the-mortal-instruments-2_675/index.html
+Cell,Add a comment,Add a comment,20.29,3.058237478905388,4,Four,14,1,0,4,https://books.toscrape.com/catalogue/cell_674/index.html
+Catching Jordan (Hundred Oaks),Young Adult,Young Adult,50.83,3.947969132201615,3,Three,14,1,0,30,https://books.toscrape.com/catalogue/catching-jordan-hundred-oaks_673/index.html
+"Carry On, Warrior: Thoughts on Life Unarmed",Default,Default,31.85,3.4919517449306197,3,Three,14,1,0,43,https://books.toscrape.com/catalogue/carry-on-warrior-thoughts-on-life-unarmed_672/index.html
+Carrie,Default,Default,46.23,3.8550292839080256,2,Two,14,1,0,6,https://books.toscrape.com/catalogue/carrie_671/index.html
+Buying In: The Secret Dialogue Between What We Buy and Who We Are,Nonfiction,Nonfiction,37.8,3.6584202466292277,4,Four,14,1,0,65,https://books.toscrape.com/catalogue/buying-in-the-secret-dialogue-between-what-we-buy-and-who-we-are_670/index.html
+Brain on Fire: My Month of Madness,Nonfiction,Nonfiction,49.32,3.918402612392185,5,Five,14,1,0,34,https://books.toscrape.com/catalogue/brain-on-fire-my-month-of-madness_669/index.html
+Batman: Europa,Sequential Art,Sequential Art,32.01,3.4968105458651015,2,Two,14,1,0,14,https://books.toscrape.com/catalogue/batman-europa_668/index.html
+Barefoot Contessa Back to Basics,Food and Drink,Food and Drink,28.01,3.367640598133313,1,One,14,1,0,32,https://books.toscrape.com/catalogue/barefoot-contessa-back-to-basics_667/index.html
+Barefoot Contessa at Home: Everyday Recipes You'll Make Over and Over Again,Food and Drink,Food and Drink,50.62,3.943909194290468,5,Five,14,1,0,75,https://books.toscrape.com/catalogue/barefoot-contessa-at-home-everyday-recipes-youll-make-over-and-over-again_666/index.html
+Balloon Animals,Fiction,Fiction,17.03,2.8920370372152258,3,Three,14,1,0,15,https://books.toscrape.com/catalogue/balloon-animals_665/index.html
+Art Ops Vol. 1,Sequential Art,Sequential Art,48.8,3.9080149840306073,3,Three,14,1,0,14,https://books.toscrape.com/catalogue/art-ops-vol-1_664/index.html
+Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante Discover the Secrets of the Universe #1),Young Adult,Young Adult,58.14,4.079907514424331,4,Four,14,1,0,118,https://books.toscrape.com/catalogue/aristotle-and-dante-discover-the-secrets-of-the-universe-aristotle-and-dante-discover-the-secrets-of-the-universe-1_663/index.html
+Angels Walking (Angels Walking #1),Add a comment,Add a comment,34.2,3.5610460826040513,2,Two,14,1,0,34,https://books.toscrape.com/catalogue/angels-walking-angels-walking-1_662/index.html
+Angels & Demons (Robert Langdon #1),Default,Default,51.48,3.9604321446358335,3,Three,14,1,0,35,https://books.toscrape.com/catalogue/angels-demons-robert-langdon-1_661/index.html
+All the Light We Cannot See,Historical,Other,29.87,3.429784838514068,5,Five,14,1,0,27,https://books.toscrape.com/catalogue/all-the-light-we-cannot-see_660/index.html
+"Adulthood Is a Myth: A ""Sarah's Scribbles"" Collection",Sequential Art,Sequential Art,10.9,2.4765384001174837,2,Two,14,1,0,53,https://books.toscrape.com/catalogue/adulthood-is-a-myth-a-sarahs-scribbles-collection_659/index.html
+Abstract City,Nonfiction,Nonfiction,56.37,4.04952151861378,5,Five,14,1,0,13,https://books.toscrape.com/catalogue/abstract-city_658/index.html
+A Time of Torment (Charlie Parker #14),Mystery,Mystery,48.35,3.8989377658794906,5,Five,14,1,0,38,https://books.toscrape.com/catalogue/a-time-of-torment-charlie-parker-14_657/index.html
+A Study in Scarlet (Sherlock Holmes #1),Mystery,Mystery,16.73,2.8752581200861167,2,Two,14,1,0,39,https://books.toscrape.com/catalogue/a-study-in-scarlet-sherlock-holmes-1_656/index.html
+"A Series of Catastrophes and Miracles: A True Story of Love, Science, and Cancer",Add a comment,Add a comment,56.48,4.051437061210824,2,Two,14,1,0,80,https://books.toscrape.com/catalogue/a-series-of-catastrophes-and-miracles-a-true-story-of-love-science-and-cancer_655/index.html
+A People's History of the United States,Add a comment,Add a comment,40.79,3.732657076459824,2,Two,14,1,0,39,https://books.toscrape.com/catalogue/a-peoples-history-of-the-united-states_654/index.html
+A Man Called Ove,Fiction,Fiction,39.72,3.7067193722422673,1,One,14,1,0,16,https://books.toscrape.com/catalogue/a-man-called-ove_653/index.html
+A Distant Mirror: The Calamitous 14th Century,History,History,14.58,2.7459880404426023,3,Three,14,1,0,45,https://books.toscrape.com/catalogue/a-distant-mirror-the-calamitous-14th-century_652/index.html
+A Brush of Wings (Angels Walking #3),Add a comment,Add a comment,55.51,4.034417613641752,1,One,14,1,0,36,https://books.toscrape.com/catalogue/a-brush-of-wings-angels-walking-3_651/index.html
+1491: New Revelations of the Americas Before Columbus,History,History,21.8,3.126760535960395,3,Three,14,1,0,53,https://books.toscrape.com/catalogue/1491-new-revelations-of-the-americas-before-columbus_650/index.html
+"The Three Searches, Meaning, and the Story",Default,Default,13.33,2.6623552418400807,3,Three,13,1,0,42,https://books.toscrape.com/catalogue/the-three-searches-meaning-and-the-story_649/index.html
+Searching for Meaning in Gailana,Fantasy,Fantasy,38.73,3.6821065698265074,1,One,13,1,0,32,https://books.toscrape.com/catalogue/searching-for-meaning-in-gailana_648/index.html
+Rook,Add a comment,Add a comment,37.86,3.659965443949294,4,Four,13,1,0,4,https://books.toscrape.com/catalogue/rook_647/index.html
+My Kitchen Year: 136 Recipes That Saved My Life,Food and Drink,Food and Drink,11.53,2.528125768907977,2,Two,13,1,0,47,https://books.toscrape.com/catalogue/my-kitchen-year-136-recipes-that-saved-my-life_646/index.html
+13 Hours: The Inside Account of What Really Happened In Benghazi,Nonfiction,Nonfiction,27.06,3.3343450746743146,1,One,13,1,0,64,https://books.toscrape.com/catalogue/13-hours-the-inside-account-of-what-really-happened-in-benghazi_645/index.html
+Will You Won't You Want Me?,Womens Fiction,Womens Fiction,13.86,2.698673039289613,3,Three,12,1,0,27,https://books.toscrape.com/catalogue/will-you-wont-you-want-me_644/index.html
+Tipping Point for Planet Earth: How Close Are We to the Edge?,Science,Science,37.55,3.6519561000093383,1,One,12,1,0,61,https://books.toscrape.com/catalogue/tipping-point-for-planet-earth-how-close-are-we-to-the-edge_643/index.html
+The Star-Touched Queen,Fantasy,Fantasy,32.3,3.505557396986398,5,Five,12,1,0,22,https://books.toscrape.com/catalogue/the-star-touched-queen_642/index.html
+The Silent Sister (Riley MacPherson #1),Fiction,Fiction,46.29,3.8562988566557843,5,Five,12,1,0,39,https://books.toscrape.com/catalogue/the-silent-sister-riley-macpherson-1_641/index.html
+The Midnight Watch: A Novel of the Titanic and the Californian,Add a comment,Add a comment,26.2,3.3032169733019514,1,One,12,1,0,62,https://books.toscrape.com/catalogue/the-midnight-watch-a-novel-of-the-titanic-and-the-californian_640/index.html
+The Lonely City: Adventures in the Art of Being Alone,Nonfiction,Nonfiction,33.26,3.5339784928959737,2,Two,12,1,0,53,https://books.toscrape.com/catalogue/the-lonely-city-adventures-in-the-art-of-being-alone_639/index.html
+The Gray Rhino: How to Recognize and Act on the Obvious Dangers We Ignore,Add a comment,Add a comment,59.15,4.096841442420688,4,Four,12,1,0,73,https://books.toscrape.com/catalogue/the-gray-rhino-how-to-recognize-and-act-on-the-obvious-dangers-we-ignore_638/index.html
+The Golden Condom: And Other Essays on Love Lost and Found,Psychology,Other,39.43,3.6995720836526793,1,One,12,1,0,58,https://books.toscrape.com/catalogue/the-golden-condom-and-other-essays-on-love-lost-and-found_637/index.html
+The Epidemic (The Program 0.6),Young Adult,Young Adult,14.44,2.73696154459663,5,Five,12,1,0,30,https://books.toscrape.com/catalogue/the-epidemic-the-program-06_636/index.html
+The Dinner Party,Fiction,Fiction,56.54,4.052480358123402,2,Two,12,1,0,16,https://books.toscrape.com/catalogue/the-dinner-party_635/index.html
+The Diary of a Young Girl,Nonfiction,Nonfiction,59.9,4.109233174715851,3,Three,12,1,0,25,https://books.toscrape.com/catalogue/the-diary-of-a-young-girl_634/index.html
+The Children,Add a comment,Add a comment,11.88,2.5556757206762075,3,Three,12,1,0,12,https://books.toscrape.com/catalogue/the-children_633/index.html
+Stars Above (The Lunar Chronicles #4.5),Young Adult,Young Adult,48.05,3.892840186011372,2,Two,12,1,0,39,https://books.toscrape.com/catalogue/stars-above-the-lunar-chronicles-45_632/index.html
+Snatched: How A Drug Queen Went Undercover for the DEA and Was Kidnapped By Colombian Guerillas,Nonfiction,Nonfiction,21.21,3.100542637906336,3,Three,12,1,0,95,https://books.toscrape.com/catalogue/snatched-how-a-drug-queen-went-undercover-for-the-dea-and-was-kidnapped-by-colombian-guerillas_631/index.html
+Raspberry Pi Electronics Projects for the Evil Genius,Default,Default,49.67,3.9253340194878183,4,Four,12,1,0,53,https://books.toscrape.com/catalogue/raspberry-pi-electronics-projects-for-the-evil-genius_630/index.html
+Quench Your Own Thirst: Business Lessons Learned Over a Beer or Two,Business,Business,43.14,3.7873664008285903,1,One,12,1,0,67,https://books.toscrape.com/catalogue/quench-your-own-thirst-business-lessons-learned-over-a-beer-or-two_629/index.html
+Psycho: Sanitarium (Psycho #1.5),Horror,Horror,36.97,3.636796374243711,5,Five,12,1,0,32,https://books.toscrape.com/catalogue/psycho-sanitarium-psycho-15_628/index.html
+Poisonous (Max Revere Novels #3),Mystery,Mystery,26.8,3.3250360206965914,3,Three,12,1,0,32,https://books.toscrape.com/catalogue/poisonous-max-revere-novels-3_627/index.html
+One with You (Crossfire #5),Add a comment,Add a comment,15.71,2.8160073426073025,4,Four,12,1,0,27,https://books.toscrape.com/catalogue/one-with-you-crossfire-5_626/index.html
+No Love Allowed (Dodge Cove #1),Young Adult,Young Adult,54.65,4.019082077721554,4,Four,12,1,0,31,https://books.toscrape.com/catalogue/no-love-allowed-dodge-cove-1_625/index.html
+Murder at the 42nd Street Library (Raymond Ambler #1),Mystery,Mystery,54.36,4.0138573113094145,4,Four,12,1,0,53,https://books.toscrape.com/catalogue/murder-at-the-42nd-street-library-raymond-ambler-1_624/index.html
+Most Wanted,Mystery,Mystery,35.28,3.591266625246936,3,Three,12,1,0,11,https://books.toscrape.com/catalogue/most-wanted_623/index.html
+"Love, Lies and Spies",Historical Fiction,Historical Fiction,20.55,3.070375816549757,2,Two,12,1,0,20,https://books.toscrape.com/catalogue/love-lies-and-spies_622/index.html
+How to Speak Golf: An Illustrated Guide to Links Lingo,Default,Default,58.32,4.082946517269732,5,Five,12,1,0,54,https://books.toscrape.com/catalogue/how-to-speak-golf-an-illustrated-guide-to-links-lingo_621/index.html
+Hide Away (Eve Duncan #20),Mystery,Mystery,11.84,2.552565298261815,1,One,12,1,0,26,https://books.toscrape.com/catalogue/hide-away-eve-duncan-20_620/index.html
+Furiously Happy: A Funny Book About Horrible Things,Nonfiction,Nonfiction,41.46,3.74856245627511,4,Four,12,1,0,51,https://books.toscrape.com/catalogue/furiously-happy-a-funny-book-about-horrible-things_619/index.html
+Everyday Italian: 125 Simple and Delicious Recipes,Food and Drink,Food and Drink,20.1,3.0492730404820207,5,Five,12,1,0,50,https://books.toscrape.com/catalogue/everyday-italian-125-simple-and-delicious-recipes_618/index.html
+Equal Is Unfair: America's Misguided Fight Against Income Inequality,Politics,Other,56.86,4.058026299547989,1,One,12,1,0,68,https://books.toscrape.com/catalogue/equal-is-unfair-americas-misguided-fight-against-income-inequality_617/index.html
+Eleanor & Park,Default,Default,56.51,4.051958845725663,5,Five,12,1,0,14,https://books.toscrape.com/catalogue/eleanor-park_616/index.html
+Dirty (Dive Bar #1),Romance,Romance,40.83,3.733613785454107,4,Four,12,1,0,19,https://books.toscrape.com/catalogue/dirty-dive-bar-1_615/index.html
+Can You Keep a Secret? (Fear Street Relaunch #4),Horror,Horror,48.64,3.9047969603364066,1,One,12,1,0,48,https://books.toscrape.com/catalogue/can-you-keep-a-secret-fear-street-relaunch-4_614/index.html
+Boar Island (Anna Pigeon #19),Mystery,Mystery,59.48,4.102312731871278,3,Three,12,1,0,29,https://books.toscrape.com/catalogue/boar-island-anna-pigeon-19_613/index.html
+A Paris Apartment,Historical Fiction,Historical Fiction,39.01,3.6891294228691436,4,Four,12,1,0,17,https://books.toscrape.com/catalogue/a-paris-apartment_612/index.html
+"A la Mode: 120 Recipes in 60 Pairings: Pies, Tarts, Cakes, Crisps, and More Topped with Ice Cream, Gelato, Frozen Custard, and More",Food and Drink,Food and Drink,38.77,3.6831128592195994,1,One,12,1,0,131,https://books.toscrape.com/catalogue/a-la-mode-120-recipes-in-60-pairings-pies-tarts-cakes-crisps-and-more-topped-with-ice-cream-gelato-frozen-custard-and-more_611/index.html
+Troublemaker: Surviving Hollywood and Scientology,Default,Default,48.39,3.8997479745525334,2,Two,11,1,0,49,https://books.toscrape.com/catalogue/troublemaker-surviving-hollywood-and-scientology_610/index.html
+The Widow,Mystery,Mystery,27.26,3.3414473772563813,2,Two,11,1,0,9,https://books.toscrape.com/catalogue/the-widow_609/index.html
+"The Sleep Revolution: Transforming Your Life, One Night at a Time",Nonfiction,Nonfiction,11.68,2.5400259490090797,4,Four,11,1,0,65,https://books.toscrape.com/catalogue/the-sleep-revolution-transforming-your-life-one-night-at-a-time_608/index.html
+The Improbability of Love,Fiction,Fiction,59.45,4.101816577060802,1,One,11,1,0,25,https://books.toscrape.com/catalogue/the-improbability-of-love_607/index.html
+The Art of Startup Fundraising,Business,Business,21.0,3.091042453358316,3,Three,11,1,0,30,https://books.toscrape.com/catalogue/the-art-of-startup-fundraising_606/index.html
+Take Me Home Tonight (Rock Star Romance #3),Romance,Romance,53.98,4.0069694827371,3,Three,11,1,0,43,https://books.toscrape.com/catalogue/take-me-home-tonight-rock-star-romance-3_605/index.html
+Sleeping Giants (Themis Files #1),Science Fiction,Science Fiction,48.74,3.9068094383752587,1,One,11,1,0,33,https://books.toscrape.com/catalogue/sleeping-giants-themis-files-1_604/index.html
+"Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena",Biography,Other,21.15,3.0978374964911444,2,Two,11,1,0,80,https://books.toscrape.com/catalogue/setting-the-world-on-fire-the-brief-astonishing-life-of-st-catherine-of-siena_603/index.html
+Playing with Fire,Mystery,Mystery,13.71,2.688527534613346,3,Three,11,1,0,17,https://books.toscrape.com/catalogue/playing-with-fire_602/index.html
+Off the Hook (Fishing for Trouble #1),Romance,Romance,47.67,3.885062823845363,3,Three,11,1,0,37,https://books.toscrape.com/catalogue/off-the-hook-fishing-for-trouble-1_601/index.html
+Mothering Sunday,Fiction,Fiction,13.34,2.663052835171474,2,Two,11,1,0,16,https://books.toscrape.com/catalogue/mothering-sunday_600/index.html
+"Mother, Can You Not?",Nonfiction,Nonfiction,16.89,2.884241897520628,5,Five,11,1,0,20,https://books.toscrape.com/catalogue/mother-can-you-not_599/index.html
+M Train,Autobiography,Other,27.18,3.3386125064705343,1,One,11,1,0,7,https://books.toscrape.com/catalogue/m-train_598/index.html
+Lilac Girls,Historical Fiction,Historical Fiction,17.28,2.905807566026004,2,Two,11,1,0,11,https://books.toscrape.com/catalogue/lilac-girls_597/index.html
+Lies and Other Acts of Love,Fiction,Fiction,45.14,3.8316802527456075,1,One,11,1,0,27,https://books.toscrape.com/catalogue/lies-and-other-acts-of-love_596/index.html
+Lab Girl,Autobiography,Other,40.85,3.7340917969354845,1,One,11,1,0,8,https://books.toscrape.com/catalogue/lab-girl_595/index.html
+Keep Me Posted,Womens Fiction,Womens Fiction,20.46,3.0661907372025525,4,Four,11,1,0,14,https://books.toscrape.com/catalogue/keep-me-posted_594/index.html
+It Didn't Start with You: How Inherited Family Trauma Shapes Who We Are and How to End the Cycle,Psychology,Other,56.27,4.047776926405766,3,Three,11,1,0,96,https://books.toscrape.com/catalogue/it-didnt-start-with-you-how-inherited-family-trauma-shapes-who-we-are-and-how-to-end-the-cycle_593/index.html
+Grey (Fifty Shades #4),Womens Fiction,Womens Fiction,48.49,3.901770628963795,4,Four,11,1,0,22,https://books.toscrape.com/catalogue/grey-fifty-shades-4_592/index.html
+"Exit, Pursued by a Bear",Young Adult,Young Adult,51.34,3.9577608971019997,4,Four,11,1,0,23,https://books.toscrape.com/catalogue/exit-pursued-by-a-bear_591/index.html
+Daredevils,Fiction,Fiction,16.34,2.853015971352396,3,Three,11,1,0,10,https://books.toscrape.com/catalogue/daredevils_590/index.html
+Cravings: Recipes for What You Want to Eat,Food and Drink,Food and Drink,20.5,3.068052935133617,3,Three,11,1,0,42,https://books.toscrape.com/catalogue/cravings-recipes-for-what-you-want-to-eat_589/index.html
+Born for This: How to Find the Work You Were Meant to Do,Business,Business,21.59,3.1175073304799117,5,Five,11,1,0,56,https://books.toscrape.com/catalogue/born-for-this-how-to-find-the-work-you-were-meant-to-do_588/index.html
+Arena,Science Fiction,Science Fiction,21.36,3.1072736482868986,4,Four,11,1,0,5,https://books.toscrape.com/catalogue/arena_587/index.html
+Adultery,Default,Default,20.88,3.0855729775537806,5,Five,11,1,0,8,https://books.toscrape.com/catalogue/adultery_586/index.html
+A Mother's Reckoning: Living in the Aftermath of Tragedy,Nonfiction,Nonfiction,19.53,3.0218872310308424,3,Three,11,1,0,56,https://books.toscrape.com/catalogue/a-mothers-reckoning-living-in-the-aftermath-of-tragedy_585/index.html
+A Gentleman's Position (Society of Gentlemen #3),Romance,Romance,14.75,2.7568403652716422,5,Five,11,1,0,48,https://books.toscrape.com/catalogue/a-gentlemans-position-society-of-gentlemen-3_584/index.html
+11/22/63,Fiction,Fiction,48.48,3.901568547524287,3,Three,11,1,0,8,https://books.toscrape.com/catalogue/112263_583/index.html
+"10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works",Nonfiction,Nonfiction,24.57,3.2414197893030954,2,Two,10,1,0,125,https://books.toscrape.com/catalogue/10-happier-how-i-tamed-the-voice-in-my-head-reduced-stress-without-losing-my-edge-and-found-self-help-that-actually-works_582/index.html
+10-Day Green Smoothie Cleanse: Lose Up to 15 Pounds in 10 Days!,Health,Other,49.71,3.926123129806928,5,Five,10,1,0,63,https://books.toscrape.com/catalogue/10-day-green-smoothie-cleanse-lose-up-to-15-pounds-in-10-days_581/index.html
+Without Shame,Add a comment,Add a comment,48.27,3.8973153765558717,5,Five,9,1,0,13,https://books.toscrape.com/catalogue/without-shame_580/index.html
+Watchmen,Add a comment,Add a comment,58.05,4.078384542643371,4,Four,9,1,0,8,https://books.toscrape.com/catalogue/watchmen_579/index.html
+Unlimited Intuition Now,Default,Default,58.87,4.092175544937261,4,Four,9,1,0,23,https://books.toscrape.com/catalogue/unlimited-intuition-now_578/index.html
+Underlying Notes,Default,Default,11.82,2.551006451492524,2,Two,9,1,0,16,https://books.toscrape.com/catalogue/underlying-notes_577/index.html
+The Shack,Fiction,Fiction,28.03,3.3683297780365384,1,One,9,1,0,9,https://books.toscrape.com/catalogue/the-shack_576/index.html
+The New Brand You: Your New Image Makes the Sale for You,Default,Default,44.05,3.807772984054347,5,Five,9,1,0,56,https://books.toscrape.com/catalogue/the-new-brand-you-your-new-image-makes-the-sale-for-you_575/index.html
+"The Moosewood Cookbook: Recipes from Moosewood Restaurant, Ithaca, New York",Food and Drink,Food and Drink,12.34,2.590767040487478,4,Four,9,1,0,75,https://books.toscrape.com/catalogue/the-moosewood-cookbook-recipes-from-moosewood-restaurant-ithaca-new-york_574/index.html
+The Flowers Lied,Default,Default,16.68,2.8724340572094973,2,Two,9,1,0,16,https://books.toscrape.com/catalogue/the-flowers-lied_573/index.html
+"The Fabric of the Cosmos: Space, Time, and the Texture of Reality",Science,Science,55.91,4.041471072615033,1,One,9,1,0,65,https://books.toscrape.com/catalogue/the-fabric-of-the-cosmos-space-time-and-the-texture-of-reality_572/index.html
+The Book of Mormon,Religion,Other,24.57,3.2414197893030954,3,Three,9,1,0,18,https://books.toscrape.com/catalogue/the-book-of-mormon_571/index.html
+The Art and Science of Low Carbohydrate Living,Health,Other,52.98,3.9886136075898584,5,Five,9,1,0,46,https://books.toscrape.com/catalogue/the-art-and-science-of-low-carbohydrate-living_570/index.html
+The Alien Club,Young Adult,Young Adult,54.4,4.014579593753238,1,One,9,1,0,14,https://books.toscrape.com/catalogue/the-alien-club_569/index.html
+Suzie Snowflake: One beautiful flake (a self-esteem story),Novels,Other,54.81,4.021953064800342,5,Five,9,1,0,58,https://books.toscrape.com/catalogue/suzie-snowflake-one-beautiful-flake-a-self-esteem-story_568/index.html
+Nap-a-Roo,Childrens,Childrens,25.08,3.261168737058452,1,One,9,1,0,9,https://books.toscrape.com/catalogue/nap-a-roo_567/index.html
+"NaNo What Now? Finding your editing process, revising your NaNoWriMo book and building a writing career through publishing and beyond",Default,Default,10.41,2.4344901638739844,4,Four,9,1,0,133,https://books.toscrape.com/catalogue/nano-what-now-finding-your-editing-process-revising-your-nanowrimo-book-and-building-a-writing-career-through-publishing-and-beyond_566/index.html
+Modern Day Fables,Default,Default,47.44,3.8803259186848913,2,Two,9,1,0,17,https://books.toscrape.com/catalogue/modern-day-fables_565/index.html
+If I Gave You God's Phone Number....: Searching for Spirituality in America,Spirituality,Other,20.91,3.086943153607375,1,One,9,1,0,75,https://books.toscrape.com/catalogue/if-i-gave-you-gods-phone-number-searching-for-spirituality-in-america_564/index.html
+"Fruits Basket, Vol. 9 (Fruits Basket #9)",Sequential Art,Sequential Art,33.95,3.5539184686798193,4,Four,9,1,0,40,https://books.toscrape.com/catalogue/fruits-basket-vol-9-fruits-basket-9_563/index.html
+Dress Your Family in Corduroy and Denim,Humor,Humor,43.68,3.799525974201,3,Three,9,1,0,39,https://books.toscrape.com/catalogue/dress-your-family-in-corduroy-and-denim_562/index.html
+Don't Forget Steven,Young Adult,Young Adult,33.23,3.533102452542094,1,One,9,1,0,19,https://books.toscrape.com/catalogue/dont-forget-steven_561/index.html
+Chernobyl 01:23:40: The Incredible True Story of the World's Worst Nuclear Disaster,Nonfiction,Nonfiction,35.92,3.6087534096346516,2,Two,9,1,0,83,https://books.toscrape.com/catalogue/chernobyl-012340-the-incredible-true-story-of-the-worlds-worst-nuclear-disaster_560/index.html
+Art and Fear: Observations on the Perils (and Rewards) of Artmaking,Art,Other,48.63,3.9045954895993495,4,Four,9,1,0,67,https://books.toscrape.com/catalogue/art-and-fear-observations-on-the-perils-and-rewards-of-artmaking_559/index.html
+A Shard of Ice (The Black Symphony Saga #1),Fantasy,Fantasy,56.63,4.054043265448575,3,Three,9,1,0,43,https://books.toscrape.com/catalogue/a-shard-of-ice-the-black-symphony-saga-1_558/index.html
+A Hero's Curse (The Unseen Chronicles #1),Add a comment,Add a comment,50.49,3.94138761405805,3,Three,9,1,0,41,https://books.toscrape.com/catalogue/a-heros-curse-the-unseen-chronicles-1_557/index.html
+23 Degrees South: A Tropical Tale of Changing Whether...,Add a comment,Add a comment,35.79,3.605226069116683,2,Two,9,1,0,56,https://books.toscrape.com/catalogue/23-degrees-south-a-tropical-tale-of-changing-whether_556/index.html
+"Zero to One: Notes on Startups, or How to Build the Future",Nonfiction,Nonfiction,34.06,3.5570608794930885,3,Three,8,1,0,58,https://books.toscrape.com/catalogue/zero-to-one-notes-on-startups-or-how-to-build-the-future_555/index.html
+Why Not Me?,Nonfiction,Nonfiction,17.76,2.9317269435780786,1,One,8,1,0,11,https://books.toscrape.com/catalogue/why-not-me_554/index.html
+When Breath Becomes Air,Nonfiction,Nonfiction,39.36,3.6978391954854084,2,Two,8,1,0,23,https://books.toscrape.com/catalogue/when-breath-becomes-air_553/index.html
+Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel,Travel,Travel,36.94,3.636005964506868,2,Two,8,1,0,67,https://books.toscrape.com/catalogue/vagabonding-an-uncommon-guide-to-the-art-of-long-term-world-travel_552/index.html
+The Unlikely Pilgrimage of Harold Fry (Harold Fry #1),Default,Default,43.62,3.7981821890043865,5,Five,8,1,0,53,https://books.toscrape.com/catalogue/the-unlikely-pilgrimage-of-harold-fry-harold-fry-1_551/index.html
+The New Drawing on the Right Side of the Brain,Art,Other,43.02,3.7846440760983158,3,Three,8,1,0,46,https://books.toscrape.com/catalogue/the-new-drawing-on-the-right-side-of-the-brain_550/index.html
+"The Midnight Assassin: Panic, Scandal, and the Hunt for America's First Serial Killer",Nonfiction,Nonfiction,28.45,3.3826939100975957,4,Four,8,1,0,85,https://books.toscrape.com/catalogue/the-midnight-assassin-panic-scandal-and-the-hunt-for-americas-first-serial-killer_549/index.html
+The Martian (The Martian #1),Default,Default,41.39,3.746912485364546,2,Two,8,1,0,28,https://books.toscrape.com/catalogue/the-martian-the-martian-1_548/index.html
+The High Mountains of Portugal,Fiction,Fiction,51.15,3.9541241814467813,1,One,8,1,0,30,https://books.toscrape.com/catalogue/the-high-mountains-of-portugal_547/index.html
+The Grownup,Short Stories,Other,35.88,3.607669398688393,1,One,8,1,0,11,https://books.toscrape.com/catalogue/the-grownup_546/index.html
+The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It,Business,Business,36.91,3.635214929528243,1,One,8,1,0,82,https://books.toscrape.com/catalogue/the-e-myth-revisited-why-most-small-businesses-dont-work-and-what-to-do-about-it_545/index.html
+South of Sunshine,Young Adult,Young Adult,28.93,3.3988613218646075,1,One,8,1,0,17,https://books.toscrape.com/catalogue/south-of-sunshine_544/index.html
+Smarter Faster Better: The Secrets of Being Productive in Life and Business,Nonfiction,Nonfiction,38.89,3.686125665917315,5,Five,8,1,0,75,https://books.toscrape.com/catalogue/smarter-faster-better-the-secrets-of-being-productive-in-life-and-business_543/index.html
+Silence in the Dark (Logan Point #4),Suspense,Other,58.33,4.083115080270552,3,Three,8,1,0,36,https://books.toscrape.com/catalogue/silence-in-the-dark-logan-point-4_542/index.html
+Shadows of the Past (Logan Point #1),Christian Fiction,Other,39.67,3.7054907199191334,5,Five,8,1,0,36,https://books.toscrape.com/catalogue/shadows-of-the-past-logan-point-1_541/index.html
+Roller Girl,Sequential Art,Sequential Art,14.1,2.714694743820879,5,Five,8,1,0,11,https://books.toscrape.com/catalogue/roller-girl_540/index.html
+Rising Strong,Nonfiction,Nonfiction,21.82,3.1276373444339294,3,Three,8,1,0,13,https://books.toscrape.com/catalogue/rising-strong_539/index.html
+Proofs of God: Classical Arguments from Tertullian to Barth,Philosophy,Philosophy,54.21,4.011144096295953,1,One,8,1,0,59,https://books.toscrape.com/catalogue/proofs-of-god-classical-arguments-from-tertullian-to-barth_538/index.html
+Please Kill Me: The Uncensored Oral History of Punk,Music,Music,31.19,3.4716558453107167,4,Four,8,1,0,51,https://books.toscrape.com/catalogue/please-kill-me-the-uncensored-oral-history-of-punk_537/index.html
+Out of Print: City Lights Spotlight No. 14,Poetry,Poetry,53.64,4.0007662152625345,5,Five,8,1,0,42,https://books.toscrape.com/catalogue/out-of-print-city-lights-spotlight-no-14_536/index.html
+My Life Next Door (My Life Next Door ),Young Adult,Young Adult,36.39,3.6214032889890224,5,Five,8,1,0,38,https://books.toscrape.com/catalogue/my-life-next-door-my-life-next-door_535/index.html
+Miller's Valley,Fiction,Fiction,58.54,4.086648355587631,2,Two,8,1,0,15,https://books.toscrape.com/catalogue/millers-valley_534/index.html
+Man's Search for Meaning,Nonfiction,Nonfiction,29.48,3.4170707308184456,3,Three,8,1,0,24,https://books.toscrape.com/catalogue/mans-search-for-meaning_533/index.html
+"Love That Boy: What Two Presidents, Eight Road Trips, and My Son Taught Me About a Parent's Expectations",Nonfiction,Nonfiction,25.06,3.260401571696699,2,Two,8,1,0,104,https://books.toscrape.com/catalogue/love-that-boy-what-two-presidents-eight-road-trips-and-my-son-taught-me-about-a-parents-expectations_532/index.html
+Living Forward: A Proven Plan to Stop Drifting and Get the Life You Want,Nonfiction,Nonfiction,12.55,2.60638654732571,3,Three,8,1,0,72,https://books.toscrape.com/catalogue/living-forward-a-proven-plan-to-stop-drifting-and-get-the-life-you-want_531/index.html
+Les Fleurs du Mal,Poetry,Poetry,29.04,3.402529826895934,5,Five,8,1,0,17,https://books.toscrape.com/catalogue/les-fleurs-du-mal_530/index.html
+Left Behind (Left Behind #1),Default,Default,40.72,3.7309806301325716,2,Two,8,1,0,28,https://books.toscrape.com/catalogue/left-behind-left-behind-1_529/index.html
+Kill 'Em and Leave: Searching for James Brown and the American Soul,Music,Music,45.05,3.829727762701316,5,Five,8,1,0,67,https://books.toscrape.com/catalogue/kill-em-and-leave-searching-for-james-brown-and-the-american-soul_528/index.html
+Kierkegaard: A Christian Missionary to Christians,Philosophy,Philosophy,47.13,3.873905683315018,1,One,8,1,0,49,https://books.toscrape.com/catalogue/kierkegaard-a-christian-missionary-to-christians_527/index.html
+John Vassos: Industrial Design for Modern Life,Default,Default,20.22,3.054944133185837,4,Four,8,1,0,46,https://books.toscrape.com/catalogue/john-vassos-industrial-design-for-modern-life_526/index.html
+I'll Give You the Sun,Default,Default,56.48,4.051437061210824,1,One,8,1,0,21,https://books.toscrape.com/catalogue/ill-give-you-the-sun_525/index.html
+I Will Find You,Nonfiction,Nonfiction,44.21,3.811318301306514,1,One,8,1,0,15,https://books.toscrape.com/catalogue/i-will-find-you_524/index.html
+Hystopia: A Novel,Fiction,Fiction,21.96,3.133753571451366,4,Four,8,1,0,17,https://books.toscrape.com/catalogue/hystopia-a-novel_523/index.html
+Howl and Other Poems,Poetry,Poetry,40.45,3.724487881581304,2,Two,8,1,0,20,https://books.toscrape.com/catalogue/howl-and-other-poems_522/index.html
+History of Beauty,Art,Other,10.29,2.4239173781615704,4,Four,8,1,0,17,https://books.toscrape.com/catalogue/history-of-beauty_521/index.html
+Heaven is for Real: A Little Boy's Astounding Story of His Trip to Heaven and Back,Default,Default,52.86,3.9863880873834527,2,Two,8,1,0,82,https://books.toscrape.com/catalogue/heaven-is-for-real-a-little-boys-astounding-story-of-his-trip-to-heaven-and-back_520/index.html
+Future Shock (Future Shock #1),Young Adult,Young Adult,55.65,4.036891987474015,5,Five,8,1,0,30,https://books.toscrape.com/catalogue/future-shock-future-shock-1_519/index.html
+Ender's Game (The Ender Quintet #1),Default,Default,43.64,3.7986303180730556,1,One,8,1,0,35,https://books.toscrape.com/catalogue/enders-game-the-ender-quintet-1_518/index.html
+Diary of a Citizen Scientist: Chasing Tiger Beetles and Other New Ways of Engaging the World,Science,Science,28.41,3.3813347525659037,1,One,8,1,0,92,https://books.toscrape.com/catalogue/diary-of-a-citizen-scientist-chasing-tiger-beetles-and-other-new-ways-of-engaging-the-world_517/index.html
+Death by Leisure: A Cautionary Tale,Default,Default,37.51,3.6509179478268177,4,Four,8,1,0,35,https://books.toscrape.com/catalogue/death-by-leisure-a-cautionary-tale_516/index.html
+Brilliant Beacons: A History of the American Lighthouse,History,History,11.45,2.5217206229107165,3,Three,8,1,0,55,https://books.toscrape.com/catalogue/brilliant-beacons-a-history-of-the-american-lighthouse_515/index.html
+Brazen: The Courage to Find the You That's Been Hiding,Nonfiction,Nonfiction,19.22,3.006672213592325,2,Two,8,1,0,54,https://books.toscrape.com/catalogue/brazen-the-courage-to-find-the-you-thats-been-hiding_514/index.html
+Between the World and Me,Nonfiction,Nonfiction,56.91,4.058890081237698,4,Four,8,1,0,24,https://books.toscrape.com/catalogue/between-the-world-and-me_513/index.html
+Being Mortal: Medicine and What Matters in the End,Nonfiction,Nonfiction,55.06,4.026422545736642,4,Four,8,1,0,50,https://books.toscrape.com/catalogue/being-mortal-medicine-and-what-matters-in-the-end_512/index.html
+"A Murder Over a Girl: Justice, Gender, Junior High",Nonfiction,Nonfiction,13.2,2.653241964607215,3,Three,8,1,0,50,https://books.toscrape.com/catalogue/a-murder-over-a-girl-justice-gender-junior-high_511/index.html
+32 Yolks,Food and Drink,Food and Drink,53.63,4.000583182407627,2,Two,8,1,0,8,https://books.toscrape.com/catalogue/32-yolks_510/index.html
+"""Most Blessed of the Patriarchs"": Thomas Jefferson and the Empire of the Imagination",History,History,44.48,3.8172726688823353,5,Five,8,1,0,84,https://books.toscrape.com/catalogue/most-blessed-of-the-patriarchs-thomas-jefferson-and-the-empire-of-the-imagination_509/index.html
+You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life,Self Help,Other,12.08,2.5710843460290524,3,Three,7,1,0,86,https://books.toscrape.com/catalogue/you-are-a-badass-how-to-stop-doubting-your-greatness-and-start-living-an-awesome-life_508/index.html
+Wildlife of New York: A Five-Borough Coloring Book,Default,Default,22.14,3.1415627217655304,2,Two,7,1,0,50,https://books.toscrape.com/catalogue/wildlife-of-new-york-a-five-borough-coloring-book_507/index.html
+What Happened on Beale Street (Secrets of the South Mysteries #2),Mystery,Mystery,25.37,3.2722270003651954,5,Five,7,1,0,65,https://books.toscrape.com/catalogue/what-happened-on-beale-street-secrets-of-the-south-mysteries-2_506/index.html
+Unreasonable Hope: Finding Faith in the God Who Brings Purpose to Your Pain,Spirituality,Other,46.33,3.8571443439181565,2,Two,7,1,0,75,https://books.toscrape.com/catalogue/unreasonable-hope-finding-faith-in-the-god-who-brings-purpose-to-your-pain_505/index.html
+Under the Tuscan Sun,Travel,Travel,37.33,3.6462328793924637,3,Three,7,1,0,20,https://books.toscrape.com/catalogue/under-the-tuscan-sun_504/index.html
+Toddlers Are A**holes: It's Not Your Fault,Humor,Humor,25.55,3.279029747687948,1,One,7,1,0,42,https://books.toscrape.com/catalogue/toddlers-are-aholes-its-not-your-fault_503/index.html
+The Year of Living Biblically: One Man's Humble Quest to Follow the Bible as Literally as Possible,Default,Default,34.72,3.575710756008298,1,One,7,1,0,98,https://books.toscrape.com/catalogue/the-year-of-living-biblically-one-mans-humble-quest-to-follow-the-bible-as-literally-as-possible_502/index.html
+The Whale,Childrens,Childrens,35.96,3.6098362467734835,4,Four,7,1,0,9,https://books.toscrape.com/catalogue/the-whale_501/index.html
+The Story of Art,Art,Other,41.14,3.740997408376043,4,Four,7,1,0,16,https://books.toscrape.com/catalogue/the-story-of-art_500/index.html
+The Origin of Species,Science,Science,10.01,2.3988039507345884,4,Four,7,1,0,21,https://books.toscrape.com/catalogue/the-origin-of-species_499/index.html
+The Great Gatsby,Default,Default,36.05,3.6122683517420957,4,Four,7,1,0,16,https://books.toscrape.com/catalogue/the-great-gatsby_498/index.html
+The Good Girl,Default,Default,49.03,3.912622825500114,3,Three,7,1,0,13,https://books.toscrape.com/catalogue/the-good-girl_497/index.html
+The Glass Castle,Add a comment,Add a comment,16.24,2.847232265235547,1,One,7,1,0,16,https://books.toscrape.com/catalogue/the-glass-castle_496/index.html
+The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist,Biography,Other,39.55,3.702535780561422,1,One,7,1,0,90,https://books.toscrape.com/catalogue/the-faith-of-christopher-hitchens-the-restless-soul-of-the-worlds-most-notorious-atheist_495/index.html
+The Drowning Girls,Add a comment,Add a comment,35.67,3.6019589820832345,3,Three,7,1,0,18,https://books.toscrape.com/catalogue/the-drowning-girls_494/index.html
+The Constant Princess (The Tudor Court #1),Historical Fiction,Historical Fiction,16.62,2.8690346205080335,3,Three,7,1,0,42,https://books.toscrape.com/catalogue/the-constant-princess-the-tudor-court-1_493/index.html
+The Bourne Identity (Jason Bourne #1),Fiction,Fiction,42.78,3.779177092094717,4,Four,7,1,0,37,https://books.toscrape.com/catalogue/the-bourne-identity-jason-bourne-1_492/index.html
+The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1),Mystery,Mystery,52.3,3.975936331171799,5,Five,7,1,0,72,https://books.toscrape.com/catalogue/the-bachelor-girls-guide-to-murder-herringford-and-watts-mysteries-1_491/index.html
+The Art Book,Art,Other,32.34,3.506757877322648,2,Two,7,1,0,12,https://books.toscrape.com/catalogue/the-art-book_490/index.html
+The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Default,Default,33.17,3.5313480661272005,4,Four,7,1,0,76,https://books.toscrape.com/catalogue/the-7-habits-of-highly-effective-people-powerful-lessons-in-personal-change_489/index.html
+Team of Rivals: The Political Genius of Abraham Lincoln,Add a comment,Add a comment,20.12,3.050220458838061,5,Five,7,1,0,55,https://books.toscrape.com/catalogue/team-of-rivals-the-political-genius-of-abraham-lincoln_488/index.html
+Steal Like an Artist: 10 Things Nobody Told You About Being Creative,Default,Default,20.9,3.086486636822455,2,Two,7,1,0,68,https://books.toscrape.com/catalogue/steal-like-an-artist-10-things-nobody-told-you-about-being-creative_487/index.html
+"Sit, Stay, Love",Romance,Romance,20.9,3.086486636822455,3,Three,7,1,0,15,https://books.toscrape.com/catalogue/sit-stay-love_486/index.html
+Sister Dear,Fiction,Fiction,40.2,3.7184382563554808,4,Four,7,1,0,11,https://books.toscrape.com/catalogue/sister-dear_485/index.html
+"Shrunken Treasures: Literary Classics, Short, Sweet, and Silly",Childrens,Childrens,52.87,3.9865737366924425,3,Three,7,1,0,62,https://books.toscrape.com/catalogue/shrunken-treasures-literary-classics-short-sweet-and-silly_484/index.html
+"Rich Dad, Poor Dad",Business,Business,51.74,3.965374180925141,1,One,7,1,0,18,https://books.toscrape.com/catalogue/rich-dad-poor-dad_483/index.html
+Raymie Nightingale,Childrens,Childrens,34.41,3.566994266123812,2,Two,7,1,0,18,https://books.toscrape.com/catalogue/raymie-nightingale_482/index.html
+Playing from the Heart,Childrens,Childrens,32.38,3.507956918233689,1,One,7,1,0,22,https://books.toscrape.com/catalogue/playing-from-the-heart_481/index.html
+Nightstruck: A Novel,Young Adult,Young Adult,50.35,3.9386649363745674,4,Four,7,1,0,20,https://books.toscrape.com/catalogue/nightstruck-a-novel_480/index.html
+"Naturally Lean: 125 Nourishing Gluten-Free, Plant-Based Recipes--All Under 300 Calories",Food and Drink,Food and Drink,11.38,2.5160822672564502,5,Five,7,1,0,87,https://books.toscrape.com/catalogue/naturally-lean-125-nourishing-gluten-free-plant-based-recipes-all-under-300-calories_479/index.html
+Meternity,Womens Fiction,Womens Fiction,43.58,3.797285327957723,3,Three,7,1,0,9,https://books.toscrape.com/catalogue/meternity_478/index.html
+Memoirs of a Geisha,Fiction,Fiction,49.67,3.9253340194878183,3,Three,7,1,0,19,https://books.toscrape.com/catalogue/memoirs-of-a-geisha_477/index.html
+Like Never Before (Walker Family #2),Christian Fiction,Other,28.77,3.393501175027685,2,Two,7,1,0,36,https://books.toscrape.com/catalogue/like-never-before-walker-family-2_476/index.html
+Life of Pi,Default,Default,13.22,2.6546494243750947,4,Four,7,1,0,10,https://books.toscrape.com/catalogue/life-of-pi_475/index.html
+Leave This Song Behind: Teen Poetry at Its Best,Poetry,Poetry,51.17,3.9545076170343014,5,Five,7,1,0,47,https://books.toscrape.com/catalogue/leave-this-song-behind-teen-poetry-at-its-best_474/index.html
+King's Folly (The Kinsman Chronicles #1),Fantasy,Fantasy,39.61,3.7040143416982065,5,Five,7,1,0,40,https://books.toscrape.com/catalogue/kings-folly-the-kinsman-chronicles-1_473/index.html
+John Adams,Add a comment,Add a comment,57.43,4.067829456566345,4,Four,7,1,0,10,https://books.toscrape.com/catalogue/john-adams_472/index.html
+How to Cook Everything Vegetarian: Simple Meatless Recipes for Great Food (How to Cook Everything),Food and Drink,Food and Drink,46.01,3.850360345036039,4,Four,7,1,0,98,https://books.toscrape.com/catalogue/how-to-cook-everything-vegetarian-simple-meatless-recipes-for-great-food-how-to-cook-everything_471/index.html
+How to Be a Domestic Goddess: Baking and the Art of Comfort Cooking,Food and Drink,Food and Drink,28.25,3.3758795736778655,2,Two,7,1,0,67,https://books.toscrape.com/catalogue/how-to-be-a-domestic-goddess-baking-and-the-art-of-comfort-cooking_470/index.html
+Good in Bed (Cannie Shapiro #1),Add a comment,Add a comment,37.05,3.6389010843076948,5,Five,7,1,0,31,https://books.toscrape.com/catalogue/good-in-bed-cannie-shapiro-1_469/index.html
+"Fruits Basket, Vol. 7 (Fruits Basket #7)",Sequential Art,Sequential Art,19.57,3.0238337036648657,1,One,7,1,0,40,https://books.toscrape.com/catalogue/fruits-basket-vol-7-fruits-basket-7_468/index.html
+For the Love: Fighting for Grace in a World of Impossible Standards,Nonfiction,Nonfiction,45.13,3.8314634975697293,3,Three,7,1,0,67,https://books.toscrape.com/catalogue/for-the-love-fighting-for-grace-in-a-world-of-impossible-standards_467/index.html
+Finding God in the Ruins: How God Redeems Pain,Nonfiction,Nonfiction,46.64,3.8636727444870993,2,Two,7,1,0,46,https://books.toscrape.com/catalogue/finding-god-in-the-ruins-how-god-redeems-pain_466/index.html
+Every Heart a Doorway (Every Heart A Doorway #1),Fantasy,Fantasy,12.16,2.5771819258971713,5,Five,7,1,0,48,https://books.toscrape.com/catalogue/every-heart-a-doorway-every-heart-a-doorway-1_465/index.html
+Delivering the Truth (Quaker Midwife Mystery #1),Mystery,Mystery,20.89,3.0860299115347716,4,Four,7,1,0,48,https://books.toscrape.com/catalogue/delivering-the-truth-quaker-midwife-mystery-1_464/index.html
+Counted With the Stars (Out from Egypt #1),Christian Fiction,Other,17.97,2.9428587839469227,5,Five,7,1,0,42,https://books.toscrape.com/catalogue/counted-with-the-stars-out-from-egypt-1_463/index.html
+"Chronicles, Vol. 1",Music,Music,52.6,3.9815490680767565,2,Two,7,1,0,18,https://books.toscrape.com/catalogue/chronicles-vol-1_462/index.html
+Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality,Christian,Other,25.77,3.2872818575322613,1,One,7,1,0,63,https://books.toscrape.com/catalogue/blue-like-jazz-nonreligious-thoughts-on-christian-spirituality_461/index.html
+Benjamin Franklin: An American Life,Biography,Other,48.19,3.8956903508072482,3,Three,7,1,0,35,https://books.toscrape.com/catalogue/benjamin-franklin-an-american-life_460/index.html
+"At The Existentialist Café: Freedom, Being, and apricot cocktails with: Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Martin Heidegger, Edmund Husserl, Karl Jaspers, Maurice Merleau-Ponty and others",Philosophy,Philosophy,29.93,3.4317265866969784,5,Five,7,1,0,204,https://books.toscrape.com/catalogue/at-the-existentialist-cafe-freedom-being-and-apricot-cocktails-with-jean-paul-sartre-simone-de-beauvoir-albert-camus-martin-heidegger-edmund-husserl-karl-jaspers-maurice-merleau-ponty-and-others_459/index.html
+A Summer In Europe,Travel,Travel,44.34,3.814189645079383,2,Two,7,1,0,18,https://books.toscrape.com/catalogue/a-summer-in-europe_458/index.html
+A Short History of Nearly Everything,History,History,52.4,3.977810745966149,5,Five,7,1,0,36,https://books.toscrape.com/catalogue/a-short-history-of-nearly-everything_457/index.html
+A Gathering of Shadows (Shades of Magic #2),Fantasy,Fantasy,44.81,3.8245024078986507,4,Four,7,1,0,43,https://books.toscrape.com/catalogue/a-gathering-of-shadows-shades-of-magic-2_456/index.html
+The Sound Of Love,Default,Default,57.84,4.074821895733237,5,Five,6,1,0,17,https://books.toscrape.com/catalogue/the-sound-of-love_455/index.html
+The Rise and Fall of the Third Reich: A History of Nazi Germany,History,History,39.67,3.7054907199191334,2,Two,6,1,0,63,https://books.toscrape.com/catalogue/the-rise-and-fall-of-the-third-reich-a-history-of-nazi-germany_454/index.html
+The Perks of Being a Wallflower,Default,Default,55.02,4.0257087698319625,3,Three,6,1,0,31,https://books.toscrape.com/catalogue/the-perks-of-being-a-wallflower_453/index.html
+The Mysterious Affair at Styles (Hercule Poirot #1),Mystery,Mystery,24.8,3.250374491927572,4,Four,6,1,0,51,https://books.toscrape.com/catalogue/the-mysterious-affair-at-styles-hercule-poirot-1_452/index.html
+The Man Who Mistook His Wife for a Hat and Other Clinical Tales,Nonfiction,Nonfiction,59.45,4.101816577060802,4,Four,6,1,0,63,https://books.toscrape.com/catalogue/the-man-who-mistook-his-wife-for-a-hat-and-other-clinical-tales_451/index.html
+The Makings of a Fatherless Child,Default,Default,31.58,3.4836986031738992,2,Two,6,1,0,33,https://books.toscrape.com/catalogue/the-makings-of-a-fatherless-child_450/index.html
+The Joy of Cooking,Add a comment,Add a comment,43.27,3.7903072467440495,4,Four,6,1,0,18,https://books.toscrape.com/catalogue/the-joy-of-cooking_449/index.html
+The Invention of Wings,Historical Fiction,Historical Fiction,37.34,3.6464937376174986,1,One,6,1,0,22,https://books.toscrape.com/catalogue/the-invention-of-wings_448/index.html
+The Hobbit (Middle-Earth Universe),Default,Default,17.8,2.9338568698359038,5,Five,6,1,0,34,https://books.toscrape.com/catalogue/the-hobbit-middle-earth-universe_447/index.html
+The Great Railway Bazaar,Travel,Travel,30.54,3.451256581534892,1,One,6,1,0,24,https://books.toscrape.com/catalogue/the-great-railway-bazaar_446/index.html
+The Golden Compass (His Dark Materials #1),Add a comment,Add a comment,18.77,2.9841656371825254,1,One,6,1,0,42,https://books.toscrape.com/catalogue/the-golden-compass-his-dark-materials-1_445/index.html
+The God Delusion,Add a comment,Add a comment,46.85,3.8680711178989635,3,Three,6,1,0,16,https://books.toscrape.com/catalogue/the-god-delusion_444/index.html
+The Girl You Left Behind (The Girl You Left Behind #1),Historical,Other,15.79,2.8207834710894493,1,One,6,1,0,54,https://books.toscrape.com/catalogue/the-girl-you-left-behind-the-girl-you-left-behind-1_443/index.html
+The Fellowship of the Ring (The Lord of the Rings #1),Default,Default,10.27,2.422144328051685,2,Two,6,1,0,53,https://books.toscrape.com/catalogue/the-fellowship-of-the-ring-the-lord-of-the-rings-1_442/index.html
+The Collected Poems of W.B. Yeats (The Collected Works of W.B. Yeats #1),Poetry,Poetry,15.42,2.7985001040242823,5,Five,6,1,0,72,https://books.toscrape.com/catalogue/the-collected-poems-of-wb-yeats-the-collected-works-of-wb-yeats-1_441/index.html
+The Barefoot Contessa Cookbook,Food and Drink,Food and Drink,59.92,4.109561528026961,5,Five,6,1,0,30,https://books.toscrape.com/catalogue/the-barefoot-contessa-cookbook_440/index.html
+Tell the Wolves I'm Home,Young Adult,Young Adult,50.96,3.9504741918023987,2,Two,6,1,0,24,https://books.toscrape.com/catalogue/tell-the-wolves-im-home_439/index.html
+Ship Leaves Harbor: Essays on Travel by a Recovering Journeyman,Default,Default,30.6,3.4531571205928664,3,Three,6,1,0,63,https://books.toscrape.com/catalogue/ship-leaves-harbor-essays-on-travel-by-a-recovering-journeyman_438/index.html
+Pride and Prejudice,Add a comment,Add a comment,19.27,3.0091419604639085,4,Four,6,1,0,19,https://books.toscrape.com/catalogue/pride-and-prejudice_437/index.html
+Musicophilia: Tales of Music and the Brain,Default,Default,46.58,3.8624125048748117,1,One,6,1,0,42,https://books.toscrape.com/catalogue/musicophilia-tales-of-music-and-the-brain_436/index.html
+Mere Christianity,Add a comment,Add a comment,48.51,3.9021746693733315,3,Three,6,1,0,17,https://books.toscrape.com/catalogue/mere-christianity_435/index.html
+Me Before You (Me Before You #1),Fiction,Fiction,19.02,2.9967317738870745,1,One,6,1,0,32,https://books.toscrape.com/catalogue/me-before-you-me-before-you-1_434/index.html
+In the Woods (Dublin Murder Squad #1),Mystery,Mystery,38.38,3.6732580732109796,2,Two,6,1,0,37,https://books.toscrape.com/catalogue/in-the-woods-dublin-murder-squad-1_433/index.html
+In Cold Blood,Nonfiction,Nonfiction,49.98,3.9314333989479695,4,Four,6,1,0,13,https://books.toscrape.com/catalogue/in-cold-blood_432/index.html
+How to Stop Worrying and Start Living,Self Help,Other,46.49,3.8605191625610304,5,Five,6,1,0,37,https://books.toscrape.com/catalogue/how-to-stop-worrying-and-start-living_431/index.html
+Give It Back,Thriller,Thriller,18.32,2.961140828784372,2,Two,6,1,0,12,https://books.toscrape.com/catalogue/give-it-back_430/index.html
+"Girl, Interrupted",Nonfiction,Nonfiction,42.14,3.76445064096101,3,Three,6,1,0,17,https://books.toscrape.com/catalogue/girl-interrupted_429/index.html
+Fun Home: A Family Tragicomic,Add a comment,Add a comment,56.59,4.053348941518581,4,Four,6,1,0,29,https://books.toscrape.com/catalogue/fun-home-a-family-tragicomic_428/index.html
+"Fruits Basket, Vol. 6 (Fruits Basket #6)",Sequential Art,Sequential Art,20.96,3.08922261664133,4,Four,6,1,0,40,https://books.toscrape.com/catalogue/fruits-basket-vol-6-fruits-basket-6_427/index.html
+Deception Point,Fiction,Fiction,40.32,3.721346644251438,4,Four,6,1,0,15,https://books.toscrape.com/catalogue/deception-point_426/index.html
+"Death Note, Vol. 6: Give-and-Take (Death Note #6)",Sequential Art,Sequential Art,36.39,3.6214032889890224,3,Three,6,1,0,49,https://books.toscrape.com/catalogue/death-note-vol-6-give-and-take-death-note-6_425/index.html
+Catherine the Great: Portrait of a Woman,History,History,58.55,4.0868162958013095,4,Four,6,1,0,40,https://books.toscrape.com/catalogue/catherine-the-great-portrait-of-a-woman_424/index.html
+Better Homes and Gardens New Cook Book,Food and Drink,Food and Drink,39.61,3.7040143416982065,3,Three,6,1,0,38,https://books.toscrape.com/catalogue/better-homes-and-gardens-new-cook-book_423/index.html
+An Unquiet Mind: A Memoir of Moods and Madness,Psychology,Other,21.3,3.104586678466073,3,Three,6,1,0,46,https://books.toscrape.com/catalogue/an-unquiet-mind-a-memoir-of-moods-and-madness_422/index.html
+A Year in Provence (Provence #1),Travel,Travel,56.88,4.058371901763283,4,Four,6,1,0,32,https://books.toscrape.com/catalogue/a-year-in-provence-provence-1_421/index.html
+World Without End (The Pillars of the Earth #2),Historical Fiction,Historical Fiction,32.97,3.5254777821724925,4,Four,5,1,0,47,https://books.toscrape.com/catalogue/world-without-end-the-pillars-of-the-earth-2_420/index.html
+"Will Grayson, Will Grayson (Will Grayson, Will Grayson)",Young Adult,Young Adult,47.31,3.8776385785663154,4,Four,5,1,0,55,https://books.toscrape.com/catalogue/will-grayson-will-grayson-will-grayson-will-grayson_419/index.html
+Why Save the Bankers?: And Other Essays on Our Economic and Political Crisis,Nonfiction,Nonfiction,48.67,3.905401129119259,2,Two,5,1,0,76,https://books.toscrape.com/catalogue/why-save-the-bankers-and-other-essays-on-our-economic-and-political-crisis_418/index.html
+Where She Went (If I Stay #2),Young Adult,Young Adult,41.73,3.7549012496559335,4,Four,5,1,0,29,https://books.toscrape.com/catalogue/where-she-went-if-i-stay-2_417/index.html
+What If?: Serious Scientific Answers to Absurd Hypothetical Questions,Default,Default,53.68,4.001498011855749,4,Four,5,1,0,69,https://books.toscrape.com/catalogue/what-if-serious-scientific-answers-to-absurd-hypothetical-questions_416/index.html
+Two Summers,Young Adult,Young Adult,14.64,2.7498317351171653,1,One,5,1,0,11,https://books.toscrape.com/catalogue/two-summers_415/index.html
+This Is Your Brain on Music: The Science of a Human Obsession,Music,Music,38.4,3.673765816303888,1,One,5,1,0,61,https://books.toscrape.com/catalogue/this-is-your-brain-on-music-the-science-of-a-human-obsession_414/index.html
+The Secret Garden,Classics,Classics,15.08,2.77757626375082,4,Four,5,1,0,17,https://books.toscrape.com/catalogue/the-secret-garden_413/index.html
+The Raven King (The Raven Cycle #4),Add a comment,Add a comment,30.57,3.4522073025699003,2,Two,5,1,0,35,https://books.toscrape.com/catalogue/the-raven-king-the-raven-cycle-4_412/index.html
+The Raven Boys (The Raven Cycle #1),Fantasy,Fantasy,57.74,4.073120925770474,4,Four,5,1,0,35,https://books.toscrape.com/catalogue/the-raven-boys-the-raven-cycle-1_411/index.html
+The Power Greens Cookbook: 140 Delicious Superfood Recipes,Food and Drink,Food and Drink,11.05,2.489064659936664,5,Five,5,1,0,58,https://books.toscrape.com/catalogue/the-power-greens-cookbook-140-delicious-superfood-recipes_410/index.html
+The Metamorphosis,Classics,Classics,28.58,3.3870984572826535,1,One,5,1,0,17,https://books.toscrape.com/catalogue/the-metamorphosis_409/index.html
+The Mathews Men: Seven Brothers and the War Against Hitler's U-boats,History,History,42.91,3.782142084573626,5,Five,5,1,0,68,https://books.toscrape.com/catalogue/the-mathews-men-seven-brothers-and-the-war-against-hitlers-u-boats_408/index.html
+The Little Paris Bookshop,Fiction,Fiction,24.73,3.2476576262936527,3,Three,5,1,0,25,https://books.toscrape.com/catalogue/the-little-paris-bookshop_407/index.html
+The Hiding Place,History,History,55.91,4.041471072615033,4,Four,5,1,0,16,https://books.toscrape.com/catalogue/the-hiding-place_406/index.html
+The Grand Design,Science,Science,13.76,2.6919208191723265,3,Three,5,1,0,16,https://books.toscrape.com/catalogue/the-grand-design_405/index.html
+The Firm,Fiction,Fiction,45.56,3.8407418034231826,3,Three,5,1,0,8,https://books.toscrape.com/catalogue/the-firm_404/index.html
+The Fault in Our Stars,Default,Default,47.22,3.875773872753025,1,One,5,1,0,22,https://books.toscrape.com/catalogue/the-fault-in-our-stars_403/index.html
+The False Prince (The Ascendance Trilogy #1),Fantasy,Fantasy,56.0,4.04305126783455,5,Five,5,1,0,44,https://books.toscrape.com/catalogue/the-false-prince-the-ascendance-trilogy-1_402/index.html
+The Expatriates,Fiction,Fiction,44.58,3.819469023817538,2,Two,5,1,0,15,https://books.toscrape.com/catalogue/the-expatriates_401/index.html
+The Dream Thieves (The Raven Cycle #2),Default,Default,34.5,3.56953269648137,1,One,5,1,0,38,https://books.toscrape.com/catalogue/the-dream-thieves-the-raven-cycle-2_400/index.html
+The Darkest Corners,Young Adult,Young Adult,11.33,2.512035317176253,5,Five,5,1,0,19,https://books.toscrape.com/catalogue/the-darkest-corners_399/index.html
+The Crossover,Poetry,Poetry,38.77,3.6831128592195994,4,Four,5,1,0,13,https://books.toscrape.com/catalogue/the-crossover_398/index.html
+The 5th Wave (The 5th Wave #1),Default,Default,11.83,2.551786178627545,2,Two,5,1,0,30,https://books.toscrape.com/catalogue/the-5th-wave-the-5th-wave-1_397/index.html
+Tell the Wind and Fire,Fantasy,Fantasy,45.51,3.839667343236006,3,Three,5,1,0,22,https://books.toscrape.com/catalogue/tell-the-wind-and-fire_396/index.html
+Tell Me Three Things,Young Adult,Young Adult,41.81,3.7567717201568547,1,One,5,1,0,20,https://books.toscrape.com/catalogue/tell-me-three-things_395/index.html
+Talking to Girls About Duran Duran: One Young Man's Quest for True Love and a Cooler Haircut,Nonfiction,Nonfiction,25.15,3.263849190510932,4,Four,5,1,0,92,https://books.toscrape.com/catalogue/talking-to-girls-about-duran-duran-one-young-mans-quest-for-true-love-and-a-cooler-haircut_394/index.html
+Siddhartha,Fiction,Fiction,34.22,3.56161410306806,5,Five,5,1,0,10,https://books.toscrape.com/catalogue/siddhartha_393/index.html
+Shiver (The Wolves of Mercy Falls #1),Default,Default,16.23,2.8466520505398383,5,Five,5,1,0,37,https://books.toscrape.com/catalogue/shiver-the-wolves-of-mercy-falls-1_392/index.html
+Remember Me?,Default,Default,11.48,2.5241273629412815,3,Three,5,1,0,12,https://books.toscrape.com/catalogue/remember-me_391/index.html
+Red Dragon (Hannibal Lecter #1),Horror,Horror,23.37,3.193352867637115,3,Three,5,1,0,31,https://books.toscrape.com/catalogue/red-dragon-hannibal-lecter-1_390/index.html
+Peak: Secrets from the New Science of Expertise,Science,Science,16.28,2.8495497633759097,2,Two,5,1,0,47,https://books.toscrape.com/catalogue/peak-secrets-from-the-new-science-of-expertise_389/index.html
+My Mother Was Nuts,Nonfiction,Nonfiction,31.63,3.4852321106052293,4,Four,5,1,0,18,https://books.toscrape.com/catalogue/my-mother-was-nuts_388/index.html
+Mexican Today: New and Rediscovered Recipes for Contemporary Kitchens,Food and Drink,Food and Drink,24.91,3.2546289945740186,5,Five,5,1,0,69,https://books.toscrape.com/catalogue/mexican-today-new-and-rediscovered-recipes-for-contemporary-kitchens_387/index.html
+Maybe Something Beautiful: How Art Transformed a Neighborhood,Childrens,Childrens,22.54,3.1587011018321305,1,One,5,1,0,61,https://books.toscrape.com/catalogue/maybe-something-beautiful-how-art-transformed-a-neighborhood_386/index.html
+Lola and the Boy Next Door (Anna and the French Kiss #2),Young Adult,Young Adult,23.63,3.2039652121324464,4,Four,5,1,0,56,https://books.toscrape.com/catalogue/lola-and-the-boy-next-door-anna-and-the-french-kiss-2_385/index.html
+Logan Kade (Fallen Crest High #5.5),Academic,Other,13.12,2.647592232065096,2,Two,5,1,0,35,https://books.toscrape.com/catalogue/logan-kade-fallen-crest-high-55_384/index.html
+Last One Home (New Beginnings #1),Fiction,Fiction,59.98,4.110545941560109,3,Three,5,1,0,33,https://books.toscrape.com/catalogue/last-one-home-new-beginnings-1_383/index.html
+Killing Floor (Jack Reacher #1),Thriller,Thriller,31.49,3.4809323496810087,4,Four,5,1,0,31,https://books.toscrape.com/catalogue/killing-floor-jack-reacher-1_382/index.html
+Kill the Boy Band,Young Adult,Young Adult,15.52,2.804571768092832,5,Five,5,1,0,17,https://books.toscrape.com/catalogue/kill-the-boy-band_381/index.html
+Isla and the Happily Ever After (Anna and the French Kiss #3),Young Adult,Young Adult,48.13,3.894469846180557,5,Five,5,1,0,61,https://books.toscrape.com/catalogue/isla-and-the-happily-ever-after-anna-and-the-french-kiss-3_380/index.html
+If I Stay (If I Stay #1),Default,Default,38.13,3.666889436222321,5,Five,5,1,0,24,https://books.toscrape.com/catalogue/if-i-stay-if-i-stay-1_379/index.html
+I Know Why the Caged Bird Sings (Maya Angelou's Autobiography #1),Default,Default,36.55,3.6256733782101436,2,Two,5,1,0,65,https://books.toscrape.com/catalogue/i-know-why-the-caged-bird-sings-maya-angelous-autobiography-1_378/index.html
+Harry Potter and the Deathly Hallows (Harry Potter #7),Default,Default,23.32,3.1912990570979662,1,One,5,1,0,54,https://books.toscrape.com/catalogue/harry-potter-and-the-deathly-hallows-harry-potter-7_377/index.html
+"Fruits Basket, Vol. 5 (Fruits Basket #5)",Sequential Art,Sequential Art,16.33,2.8524391037275145,1,One,5,1,0,40,https://books.toscrape.com/catalogue/fruits-basket-vol-5-fruits-basket-5_376/index.html
+Foundation (Foundation (Publication Order) #1),Science Fiction,Science Fiction,32.42,3.509154523167248,1,One,5,1,0,46,https://books.toscrape.com/catalogue/foundation-foundation-publication-order-1_375/index.html
+Fool Me Once,Default,Default,16.96,2.8881470628740535,1,One,5,1,0,12,https://books.toscrape.com/catalogue/fool-me-once_374/index.html
+Find Her (Detective D.D. Warren #8),Add a comment,Add a comment,22.37,3.1514531485507664,1,One,5,1,0,35,https://books.toscrape.com/catalogue/find-her-detective-dd-warren-8_373/index.html
+Evicted: Poverty and Profit in the American City,Add a comment,Add a comment,42.27,3.7674595542367935,1,One,5,1,0,48,https://books.toscrape.com/catalogue/evicted-poverty-and-profit-in-the-american-city_372/index.html
+Drama,Default,Default,38.7,3.681351187693145,2,Two,5,1,0,5,https://books.toscrape.com/catalogue/drama_371/index.html
+Dracula the Un-Dead,Horror,Horror,35.63,3.6008675767907232,5,Five,5,1,0,19,https://books.toscrape.com/catalogue/dracula-the-un-dead_370/index.html
+Digital Fortress,Fiction,Fiction,58.0,4.07753744390572,5,Five,5,1,0,16,https://books.toscrape.com/catalogue/digital-fortress_369/index.html
+"Death Note, Vol. 5: Whiteout (Death Note #5)",Sequential Art,Sequential Art,52.41,3.977997994351679,1,One,5,1,0,44,https://books.toscrape.com/catalogue/death-note-vol-5-whiteout-death-note-5_368/index.html
+"Data, A Love Story: How I Gamed Online Dating to Meet My Match",Nonfiction,Nonfiction,32.35,3.507057772361633,3,Three,5,1,0,62,https://books.toscrape.com/catalogue/data-a-love-story-how-i-gamed-online-dating-to-meet-my-match_367/index.html
+Critique of Pure Reason,Philosophy,Philosophy,20.75,3.079613757534693,1,One,5,1,0,23,https://books.toscrape.com/catalogue/critique-of-pure-reason_366/index.html
+Booked,Poetry,Poetry,17.49,2.9172300453990334,5,Five,5,1,0,6,https://books.toscrape.com/catalogue/booked_365/index.html
+"Blue Lily, Lily Blue (The Raven Cycle #3)",Default,Default,34.13,3.559055466277736,5,Five,5,1,0,41,https://books.toscrape.com/catalogue/blue-lily-lily-blue-the-raven-cycle-3_364/index.html
+Approval Junkie: Adventures in Caring Too Much,Autobiography,Other,58.81,4.091172871056465,5,Five,5,1,0,46,https://books.toscrape.com/catalogue/approval-junkie-adventures-in-caring-too-much_363/index.html
+An Abundance of Katherines,Young Adult,Young Adult,10.0,2.3978952727983707,5,Five,5,1,0,26,https://books.toscrape.com/catalogue/an-abundance-of-katherines_362/index.html
+America's War for the Greater Middle East: A Military History,History,History,51.22,3.955465563270983,2,Two,5,1,0,61,https://books.toscrape.com/catalogue/americas-war-for-the-greater-middle-east-a-military-history_361/index.html
+Alight (The Generations Trilogy #2),Default,Default,58.59,4.087487774758888,4,Four,5,1,0,35,https://books.toscrape.com/catalogue/alight-the-generations-trilogy-2_360/index.html
+A Girl's Guide to Moving On (New Beginnings #2),Romance,Romance,31.3,3.475067230228611,1,One,5,1,0,47,https://books.toscrape.com/catalogue/a-girls-guide-to-moving-on-new-beginnings-2_359/index.html
+A Game of Thrones (A Song of Ice and Fire #1),Add a comment,Add a comment,46.42,3.8590440806372595,2,Two,5,1,0,45,https://books.toscrape.com/catalogue/a-game-of-thrones-a-song-of-ice-and-fire-1_358/index.html
+A Feast for Crows (A Song of Ice and Fire #4),Fantasy,Fantasy,17.21,2.9019708937395166,4,Four,5,1,0,45,https://books.toscrape.com/catalogue/a-feast-for-crows-a-song-of-ice-and-fire-4_357/index.html
+A Clash of Kings (A Song of Ice and Fire #2),Add a comment,Add a comment,10.79,2.4672517145492794,3,Three,5,1,0,44,https://books.toscrape.com/catalogue/a-clash-of-kings-a-song-of-ice-and-fire-2_356/index.html
+Vogue Colors A to Z: A Fashion Coloring Book,Default,Default,52.35,3.976873977747762,4,Four,4,1,0,44,https://books.toscrape.com/catalogue/vogue-colors-a-to-z-a-fashion-coloring-book_355/index.html
+The Shining (The Shining #1),Default,Default,27.88,3.3631493140246254,3,Three,4,1,0,28,https://books.toscrape.com/catalogue/the-shining-the-shining-1_354/index.html
+The Pilgrim's Progress,Classics,Classics,50.26,3.936910720935925,2,Two,4,1,0,22,https://books.toscrape.com/catalogue/the-pilgrims-progress_353/index.html
+The Perfect Play (Play by Play #1),Romance,Romance,59.99,4.110709916308365,3,Three,4,1,0,34,https://books.toscrape.com/catalogue/the-perfect-play-play-by-play-1_352/index.html
+The Passion of Dolssa,Historical Fiction,Historical Fiction,28.32,3.3782698770184507,5,Five,4,1,0,21,https://books.toscrape.com/catalogue/the-passion-of-dolssa_351/index.html
+The Jazz of Physics: The Secret Link Between Music and the Structure of the Universe,Nonfiction,Nonfiction,38.71,3.6816030451431603,3,Three,4,1,0,84,https://books.toscrape.com/catalogue/the-jazz-of-physics-the-secret-link-between-music-and-the-structure-of-the-universe_350/index.html
+The Hunger Games (The Hunger Games #1),Default,Default,29.85,3.4291367503513968,5,Five,4,1,0,38,https://books.toscrape.com/catalogue/the-hunger-games-the-hunger-games-1_349/index.html
+The Hound of the Baskervilles (Sherlock Holmes #5),Classics,Classics,14.82,2.761274962339508,2,Two,4,1,0,50,https://books.toscrape.com/catalogue/the-hound-of-the-baskervilles-sherlock-holmes-5_348/index.html
+The Gunning of America: Business and the Making of American Gun Culture,Nonfiction,Nonfiction,16.81,2.87976009730157,4,Four,4,1,0,71,https://books.toscrape.com/catalogue/the-gunning-of-america-business-and-the-making-of-american-gun-culture_347/index.html
+The Geography of Bliss: One Grump's Search for the Happiest Places in the World,Nonfiction,Nonfiction,28.23,3.3751955791231545,2,Two,4,1,0,79,https://books.toscrape.com/catalogue/the-geography-of-bliss-one-grumps-search-for-the-happiest-places-in-the-world_346/index.html
+The Demonists (Demonist #1),Fantasy,Fantasy,52.11,3.972365234434308,2,Two,4,1,0,27,https://books.toscrape.com/catalogue/the-demonists-demonist-1_345/index.html
+"The Demon Prince of Momochi House, Vol. 4 (The Demon Prince of Momochi House #4)",Sequential Art,Sequential Art,27.88,3.3631493140246254,2,Two,4,1,0,80,https://books.toscrape.com/catalogue/the-demon-prince-of-momochi-house-vol-4-the-demon-prince-of-momochi-house-4_344/index.html
+The Bone Hunters (Lexy Vaughan & Steven Macaulay #2),Thriller,Thriller,59.71,4.106108429142343,3,Three,4,1,0,52,https://books.toscrape.com/catalogue/the-bone-hunters-lexy-vaughan-steven-macaulay-2_343/index.html
+The Beast (Black Dagger Brotherhood #14),Fantasy,Fantasy,46.08,3.851848282392076,5,Five,4,1,0,40,https://books.toscrape.com/catalogue/the-beast-black-dagger-brotherhood-14_342/index.html
+Some Women,Womens Fiction,Womens Fiction,13.73,2.689886230474539,5,Five,4,1,0,10,https://books.toscrape.com/catalogue/some-women_341/index.html
+Shopaholic Ties the Knot (Shopaholic #3),Womens Fiction,Womens Fiction,48.39,3.8997479745525334,5,Five,4,1,0,40,https://books.toscrape.com/catalogue/shopaholic-ties-the-knot-shopaholic-3_340/index.html
+Paper and Fire (The Great Library #2),Fantasy,Fantasy,49.45,3.920982746799618,5,Five,4,1,0,37,https://books.toscrape.com/catalogue/paper-and-fire-the-great-library-2_339/index.html
+Outlander (Outlander #1),Default,Default,19.67,3.028683373693677,5,Five,4,1,0,24,https://books.toscrape.com/catalogue/outlander-outlander-1_338/index.html
+"Orchestra of Exiles: The Story of Bronislaw Huberman, the Israel Philharmonic, and the One Thousand Jews He Saved from Nazi Horrors",Music,Music,12.36,2.5922651681085,3,Three,4,1,0,131,https://books.toscrape.com/catalogue/orchestra-of-exiles-the-story-of-bronislaw-huberman-the-israel-philharmonic-and-the-one-thousand-jews-he-saved-from-nazi-horrors_337/index.html
+No One Here Gets Out Alive,Music,Music,20.02,3.045474365448805,5,Five,4,1,0,26,https://books.toscrape.com/catalogue/no-one-here-gets-out-alive_336/index.html
+Night Shift (Night Shift #1-20),Horror,Horror,12.75,2.6210388241125804,4,Four,4,1,0,31,https://books.toscrape.com/catalogue/night-shift-night-shift-1-20_335/index.html
+Needful Things,Horror,Horror,47.51,3.8817699622571253,4,Four,4,1,0,14,https://books.toscrape.com/catalogue/needful-things_334/index.html
+Mockingjay (The Hunger Games #3),Default,Default,20.44,3.0652583362026014,4,Four,4,1,0,32,https://books.toscrape.com/catalogue/mockingjay-the-hunger-games-3_333/index.html
+Misery,Horror,Horror,34.79,3.5776685247779345,2,Two,4,1,0,6,https://books.toscrape.com/catalogue/misery_332/index.html
+Little Women (Little Women #1),Classics,Classics,28.07,3.3697067145707846,4,Four,4,1,0,30,https://books.toscrape.com/catalogue/little-women-little-women-1_331/index.html
+It,Horror,Horror,25.01,3.25848107946056,3,Three,4,1,0,2,https://books.toscrape.com/catalogue/it_330/index.html
+Harry Potter and the Sorcerer's Stone (Harry Potter #1),Default,Default,13.9,2.7013612129514133,3,Three,4,1,0,55,https://books.toscrape.com/catalogue/harry-potter-and-the-sorcerers-stone-harry-potter-1_329/index.html
+Harry Potter and the Prisoner of Azkaban (Harry Potter #3),Young Adult,Young Adult,24.17,3.2256528091472245,4,Four,4,1,0,58,https://books.toscrape.com/catalogue/harry-potter-and-the-prisoner-of-azkaban-harry-potter-3_328/index.html
+Harry Potter and the Order of the Phoenix (Harry Potter #5),Fantasy,Fantasy,31.63,3.4852321106052293,4,Four,4,1,0,59,https://books.toscrape.com/catalogue/harry-potter-and-the-order-of-the-phoenix-harry-potter-5_327/index.html
+Harry Potter and the Half-Blood Prince (Harry Potter #6),Fantasy,Fantasy,48.75,3.907010463604602,5,Five,4,1,0,56,https://books.toscrape.com/catalogue/harry-potter-and-the-half-blood-prince-harry-potter-6_326/index.html
+Harry Potter and the Chamber of Secrets (Harry Potter #2),Fantasy,Fantasy,14.74,2.756205242989257,1,One,4,1,0,57,https://books.toscrape.com/catalogue/harry-potter-and-the-chamber-of-secrets-harry-potter-2_325/index.html
+Gone with the Wind,Classics,Classics,32.49,3.5112468868061133,3,Three,4,1,0,18,https://books.toscrape.com/catalogue/gone-with-the-wind_324/index.html
+God Is Not Great: How Religion Poisons Everything,Nonfiction,Nonfiction,27.8,3.3603753871419,1,One,4,1,0,49,https://books.toscrape.com/catalogue/god-is-not-great-how-religion-poisons-everything_323/index.html
+Girl With a Pearl Earring,Historical Fiction,Historical Fiction,26.77,3.323956301318708,1,One,4,1,0,25,https://books.toscrape.com/catalogue/girl-with-a-pearl-earring_322/index.html
+"Fruits Basket, Vol. 4 (Fruits Basket #4)",Sequential Art,Sequential Art,50.44,3.940416079929364,4,Four,4,1,0,40,https://books.toscrape.com/catalogue/fruits-basket-vol-4-fruits-basket-4_321/index.html
+Far From True (Promise Falls Trilogy #2),Thriller,Thriller,34.93,3.581572601125427,2,Two,4,1,0,40,https://books.toscrape.com/catalogue/far-from-true-promise-falls-trilogy-2_320/index.html
+Dark Lover (Black Dagger Brotherhood #1),Romance,Romance,12.87,2.6297282343267403,1,One,4,1,0,40,https://books.toscrape.com/catalogue/dark-lover-black-dagger-brotherhood-1_319/index.html
+Confessions of a Shopaholic (Shopaholic #1),Default,Default,48.94,3.910822284851627,2,Two,4,1,0,43,https://books.toscrape.com/catalogue/confessions-of-a-shopaholic-shopaholic-1_318/index.html
+Changing the Game (Play by Play #2),Romance,Romance,13.38,2.6658383522929006,3,Three,4,1,0,35,https://books.toscrape.com/catalogue/changing-the-game-play-by-play-2_317/index.html
+Candide,Classics,Classics,58.63,4.0881588031350145,3,Three,4,1,0,7,https://books.toscrape.com/catalogue/candide_316/index.html
+Can You Keep a Secret?,Womens Fiction,Womens Fiction,21.94,3.1328821117012247,1,One,4,1,0,22,https://books.toscrape.com/catalogue/can-you-keep-a-secret_315/index.html
+Atlas Shrugged,Fiction,Fiction,26.58,3.3170908723651555,5,Five,4,1,0,14,https://books.toscrape.com/catalogue/atlas-shrugged_314/index.html
+Animal Farm,Classics,Classics,57.22,4.064228938317477,3,Three,4,1,0,11,https://books.toscrape.com/catalogue/animal-farm_313/index.html
+A Walk to Remember,Romance,Romance,56.43,4.0505668148762055,1,One,4,1,0,18,https://books.toscrape.com/catalogue/a-walk-to-remember_312/index.html
+A New Earth: Awakening to Your Life's Purpose,Spirituality,Other,55.65,4.036891987474015,5,Five,4,1,0,45,https://books.toscrape.com/catalogue/a-new-earth-awakening-to-your-lifes-purpose_311/index.html
+"A History of God: The 4,000-Year Quest of Judaism, Christianity, and Islam",Religion,Other,27.62,3.3541057741283047,1,One,4,1,0,74,https://books.toscrape.com/catalogue/a-history-of-god-the-4000-year-quest-of-judaism-christianity-and-islam_310/index.html
+'Salem's Lot,Horror,Horror,49.56,3.923160749838602,4,Four,4,1,0,12,https://books.toscrape.com/catalogue/salems-lot_309/index.html
+Zero History (Blue Ant #3),Default,Default,34.77,3.5771095532709265,1,One,3,1,0,26,https://books.toscrape.com/catalogue/zero-history-blue-ant-3_308/index.html
+Wuthering Heights,Classics,Classics,17.73,2.930126516455997,3,Three,3,1,0,17,https://books.toscrape.com/catalogue/wuthering-heights_307/index.html
+World War Z: An Oral History of the Zombie War,Default,Default,21.8,3.126760535960395,1,One,3,1,0,46,https://books.toscrape.com/catalogue/world-war-z-an-oral-history-of-the-zombie-war_306/index.html
+Wild: From Lost to Found on the Pacific Crest Trail,Default,Default,46.02,3.8505730431119236,3,Three,3,1,0,51,https://books.toscrape.com/catalogue/wild-from-lost-to-found-on-the-pacific-crest-trail_305/index.html
+"Where'd You Go, Bernadette",Default,Default,18.13,2.9512577834521614,1,One,3,1,0,26,https://books.toscrape.com/catalogue/whered-you-go-bernadette_304/index.html
+When You Are Engulfed in Flames,Humor,Humor,30.89,3.4622924810219664,5,Five,3,1,0,31,https://books.toscrape.com/catalogue/when-you-are-engulfed-in-flames_303/index.html
+We the People: The Modern-Day Figures Who Have Reshaped and Affirmed the Founding Fathers' Vision of America,Nonfiction,Nonfiction,31.95,3.4949912609485163,3,Three,3,1,0,108,https://books.toscrape.com/catalogue/we-the-people-the-modern-day-figures-who-have-reshaped-and-affirmed-the-founding-fathers-vision-of-america_302/index.html
+We Are All Completely Beside Ourselves,Contemporary,Other,24.04,3.2204745462318978,1,One,3,1,0,38,https://books.toscrape.com/catalogue/we-are-all-completely-beside-ourselves_301/index.html
+Walk the Edge (Thunder Road #2),Young Adult,Young Adult,32.36,3.507357577490546,3,Three,3,1,0,31,https://books.toscrape.com/catalogue/walk-the-edge-thunder-road-2_300/index.html
+Voyager (Outlander #3),Historical Fiction,Historical Fiction,21.07,3.094219220268645,5,Five,3,1,0,22,https://books.toscrape.com/catalogue/voyager-outlander-3_299/index.html
+Very Good Lives: The Fringe Benefits of Failure and the Importance of Imagination,Nonfiction,Nonfiction,50.66,3.9446837876676946,3,Three,3,1,0,81,https://books.toscrape.com/catalogue/very-good-lives-the-fringe-benefits-of-failure-and-the-importance-of-imagination_298/index.html
+Vegan Vegetarian Omnivore: Dinner for Everyone at the Table,Food and Drink,Food and Drink,13.66,2.6851226964585053,2,Two,3,1,0,59,https://books.toscrape.com/catalogue/vegan-vegetarian-omnivore-dinner-for-everyone-at-the-table_297/index.html
+"Unstuffed: Decluttering Your Home, Mind, and Soul",Nonfiction,Nonfiction,58.09,4.079061705357583,1,One,3,1,0,49,https://books.toscrape.com/catalogue/unstuffed-decluttering-your-home-mind-and-soul_296/index.html
+Under the Banner of Heaven: A Story of Violent Faith,Nonfiction,Nonfiction,30.0,3.4339872044851463,1,One,3,1,0,52,https://books.toscrape.com/catalogue/under-the-banner-of-heaven-a-story-of-violent-faith_295/index.html
+Two Boys Kissing,Young Adult,Young Adult,32.74,3.5186840771178223,2,Two,3,1,0,16,https://books.toscrape.com/catalogue/two-boys-kissing_294/index.html
+Twilight (Twilight #1),Default,Default,41.93,3.7595708822364693,2,Two,3,1,0,22,https://books.toscrape.com/catalogue/twilight-twilight-1_293/index.html
+Twenties Girl,Womens Fiction,Womens Fiction,42.8,3.7796338173824005,2,Two,3,1,0,13,https://books.toscrape.com/catalogue/twenties-girl_292/index.html
+"Trespassing Across America: One Man's Epic, Never-Done-Before (and Sort of Illegal) Hike Across the Heartland",Nonfiction,Nonfiction,53.51,3.9983841710761894,1,One,3,1,0,109,https://books.toscrape.com/catalogue/trespassing-across-america-one-mans-epic-never-done-before-and-sort-of-illegal-hike-across-the-heartland_291/index.html
+Three-Martini Lunch,Fiction,Fiction,23.21,3.1867657709499673,3,Three,3,1,0,19,https://books.toscrape.com/catalogue/three-martini-lunch_290/index.html
+"Thinking, Fast and Slow",Psychology,Other,21.14,3.0973859272804907,1,One,3,1,0,23,https://books.toscrape.com/catalogue/thinking-fast-and-slow_289/index.html
+The Wild Robot,Childrens,Childrens,56.07,4.044278584548617,3,Three,3,1,0,14,https://books.toscrape.com/catalogue/the-wild-robot_288/index.html
+"The Wicked + The Divine, Vol. 3: Commercial Suicide (The Wicked + The Divine)",Sequential Art,Sequential Art,14.41,2.7350166493320245,3,Three,3,1,0,77,https://books.toscrape.com/catalogue/the-wicked-the-divine-vol-3-commercial-suicide-the-wicked-the-divine_287/index.html
+The Undomestic Goddess,Womens Fiction,Womens Fiction,45.75,3.844814255734696,4,Four,3,1,0,22,https://books.toscrape.com/catalogue/the-undomestic-goddess_286/index.html
+The Travelers,Thriller,Thriller,15.77,2.8195915758351173,1,One,3,1,0,13,https://books.toscrape.com/catalogue/the-travelers_285/index.html
+The Tipping Point: How Little Things Can Make a Big Difference,Add a comment,Add a comment,10.02,2.3997118037247684,2,Two,3,1,0,62,https://books.toscrape.com/catalogue/the-tipping-point-how-little-things-can-make-a-big-difference_284/index.html
+The Thing About Jellyfish,Childrens,Childrens,48.77,3.9074123928704627,1,One,3,1,0,25,https://books.toscrape.com/catalogue/the-thing-about-jellyfish_283/index.html
+The Stand,Horror,Horror,57.86,4.075161742805327,2,Two,3,1,0,9,https://books.toscrape.com/catalogue/the-stand_282/index.html
+The Smitten Kitchen Cookbook,Food and Drink,Food and Drink,23.59,3.202339856228101,1,One,3,1,0,28,https://books.toscrape.com/catalogue/the-smitten-kitchen-cookbook_281/index.html
+The Silkworm (Cormoran Strike #2),Mystery,Mystery,23.05,3.1801349965517702,5,Five,3,1,0,33,https://books.toscrape.com/catalogue/the-silkworm-cormoran-strike-2_280/index.html
+"The Sandman, Vol. 3: Dream Country (The Sandman (volumes) #3)",Sequential Art,Sequential Art,55.55,4.03512520256213,5,Five,3,1,0,61,https://books.toscrape.com/catalogue/the-sandman-vol-3-dream-country-the-sandman-volumes-3_279/index.html
+The Rose & the Dagger (The Wrath and the Dawn #2),Fantasy,Fantasy,58.64,4.088326489896538,4,Four,3,1,0,49,https://books.toscrape.com/catalogue/the-rose-the-dagger-the-wrath-and-the-dawn-2_278/index.html
+The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2),Travel,Travel,23.21,3.1867657709499673,1,One,3,1,0,97,https://books.toscrape.com/catalogue/the-road-to-little-dribbling-adventures-of-an-american-in-britain-notes-from-a-small-island-2_277/index.html
+The Rise of Theodore Roosevelt (Theodore Roosevelt #1),Biography,Other,42.57,3.774368840129351,3,Three,3,1,0,54,https://books.toscrape.com/catalogue/the-rise-of-theodore-roosevelt-theodore-roosevelt-1_276/index.html
+The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy #2),Science Fiction,Science Fiction,10.92,2.4782176616372036,1,One,3,1,0,79,https://books.toscrape.com/catalogue/the-restaurant-at-the-end-of-the-universe-hitchhikers-guide-to-the-galaxy-2_275/index.html
+The Rest Is Noise: Listening to the Twentieth Century,Add a comment,Add a comment,34.77,3.5771095532709265,1,One,3,1,0,53,https://books.toscrape.com/catalogue/the-rest-is-noise-listening-to-the-twentieth-century_274/index.html
+The Red Tent,Historical Fiction,Historical Fiction,35.66,3.6016862424115588,5,Five,3,1,0,12,https://books.toscrape.com/catalogue/the-red-tent_273/index.html
+The Purpose Driven Life: What on Earth Am I Here for?,Add a comment,Add a comment,37.19,3.6425737012374246,3,Three,3,1,0,53,https://books.toscrape.com/catalogue/the-purpose-driven-life-what-on-earth-am-i-here-for_272/index.html
+The Purest Hook (Second Circle Tattoos #3),Romance,Romance,12.25,2.583997552432231,1,One,3,1,0,42,https://books.toscrape.com/catalogue/the-purest-hook-second-circle-tattoos-3_271/index.html
+The Picture of Dorian Gray,Classics,Classics,29.7,3.4242626545931514,2,Two,3,1,0,26,https://books.toscrape.com/catalogue/the-picture-of-dorian-gray_270/index.html
+The Paris Wife,Default,Default,36.8,3.632309102625542,3,Three,3,1,0,14,https://books.toscrape.com/catalogue/the-paris-wife_269/index.html
+The Obsession,Romance,Romance,45.43,3.8379458020318302,1,One,3,1,0,13,https://books.toscrape.com/catalogue/the-obsession_268/index.html
+The Nightingale,Fiction,Fiction,26.26,3.3054204262683866,4,Four,3,1,0,15,https://books.toscrape.com/catalogue/the-nightingale_267/index.html
+The New Guy (and Other Senior Year Distractions),Young Adult,Young Adult,44.92,3.826900752011311,3,Three,3,1,0,48,https://books.toscrape.com/catalogue/the-new-guy-and-other-senior-year-distractions_266/index.html
+The Nanny Diaries (Nanny #1),Womens Fiction,Womens Fiction,52.53,3.98024224440529,5,Five,3,1,0,28,https://books.toscrape.com/catalogue/the-nanny-diaries-nanny-1_265/index.html
+The Name of God is Mercy,Nonfiction,Nonfiction,37.25,3.644143560272545,2,Two,3,1,0,24,https://books.toscrape.com/catalogue/the-name-of-god-is-mercy_264/index.html
+The Maze Runner (The Maze Runner #1),Default,Default,20.93,3.0878555624297968,1,One,3,1,0,36,https://books.toscrape.com/catalogue/the-maze-runner-the-maze-runner-1_263/index.html
+The Lover's Dictionary,Default,Default,58.09,4.079061705357583,2,Two,3,1,0,22,https://books.toscrape.com/catalogue/the-lovers-dictionary_262/index.html
+The Lonely Ones,Childrens,Childrens,43.59,3.7975096186393853,5,Five,3,1,0,15,https://books.toscrape.com/catalogue/the-lonely-ones_261/index.html
+The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses,Business,Business,33.92,3.5530597309714014,3,Three,3,1,0,111,https://books.toscrape.com/catalogue/the-lean-startup-how-todays-entrepreneurs-use-continuous-innovation-to-create-radically-successful-businesses_260/index.html
+The Last Painting of Sara de Vos,Historical Fiction,Historical Fiction,55.55,4.03512520256213,2,Two,3,1,0,32,https://books.toscrape.com/catalogue/the-last-painting-of-sara-de-vos_259/index.html
+"The Land of 10,000 Madonnas",Young Adult,Young Adult,29.64,3.4223063448723905,4,Four,3,1,0,27,https://books.toscrape.com/catalogue/the-land-of-10000-madonnas_258/index.html
+The Infinities,Fiction,Fiction,27.41,3.3467411958660964,1,One,3,1,0,14,https://books.toscrape.com/catalogue/the-infinities_257/index.html
+The Husband's Secret,Fiction,Fiction,52.51,3.979868552323213,5,Five,3,1,0,20,https://books.toscrape.com/catalogue/the-husbands-secret_256/index.html
+The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy #1),Add a comment,Add a comment,47.8,3.8877303128591016,3,Three,3,1,0,74,https://books.toscrape.com/catalogue/the-hitchhikers-guide-to-the-galaxy-hitchhikers-guide-to-the-galaxy-1_255/index.html
+The Guns of August,History,History,14.54,2.7434173449395014,2,Two,3,1,0,18,https://books.toscrape.com/catalogue/the-guns-of-august_254/index.html
+The Guernsey Literary and Potato Peel Pie Society,Historical Fiction,Historical Fiction,49.53,3.9225672193038172,1,One,3,1,0,49,https://books.toscrape.com/catalogue/the-guernsey-literary-and-potato-peel-pie-society_253/index.html
+The Goldfinch,Default,Default,43.58,3.797285327957723,3,Three,3,1,0,13,https://books.toscrape.com/catalogue/the-goldfinch_252/index.html
+The Giver (The Giver Quartet #1),Default,Default,12.3,2.5877640352277083,1,One,3,1,0,32,https://books.toscrape.com/catalogue/the-giver-the-giver-quartet-1_251/index.html
+The Girl with All the Gifts,Horror,Horror,49.47,3.921379100352171,3,Three,3,1,0,27,https://books.toscrape.com/catalogue/the-girl-with-all-the-gifts_250/index.html
+The Girl Who Played with Fire (Millennium Trilogy #2),Default,Default,22.14,3.1415627217655304,2,Two,3,1,0,53,https://books.toscrape.com/catalogue/the-girl-who-played-with-fire-millennium-trilogy-2_249/index.html
+The Girl Who Kicked the Hornet's Nest (Millennium Trilogy #3),Add a comment,Add a comment,57.48,4.068684815441523,1,One,3,1,0,61,https://books.toscrape.com/catalogue/the-girl-who-kicked-the-hornets-nest-millennium-trilogy-3_248/index.html
+The Exiled,Mystery,Mystery,43.45,3.794364961959914,3,Three,3,1,0,10,https://books.toscrape.com/catalogue/the-exiled_247/index.html
+"The End of Faith: Religion, Terror, and the Future of Reason",Add a comment,Add a comment,22.13,3.141130476243348,4,Four,3,1,0,60,https://books.toscrape.com/catalogue/the-end-of-faith-religion-terror-and-the-future-of-reason_246/index.html
+"The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",Science,Science,13.03,2.6411978941143697,4,Four,3,1,0,92,https://books.toscrape.com/catalogue/the-elegant-universe-superstrings-hidden-dimensions-and-the-quest-for-the-ultimate-theory_245/index.html
+"The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements",Science,Science,57.35,4.066459358732565,5,Five,3,1,0,131,https://books.toscrape.com/catalogue/the-disappearing-spoon-and-other-true-tales-of-madness-love-and-the-history-of-the-world-from-the-periodic-table-of-the-elements_244/index.html
+The Devil Wears Prada (The Devil Wears Prada #1),Womens Fiction,Womens Fiction,44.29,3.8130862575681226,1,One,3,1,0,48,https://books.toscrape.com/catalogue/the-devil-wears-prada-the-devil-wears-prada-1_243/index.html
+The Demon-Haunted World: Science as a Candle in the Dark,Default,Default,52.25,3.9749978045895347,4,Four,3,1,0,56,https://books.toscrape.com/catalogue/the-demon-haunted-world-science-as-a-candle-in-the-dark_242/index.html
+The Day the Crayons Came Home (Crayons),Childrens,Childrens,26.33,3.3079849999399764,5,Five,3,1,0,39,https://books.toscrape.com/catalogue/the-day-the-crayons-came-home-crayons_241/index.html
+The Da Vinci Code (Robert Langdon #2),Fiction,Fiction,22.96,3.1763857732472487,2,Two,3,1,0,37,https://books.toscrape.com/catalogue/the-da-vinci-code-robert-langdon-2_240/index.html
+The Cuckoo's Calling (Cormoran Strike #1),Mystery,Mystery,19.21,3.00617753141553,1,One,3,1,0,41,https://books.toscrape.com/catalogue/the-cuckoos-calling-cormoran-strike-1_239/index.html
+The Complete Stories and Poems (The Works of Edgar Allan Poe [Cameo Edition]),Classics,Classics,26.78,3.3243163373261977,4,Four,3,1,0,77,https://books.toscrape.com/catalogue/the-complete-stories-and-poems-the-works-of-edgar-allan-poe-cameo-edition_238/index.html
+The Complete Poems,Add a comment,Add a comment,41.32,3.7452597875500437,5,Five,3,1,0,18,https://books.toscrape.com/catalogue/the-complete-poems_237/index.html
+The Catcher in the Rye,Add a comment,Add a comment,24.55,3.2406373166497136,1,One,3,1,0,22,https://books.toscrape.com/catalogue/the-catcher-in-the-rye_236/index.html
+The Cat in the Hat (Beginner Books B-1),Childrens,Childrens,16.26,2.848391685655282,2,Two,3,1,0,39,https://books.toscrape.com/catalogue/the-cat-in-the-hat-beginner-books-b-1_235/index.html
+The Case for Christ (Cases for Christianity),Add a comment,Add a comment,47.84,3.888549649242504,1,One,3,1,0,44,https://books.toscrape.com/catalogue/the-case-for-christ-cases-for-christianity_234/index.html
+The Book Thief,Default,Default,53.49,3.998017198595007,2,Two,3,1,0,14,https://books.toscrape.com/catalogue/the-book-thief_233/index.html
+The Book of Basketball: The NBA According to The Sports Guy,Sports and Games,Other,44.84,3.8251570724064843,5,Five,3,1,0,59,https://books.toscrape.com/catalogue/the-book-of-basketball-the-nba-according-to-the-sports-guy_232/index.html
+The Blind Side: Evolution of a Game,Add a comment,Add a comment,53.71,4.002046508075734,5,Five,3,1,0,35,https://books.toscrape.com/catalogue/the-blind-side-evolution-of-a-game_231/index.html
+The Autobiography of Malcolm X,Default,Default,23.43,3.195811885269649,2,Two,3,1,0,30,https://books.toscrape.com/catalogue/the-autobiography-of-malcolm-x_230/index.html
+"The Art of Simple Food: Notes, Lessons, and Recipes from a Delicious Revolution",Food and Drink,Food and Drink,34.32,3.564449375735759,3,Three,3,1,0,79,https://books.toscrape.com/catalogue/the-art-of-simple-food-notes-lessons-and-recipes-from-a-delicious-revolution_229/index.html
+The Art of Fielding,Fiction,Fiction,22.1,3.139832617527748,1,One,3,1,0,19,https://books.toscrape.com/catalogue/the-art-of-fielding_228/index.html
+"Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character",Science,Science,25.83,3.2895206644375325,2,Two,3,1,0,69,https://books.toscrape.com/catalogue/surely-youre-joking-mr-feynman-adventures-of-a-curious-character_227/index.html
+Stiff: The Curious Lives of Human Cadavers,Nonfiction,Nonfiction,36.74,3.630720539940404,3,Three,3,1,0,42,https://books.toscrape.com/catalogue/stiff-the-curious-lives-of-human-cadavers_226/index.html
+Spilled Milk: Based on a True Story,Nonfiction,Nonfiction,49.51,3.9221713364799613,1,One,3,1,0,35,https://books.toscrape.com/catalogue/spilled-milk-based-on-a-true-story_225/index.html
+Something Borrowed (Darcy & Rachel #1),Womens Fiction,Womens Fiction,48.96,3.911222685257377,5,Five,3,1,0,38,https://books.toscrape.com/catalogue/something-borrowed-darcy-rachel-1_224/index.html
+Something Blue (Darcy & Rachel #2),Womens Fiction,Womens Fiction,54.62,4.018542848805819,1,One,3,1,0,34,https://books.toscrape.com/catalogue/something-blue-darcy-rachel-2_223/index.html
+Soldier (Talon #3),Fantasy,Fantasy,24.72,3.2472688993694185,2,Two,3,1,0,18,https://books.toscrape.com/catalogue/soldier-talon-3_222/index.html
+Shopaholic & Baby (Shopaholic #5),Default,Default,46.45,3.859676525055937,2,Two,3,1,0,33,https://books.toscrape.com/catalogue/shopaholic-baby-shopaholic-5_221/index.html
+Seven Days in the Art World,Add a comment,Add a comment,52.33,3.9764990246125107,2,Two,3,1,0,27,https://books.toscrape.com/catalogue/seven-days-in-the-art-world_220/index.html
+Seven Brief Lessons on Physics,Science,Science,30.6,3.4531571205928664,4,Four,3,1,0,30,https://books.toscrape.com/catalogue/seven-brief-lessons-on-physics_219/index.html
+Scarlet (The Lunar Chronicles #2),Young Adult,Young Adult,14.57,2.745345985845907,4,Four,3,1,0,33,https://books.toscrape.com/catalogue/scarlet-the-lunar-chronicles-2_218/index.html
+Sarah's Key,Add a comment,Add a comment,46.29,3.8562988566557843,1,One,3,1,0,11,https://books.toscrape.com/catalogue/sarahs-key_217/index.html
+"Saga, Volume 3 (Saga (Collected Editions) #3)",Sequential Art,Sequential Art,21.57,3.1166215908294443,5,Five,3,1,0,45,https://books.toscrape.com/catalogue/saga-volume-3-saga-collected-editions-3_216/index.html
+Running with Scissors,Autobiography,Other,12.91,2.6326080059353516,4,Four,3,1,0,21,https://books.toscrape.com/catalogue/running-with-scissors_215/index.html
+Rogue Lawyer (Rogue Lawyer #1),Add a comment,Add a comment,50.11,3.933980172780188,3,Three,3,1,0,30,https://books.toscrape.com/catalogue/rogue-lawyer-rogue-lawyer-1_214/index.html
+"Rise of the Rocket Girls: The Women Who Propelled Us, from Missiles to the Moon to Mars",Nonfiction,Nonfiction,41.67,3.7534960971999087,4,Four,3,1,0,87,https://books.toscrape.com/catalogue/rise-of-the-rocket-girls-the-women-who-propelled-us-from-missiles-to-the-moon-to-mars_213/index.html
+Rework,Business,Business,44.88,3.82602929226117,2,Two,3,1,0,6,https://books.toscrape.com/catalogue/rework_212/index.html
+Reservations for Two,Romance,Romance,11.1,2.4932054526026954,3,Three,3,1,0,20,https://books.toscrape.com/catalogue/reservations-for-two_211/index.html
+Red: The True Story of Red Riding Hood,Childrens,Childrens,28.54,3.3857452771032337,3,Three,3,1,0,38,https://books.toscrape.com/catalogue/red-the-true-story-of-red-riding-hood_210/index.html
+Ready Player One,Science Fiction,Science Fiction,19.07,2.9992261628082466,4,Four,3,1,0,16,https://books.toscrape.com/catalogue/ready-player-one_209/index.html
+Quiet: The Power of Introverts in a World That Can't Stop Talking,Default,Default,43.55,3.796612153916818,1,One,3,1,0,65,https://books.toscrape.com/catalogue/quiet-the-power-of-introverts-in-a-world-that-cant-stop-talking_208/index.html
+Prodigy: The Graphic Novel (Legend: The Graphic Novel #2),Sequential Art,Sequential Art,43.63,3.7984062786411785,3,Three,3,1,0,57,https://books.toscrape.com/catalogue/prodigy-the-graphic-novel-legend-the-graphic-novel-2_207/index.html
+Persepolis: The Story of a Childhood (Persepolis #1-2),Sequential Art,Sequential Art,39.13,3.6921241842788253,1,One,3,1,0,54,https://books.toscrape.com/catalogue/persepolis-the-story-of-a-childhood-persepolis-1-2_206/index.html
+Packing for Mars: The Curious Science of Life in the Void,Default,Default,56.68,4.054910492976694,2,Two,3,1,0,57,https://books.toscrape.com/catalogue/packing-for-mars-the-curious-science-of-life-in-the-void_205/index.html
+Outliers: The Story of Success,Nonfiction,Nonfiction,14.16,2.7186603802142257,1,One,3,1,0,30,https://books.toscrape.com/catalogue/outliers-the-story-of-success_204/index.html
+Original Fake,Sequential Art,Sequential Art,31.45,3.479700443150099,3,Three,3,1,0,13,https://books.toscrape.com/catalogue/original-fake_203/index.html
+Orange Is the New Black,Default,Default,24.61,3.242982900211434,2,Two,3,1,0,23,https://books.toscrape.com/catalogue/orange-is-the-new-black_202/index.html
+One for the Money (Stephanie Plum #1),Default,Default,32.87,3.5225296668296804,2,Two,3,1,0,37,https://books.toscrape.com/catalogue/one-for-the-money-stephanie-plum-1_201/index.html
+Notes from a Small Island (Notes From a Small Island #1),Nonfiction,Nonfiction,40.17,3.7177098357818132,1,One,3,1,0,56,https://books.toscrape.com/catalogue/notes-from-a-small-island-notes-from-a-small-island-1_200/index.html
+Night (The Night Trilogy #1),Nonfiction,Nonfiction,13.51,2.6748380668960965,1,One,3,1,0,28,https://books.toscrape.com/catalogue/night-the-night-trilogy-1_199/index.html
+Neither Here nor There: Travels in Europe,Travel,Travel,38.95,3.6876286722122837,3,Three,3,1,0,41,https://books.toscrape.com/catalogue/neither-here-nor-there-travels-in-europe_198/index.html
+Naked,Humor,Humor,31.69,3.487069220736119,3,Three,3,1,0,5,https://books.toscrape.com/catalogue/naked_197/index.html
+Morning Star (Red Rising #3),Default,Default,29.4,3.414442608412176,1,One,3,1,0,28,https://books.toscrape.com/catalogue/morning-star-red-rising-3_196/index.html
+"Miracles from Heaven: A Little Girl, Her Journey to Heaven, and Her Amazing Story of Healing",Nonfiction,Nonfiction,57.83,4.0746519288763645,1,One,3,1,0,92,https://books.toscrape.com/catalogue/miracles-from-heaven-a-little-girl-her-journey-to-heaven-and-her-amazing-story-of-healing_195/index.html
+Midnight Riot (Peter Grant/ Rivers of London - books #1),Fantasy,Fantasy,55.46,4.033532422825343,2,Two,3,1,0,56,https://books.toscrape.com/catalogue/midnight-riot-peter-grant-rivers-of-london-books-1_194/index.html
+Me Talk Pretty One Day,Autobiography,Other,57.6,4.070734696582967,2,Two,3,1,0,22,https://books.toscrape.com/catalogue/me-talk-pretty-one-day_193/index.html
+Manuscript Found in Accra,Add a comment,Add a comment,34.98,3.582963228522387,2,Two,3,1,0,25,https://books.toscrape.com/catalogue/manuscript-found-in-accra_192/index.html
+Lust & Wonder,Autobiography,Other,11.87,2.554899021608035,2,Two,3,1,0,13,https://books.toscrape.com/catalogue/lust-wonder_191/index.html
+Lila (Gilead #3),Fiction,Fiction,12.47,2.6004649904222727,3,Three,3,1,0,16,https://books.toscrape.com/catalogue/lila-gilead-3_190/index.html
+"Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy #3)",Science Fiction,Science Fiction,33.26,3.5339784928959737,2,Two,3,1,0,71,https://books.toscrape.com/catalogue/life-the-universe-and-everything-hitchhikers-guide-to-the-galaxy-3_189/index.html
+Life Without a Recipe,Autobiography,Other,59.04,4.095011006765261,5,Five,3,1,0,21,https://books.toscrape.com/catalogue/life-without-a-recipe_188/index.html
+Life After Life,Default,Default,26.13,3.3006401266708405,2,Two,3,1,0,15,https://books.toscrape.com/catalogue/life-after-life_187/index.html
+Letter to a Christian Nation,Nonfiction,Nonfiction,22.2,3.1441522786722644,1,One,3,1,0,28,https://books.toscrape.com/catalogue/letter-to-a-christian-nation_186/index.html
+Let's Pretend This Never Happened: A Mostly True Memoir,Nonfiction,Nonfiction,45.11,3.8310298462186143,1,One,3,1,0,55,https://books.toscrape.com/catalogue/lets-pretend-this-never-happened-a-mostly-true-memoir_185/index.html
+Legend (Legend #1),Young Adult,Young Adult,43.69,3.79974976294536,4,Four,3,1,0,18,https://books.toscrape.com/catalogue/legend-legend-1_184/index.html
+"Lean In: Women, Work, and the Will to Lead",Default,Default,25.02,3.2588654730843594,1,One,3,1,0,42,https://books.toscrape.com/catalogue/lean-in-women-work-and-the-will-to-lead_183/index.html
+"Lamb: The Gospel According to Biff, Christ's Childhood Pal",Humor,Humor,55.5,4.034240638152395,5,Five,3,1,0,58,https://books.toscrape.com/catalogue/lamb-the-gospel-according-to-biff-christs-childhood-pal_182/index.html
+Lady Renegades (Rebel Belle #3),Young Adult,Young Adult,53.04,3.989724513091998,5,Five,3,1,0,31,https://books.toscrape.com/catalogue/lady-renegades-rebel-belle-3_181/index.html
+Jurassic Park (Jurassic Park #1),Fiction,Fiction,44.97,3.8279890098181366,1,One,3,1,0,32,https://books.toscrape.com/catalogue/jurassic-park-jurassic-park-1_180/index.html
+It's Never Too Late to Begin Again: Discovering Creativity and Meaning at Midlife and Beyond,Nonfiction,Nonfiction,42.38,3.7699985053987284,1,One,3,1,0,92,https://books.toscrape.com/catalogue/its-never-too-late-to-begin-again-discovering-creativity-and-meaning-at-midlife-and-beyond_179/index.html
+Is Everyone Hanging Out Without Me? (And Other Concerns),Default,Default,20.11,3.0497468618602293,3,Three,3,1,0,56,https://books.toscrape.com/catalogue/is-everyone-hanging-out-without-me-and-other-concerns_178/index.html
+Into the Wild,Nonfiction,Nonfiction,56.7,4.055257173514054,5,Five,3,1,0,13,https://books.toscrape.com/catalogue/into-the-wild_177/index.html
+Inferno (Robert Langdon #4),Fiction,Fiction,41.0,3.7376696182833684,5,Five,3,1,0,27,https://books.toscrape.com/catalogue/inferno-robert-langdon-4_176/index.html
+"In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin",Nonfiction,Nonfiction,28.85,3.396184839838611,3,Three,3,1,0,80,https://books.toscrape.com/catalogue/in-the-garden-of-beasts-love-terror-and-an-american-family-in-hitlers-berlin_175/index.html
+If I Run (If I Run #1),Christian Fiction,Other,49.97,3.93123722435195,4,Four,3,1,0,22,https://books.toscrape.com/catalogue/if-i-run-if-i-run-1_174/index.html
+I've Got Your Number,Womens Fiction,Womens Fiction,19.69,3.029650491757452,1,One,3,1,0,20,https://books.toscrape.com/catalogue/ive-got-your-number_173/index.html
+I Am Malala: The Girl Who Stood Up for Education and Was Shot by the Taliban,Nonfiction,Nonfiction,28.88,3.3971893602646164,2,Two,3,1,0,76,https://books.toscrape.com/catalogue/i-am-malala-the-girl-who-stood-up-for-education-and-was-shot-by-the-taliban_172/index.html
+Hungry Girl Clean & Hungry: Easy All-Natural Recipes for Healthy Eating in the Real World,Food and Drink,Food and Drink,33.14,3.5304697173662944,3,Three,3,1,0,89,https://books.toscrape.com/catalogue/hungry-girl-clean-hungry-easy-all-natural-recipes-for-healthy-eating-in-the-real-world_171/index.html
+"House of Lost Worlds: Dinosaurs, Dynasties, and the Story of Life on Earth",History,History,43.7,3.7999735016195233,2,Two,3,1,0,74,https://books.toscrape.com/catalogue/house-of-lost-worlds-dinosaurs-dynasties-and-the-story-of-life-on-earth_170/index.html
+House of Leaves,Horror,Horror,54.89,4.023385473281607,1,One,3,1,0,15,https://books.toscrape.com/catalogue/house-of-leaves_169/index.html
+Horrible Bear!,Childrens,Childrens,37.52,3.651177586929925,2,Two,3,1,0,14,https://books.toscrape.com/catalogue/horrible-bear_168/index.html
+Holidays on Ice,Humor,Humor,51.07,3.952588967174808,2,Two,3,1,0,15,https://books.toscrape.com/catalogue/holidays-on-ice_167/index.html
+Heir to the Sky,Fantasy,Fantasy,44.07,3.808216836702557,4,Four,3,1,0,15,https://books.toscrape.com/catalogue/heir-to-the-sky_166/index.html
+Green Eggs and Ham (Beginner Books B-16),Childrens,Childrens,10.79,2.4672517145492794,4,Four,3,1,0,40,https://books.toscrape.com/catalogue/green-eggs-and-ham-beginner-books-b-16_165/index.html
+"Grayson, Vol 3: Nemesis (Grayson #3)",Sequential Art,Sequential Art,42.72,3.777805663308338,1,One,3,1,0,36,https://books.toscrape.com/catalogue/grayson-vol-3-nemesis-grayson-3_164/index.html
+Gratitude,Nonfiction,Nonfiction,26.66,3.319987326236612,5,Five,3,1,0,9,https://books.toscrape.com/catalogue/gratitude_163/index.html
+Gone Girl,Default,Default,37.6,3.653252276470785,5,Five,3,1,0,9,https://books.toscrape.com/catalogue/gone-girl_162/index.html
+Golden (Heart of Dread #3),Young Adult,Young Adult,42.21,3.766071949943842,4,Four,3,1,0,26,https://books.toscrape.com/catalogue/golden-heart-of-dread-3_161/index.html
+Girl in the Blue Coat,Historical Fiction,Historical Fiction,46.83,3.8676530576922055,2,Two,3,1,0,21,https://books.toscrape.com/catalogue/girl-in-the-blue-coat_160/index.html
+"Fruits Basket, Vol. 3 (Fruits Basket #3)",Sequential Art,Sequential Art,45.17,3.8323302365188976,2,Two,3,1,0,40,https://books.toscrape.com/catalogue/fruits-basket-vol-3-fruits-basket-3_159/index.html
+"Friday Night Lights: A Town, a Team, and a Dream",Sports and Games,Other,51.22,3.955465563270983,3,Three,3,1,0,48,https://books.toscrape.com/catalogue/friday-night-lights-a-town-a-team-and-a-dream_158/index.html
+Fire Bound (Sea Haven/Sisters of the Heart #5),Add a comment,Add a comment,21.28,3.1036894150590832,4,Four,3,1,0,46,https://books.toscrape.com/catalogue/fire-bound-sea-havensisters-of-the-heart-5_157/index.html
+Fifty Shades Freed (Fifty Shades #3),Adult Fiction,Other,15.36,2.794839331174601,5,Five,3,1,0,36,https://books.toscrape.com/catalogue/fifty-shades-freed-fifty-shades-3_156/index.html
+Fellside,Default,Default,38.62,3.6793340412704048,1,One,3,1,0,8,https://books.toscrape.com/catalogue/fellside_155/index.html
+Extreme Prey (Lucas Davenport #26),Mystery,Mystery,25.4,3.2733640101522705,3,Three,3,1,0,34,https://books.toscrape.com/catalogue/extreme-prey-lucas-davenport-26_154/index.html
+Eragon (The Inheritance Cycle #1),Fantasy,Fantasy,43.87,3.803769419987892,3,Three,3,1,0,33,https://books.toscrape.com/catalogue/eragon-the-inheritance-cycle-1_153/index.html
+Eclipse (Twilight #3),Default,Default,18.74,2.9826470340053355,1,One,3,1,0,21,https://books.toscrape.com/catalogue/eclipse-twilight-3_152/index.html
+Dune (Dune #1),Science Fiction,Science Fiction,54.86,4.022848560517031,1,One,3,1,0,14,https://books.toscrape.com/catalogue/dune-dune-1_151/index.html
+Dracula,Default,Default,52.62,3.981922132807813,3,Three,3,1,0,7,https://books.toscrape.com/catalogue/dracula_150/index.html
+Do Androids Dream of Electric Sheep? (Blade Runner #1),Science Fiction,Science Fiction,51.48,3.9604321446358335,1,One,3,1,0,54,https://books.toscrape.com/catalogue/do-androids-dream-of-electric-sheep-blade-runner-1_149/index.html
+Disrupted: My Misadventure in the Start-Up Bubble,Nonfiction,Nonfiction,15.28,2.7899373605743945,5,Five,3,1,0,49,https://books.toscrape.com/catalogue/disrupted-my-misadventure-in-the-start-up-bubble_148/index.html
+Dead Wake: The Last Crossing of the Lusitania,Default,Default,39.24,3.6948615257914836,5,Five,3,1,0,45,https://books.toscrape.com/catalogue/dead-wake-the-last-crossing-of-the-lusitania_147/index.html
+"David and Goliath: Underdogs, Misfits, and the Art of Battling Giants",Default,Default,17.81,2.934388643312939,1,One,3,1,0,69,https://books.toscrape.com/catalogue/david-and-goliath-underdogs-misfits-and-the-art-of-battling-giants_146/index.html
+Darkfever (Fever #1),Fantasy,Fantasy,56.02,4.043402083484526,1,One,3,1,0,20,https://books.toscrape.com/catalogue/darkfever-fever-1_145/index.html
+Dark Places,Default,Default,23.9,3.214867803470662,5,Five,3,1,0,11,https://books.toscrape.com/catalogue/dark-places_144/index.html
+Crazy Rich Asians (Crazy Rich Asians #1),Fiction,Fiction,49.13,3.914619631275412,5,Five,3,1,0,40,https://books.toscrape.com/catalogue/crazy-rich-asians-crazy-rich-asians-1_143/index.html
+Counting Thyme,Childrens,Childrens,10.62,2.4527277514237653,1,One,3,1,0,14,https://books.toscrape.com/catalogue/counting-thyme_142/index.html
+Cosmos,Add a comment,Add a comment,36.17,3.615501984309161,2,Two,3,1,0,6,https://books.toscrape.com/catalogue/cosmos_141/index.html
+Civilization and Its Discontents,Psychology,Other,59.95,4.110053855927281,2,Two,3,1,0,32,https://books.toscrape.com/catalogue/civilization-and-its-discontents_140/index.html
+Cinder (The Lunar Chronicles #1),Young Adult,Young Adult,26.09,3.2991646560970036,1,One,3,1,0,32,https://books.toscrape.com/catalogue/cinder-the-lunar-chronicles-1_139/index.html
+Catastrophic Happiness: Finding Joy in Childhood's Messy Years,Parenting,Other,37.35,3.646754527813265,2,Two,3,1,0,62,https://books.toscrape.com/catalogue/catastrophic-happiness-finding-joy-in-childhoods-messy-years_138/index.html
+Career of Evil (Cormoran Strike #3),Mystery,Mystery,24.72,3.2472688993694185,2,Two,3,1,0,35,https://books.toscrape.com/catalogue/career-of-evil-cormoran-strike-3_137/index.html
+Breaking Dawn (Twilight #4),Default,Default,35.28,3.591266625246936,5,Five,3,1,0,27,https://books.toscrape.com/catalogue/breaking-dawn-twilight-4_136/index.html
+Brave Enough,Nonfiction,Nonfiction,51.32,3.9573787071489432,5,Five,3,1,0,12,https://books.toscrape.com/catalogue/brave-enough_135/index.html
+Boy Meets Boy,Young Adult,Young Adult,21.12,3.096482176654134,3,Three,3,1,0,13,https://books.toscrape.com/catalogue/boy-meets-boy_134/index.html
+"Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen",Nonfiction,Nonfiction,27.35,3.3446270301737613,2,Two,3,1,0,90,https://books.toscrape.com/catalogue/born-to-run-a-hidden-tribe-superathletes-and-the-greatest-race-the-world-has-never-seen_133/index.html
+Blink: The Power of Thinking Without Thinking,Nonfiction,Nonfiction,21.74,3.12412548832239,5,Five,3,1,0,45,https://books.toscrape.com/catalogue/blink-the-power-of-thinking-without-thinking_132/index.html
+Black Flags: The Rise of ISIS,Nonfiction,Nonfiction,40.87,3.734569580031052,1,One,3,1,0,29,https://books.toscrape.com/catalogue/black-flags-the-rise-of-isis_131/index.html
+"Black Butler, Vol. 1 (Black Butler #1)",Sequential Art,Sequential Art,49.31,3.9182038645032273,1,One,3,1,0,38,https://books.toscrape.com/catalogue/black-butler-vol-1-black-butler-1_130/index.html
+Big Little Lies,Fiction,Fiction,22.11,3.1402654242862895,1,One,3,1,0,15,https://books.toscrape.com/catalogue/big-little-lies_129/index.html
+Between Shades of Gray,Historical Fiction,Historical Fiction,20.79,3.0814511489565284,5,Five,3,1,0,22,https://books.toscrape.com/catalogue/between-shades-of-gray_128/index.html
+Best of My Love (Fool's Gold #20),Romance,Romance,27.41,3.3467411958660964,2,Two,3,1,0,33,https://books.toscrape.com/catalogue/best-of-my-love-fools-gold-20_127/index.html
+Beowulf,Classics,Classics,38.35,3.6724959748634123,2,Two,3,1,0,7,https://books.toscrape.com/catalogue/beowulf_126/index.html
+Beautiful Creatures (Caster Chronicles #1),Default,Default,21.55,3.1157350659486873,5,Five,3,1,0,42,https://books.toscrape.com/catalogue/beautiful-creatures-caster-chronicles-1_125/index.html
+Awkward,Sequential Art,Sequential Art,38.02,3.6640743351949654,2,Two,3,1,0,7,https://books.toscrape.com/catalogue/awkward_124/index.html
+Ash,Fantasy,Fantasy,22.06,3.138099514840913,4,Four,3,1,0,3,https://books.toscrape.com/catalogue/ash_123/index.html
+Are We There Yet?,Childrens,Childrens,10.66,2.4561641809223462,3,Three,3,1,0,17,https://books.toscrape.com/catalogue/are-we-there-yet_122/index.html
+Are We Smart Enough to Know How Smart Animals Are?,Nonfiction,Nonfiction,56.58,4.05317528518403,1,One,3,1,0,50,https://books.toscrape.com/catalogue/are-we-smart-enough-to-know-how-smart-animals-are_121/index.html
+Annie on My Mind,Young Adult,Young Adult,36.83,3.6331024386449378,5,Five,3,1,0,16,https://books.toscrape.com/catalogue/annie-on-my-mind_120/index.html
+And Then There Were None,Classics,Classics,35.01,3.583796677660784,2,Two,3,1,0,24,https://books.toscrape.com/catalogue/and-then-there-were-none_119/index.html
+A Walk in the Woods: Rediscovering America on the Appalachian Trail,Nonfiction,Nonfiction,30.48,3.4493524235492026,4,Four,3,1,0,67,https://books.toscrape.com/catalogue/a-walk-in-the-woods-rediscovering-america-on-the-appalachian-trail_118/index.html
+A Visit from the Goon Squad,Default,Default,14.08,2.71336936257981,5,Five,3,1,0,27,https://books.toscrape.com/catalogue/a-visit-from-the-goon-squad_117/index.html
+A Storm of Swords (A Song of Ice and Fire #3),Fantasy,Fantasy,31.22,3.472587377748828,2,Two,3,1,0,45,https://books.toscrape.com/catalogue/a-storm-of-swords-a-song-of-ice-and-fire-3_116/index.html
+A Heartbreaking Work of Staggering Genius,Autobiography,Other,54.29,4.012592060349841,5,Five,3,1,0,41,https://books.toscrape.com/catalogue/a-heartbreaking-work-of-staggering-genius_115/index.html
+8 Keys to Mental Health Through Exercise,Psychology,Other,31.04,3.4669851222001586,1,One,3,1,0,40,https://books.toscrape.com/catalogue/8-keys-to-mental-health-through-exercise_114/index.html
+#GIRLBOSS,Add a comment,Add a comment,50.96,3.9504741918023987,1,One,3,1,0,9,https://books.toscrape.com/catalogue/girlboss_113/index.html
+"The Suffragettes (Little Black Classics, #96)",Nonfiction,Nonfiction,11.89,2.556451816951096,2,Two,2,1,0,45,https://books.toscrape.com/catalogue/the-suffragettes-little-black-classics-96_112/index.html
+The Sense of an Ending,Add a comment,Add a comment,31.38,3.477540948249489,3,Three,2,1,0,22,https://books.toscrape.com/catalogue/the-sense-of-an-ending_111/index.html
+"The Sandman, Vol. 2: The Doll's House (The Sandman (volumes) #2)",Sequential Art,Sequential Art,54.81,4.021953064800342,1,One,2,1,0,64,https://books.toscrape.com/catalogue/the-sandman-vol-2-the-dolls-house-the-sandman-volumes-2_110/index.html
+The Course of Love,Fiction,Fiction,16.78,2.8780742300857587,3,Three,2,1,0,18,https://books.toscrape.com/catalogue/the-course-of-love_109/index.html
+Sugar Rush (Offensive Line #2),Sports and Games,Other,24.42,3.2355362657613083,1,One,2,1,0,30,https://books.toscrape.com/catalogue/sugar-rush-offensive-line-2_108/index.html
+"Saga, Volume 2 (Saga (Collected Editions) #2)",Sequential Art,Sequential Art,11.75,2.545531271604435,3,Three,2,1,0,45,https://books.toscrape.com/catalogue/saga-volume-2-saga-collected-editions-2_107/index.html
+"Run, Spot, Run: The Ethics of Keeping Pets",Philosophy,Philosophy,20.02,3.045474365448805,1,One,2,1,0,42,https://books.toscrape.com/catalogue/run-spot-run-the-ethics-of-keeping-pets_106/index.html
+New Moon (Twilight #2),Young Adult,Young Adult,12.86,2.6290069937617573,4,Four,2,1,0,22,https://books.toscrape.com/catalogue/new-moon-twilight-2_105/index.html
+Life,Music,Music,31.58,3.4836986031738992,5,Five,2,1,0,4,https://books.toscrape.com/catalogue/life_104/index.html
+Kindle Paperwhite User's Guide,Nonfiction,Nonfiction,34.0,3.5553480614894135,3,Three,2,1,0,30,https://books.toscrape.com/catalogue/kindle-paperwhite-users-guide_103/index.html
+H is for Hawk,Nonfiction,Nonfiction,57.42,4.067658296959595,5,Five,2,1,0,13,https://books.toscrape.com/catalogue/h-is-for-hawk_102/index.html
+Girl Online On Tour (Girl Online #2),Young Adult,Young Adult,53.47,3.9976500913955832,1,One,2,1,0,36,https://books.toscrape.com/catalogue/girl-online-on-tour-girl-online-2_101/index.html
+"Fruits Basket, Vol. 2 (Fruits Basket #2)",Sequential Art,Sequential Art,11.64,2.5368663887187113,5,Five,2,1,0,40,https://books.toscrape.com/catalogue/fruits-basket-vol-2-fruits-basket-2_100/index.html
+Diary of a Minecraft Zombie Book 1: A Scare of a Dare (An Unofficial Minecraft Book),Childrens,Childrens,52.88,3.986759351542163,4,Four,2,1,0,84,https://books.toscrape.com/catalogue/diary-of-a-minecraft-zombie-book-1-a-scare-of-a-dare-an-unofficial-minecraft-book_99/index.html
+"Y: The Last Man, Vol. 1: Unmanned (Y: The Last Man #1)",Sequential Art,Sequential Art,18.51,2.97092715463502,4,Four,1,1,0,54,https://books.toscrape.com/catalogue/y-the-last-man-vol-1-unmanned-y-the-last-man-1_98/index.html
+While You Were Mine,Historical Fiction,Historical Fiction,41.32,3.7452597875500437,5,Five,1,1,0,19,https://books.toscrape.com/catalogue/while-you-were-mine_97/index.html
+Where Lightning Strikes (Bleeding Stars #3),Romance,Romance,39.77,3.707946516831162,3,Three,1,1,0,43,https://books.toscrape.com/catalogue/where-lightning-strikes-bleeding-stars-3_96/index.html
+When I'm Gone,Fiction,Fiction,51.96,3.9695369116287527,3,Three,1,1,0,13,https://books.toscrape.com/catalogue/when-im-gone_95/index.html
+Ways of Seeing,Art,Other,39.51,3.701548857214599,5,Five,1,1,0,14,https://books.toscrape.com/catalogue/ways-of-seeing_94/index.html
+"Vampire Knight, Vol. 1 (Vampire Knight #1)",Paranormal,Other,15.4,2.797281334830153,1,One,1,1,0,42,https://books.toscrape.com/catalogue/vampire-knight-vol-1-vampire-knight-1_93/index.html
+Vampire Girl (Vampire Girl #1),Fantasy,Fantasy,53.82,4.0040550908746395,2,Two,1,1,0,30,https://books.toscrape.com/catalogue/vampire-girl-vampire-girl-1_92/index.html
+Twenty Love Poems and a Song of Despair,Poetry,Poetry,30.95,3.4641721808235437,4,Four,1,1,0,39,https://books.toscrape.com/catalogue/twenty-love-poems-and-a-song-of-despair_91/index.html
+Travels with Charley: In Search of America,Nonfiction,Nonfiction,57.82,4.074481933125849,5,Five,1,1,0,42,https://books.toscrape.com/catalogue/travels-with-charley-in-search-of-america_90/index.html
+Three Wishes (River of Time: California #1),Science Fiction,Science Fiction,44.18,3.810654511039857,2,Two,1,1,0,43,https://books.toscrape.com/catalogue/three-wishes-river-of-time-california-1_89/index.html
+This One Moment (Pushing Limits #1),Romance,Romance,48.71,3.906206120106581,1,One,1,1,0,35,https://books.toscrape.com/catalogue/this-one-moment-pushing-limits-1_88/index.html
+The Zombie Room,Default,Default,19.69,3.029650491757452,5,Five,1,1,0,15,https://books.toscrape.com/catalogue/the-zombie-room_87/index.html
+"The Wicked + The Divine, Vol. 1: The Faust Act (The Wicked + The Divine)",Sequential Art,Sequential Art,36.52,3.624874124138024,2,Two,1,1,0,72,https://books.toscrape.com/catalogue/the-wicked-the-divine-vol-1-the-faust-act-the-wicked-the-divine_86/index.html
+The Tumor,Nonfiction,Nonfiction,41.56,3.750914845033389,5,Five,1,1,0,9,https://books.toscrape.com/catalogue/the-tumor_85/index.html
+The Story of Hong Gildong,Classics,Classics,43.19,3.7884985191426486,4,Four,1,1,0,25,https://books.toscrape.com/catalogue/the-story-of-hong-gildong_84/index.html
+The Silent Wife,Fiction,Fiction,12.34,2.590767040487478,5,Five,1,1,0,15,https://books.toscrape.com/catalogue/the-silent-wife_83/index.html
+The Silent Twin (Detective Jennifer Knight #3),Fantasy,Fantasy,36.25,3.6176519448255684,3,Three,1,1,0,46,https://books.toscrape.com/catalogue/the-silent-twin-detective-jennifer-knight-3_82/index.html
+The Selfish Gene,Science,Science,29.45,3.416085994155906,1,One,1,1,0,16,https://books.toscrape.com/catalogue/the-selfish-gene_81/index.html
+The Secret Healer,Historical Fiction,Historical Fiction,34.56,3.571221410645704,3,Three,1,1,0,17,https://books.toscrape.com/catalogue/the-secret-healer_80/index.html
+"The Sandman, Vol. 1: Preludes and Nocturnes (The Sandman (volumes) #1)",Sequential Art,Sequential Art,54.12,4.009512626705403,3,Three,1,1,0,70,https://books.toscrape.com/catalogue/the-sandman-vol-1-preludes-and-nocturnes-the-sandman-volumes-1_79/index.html
+The Republic,Add a comment,Add a comment,33.78,3.549042508926137,3,Three,1,1,0,12,https://books.toscrape.com/catalogue/the-republic_78/index.html
+The Odyssey,Add a comment,Add a comment,29.64,3.4223063448723905,3,Three,1,1,0,11,https://books.toscrape.com/catalogue/the-odyssey_77/index.html
+The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency #1),Mystery,Mystery,57.7,4.072439726834051,4,Four,1,1,0,70,https://books.toscrape.com/catalogue/the-no-1-ladies-detective-agency-no-1-ladies-detective-agency-1_76/index.html
+The Nicomachean Ethics,Philosophy,Philosophy,36.34,3.6200651381135764,1,One,1,1,0,22,https://books.toscrape.com/catalogue/the-nicomachean-ethics_75/index.html
+The Name of the Wind (The Kingkiller Chronicle #1),Default,Default,50.59,3.9433278552565585,3,Three,1,1,0,50,https://books.toscrape.com/catalogue/the-name-of-the-wind-the-kingkiller-chronicle-1_74/index.html
+The Mirror & the Maze (The Wrath and the Dawn #1.5),Fantasy,Fantasy,29.38,3.4137844971676268,1,One,1,1,0,51,https://books.toscrape.com/catalogue/the-mirror-the-maze-the-wrath-and-the-dawn-15_73/index.html
+The Little Prince,Classics,Classics,45.42,3.837730400846291,2,Two,1,1,0,17,https://books.toscrape.com/catalogue/the-little-prince_72/index.html
+The Light of the Fireflies,Add a comment,Add a comment,54.43,4.0151209634317135,1,One,1,1,0,26,https://books.toscrape.com/catalogue/the-light-of-the-fireflies_71/index.html
+The Last Girl (The Dominion Trilogy #1),Science Fiction,Science Fiction,36.26,3.6179203651734424,2,Two,1,1,0,39,https://books.toscrape.com/catalogue/the-last-girl-the-dominion-trilogy-1_70/index.html
+The Iliad,Add a comment,Add a comment,16.16,2.8425810940598164,1,One,1,1,0,9,https://books.toscrape.com/catalogue/the-iliad_69/index.html
+The Hook Up (Game On #1),New Adult,Other,36.29,3.6187251941907292,5,Five,1,1,0,24,https://books.toscrape.com/catalogue/the-hook-up-game-on-1_68/index.html
+The Haters,Young Adult,Young Adult,27.89,3.363495514478144,5,Five,1,1,0,10,https://books.toscrape.com/catalogue/the-haters_67/index.html
+The Girl You Lost,Mystery,Mystery,12.29,2.587011872725154,5,Five,1,1,0,17,https://books.toscrape.com/catalogue/the-girl-you-lost_66/index.html
+The Girl In The Ice (DCI Erika Foster #1),Mystery,Mystery,15.85,2.8243506567983707,3,Three,1,1,0,41,https://books.toscrape.com/catalogue/the-girl-in-the-ice-dci-erika-foster-1_65/index.html
+The End of the Jesus Era (An Investigation #1),Nonfiction,Nonfiction,14.4,2.7343675094195836,1,One,1,1,0,46,https://books.toscrape.com/catalogue/the-end-of-the-jesus-era-an-investigation-1_64/index.html
+The Edge of Reason (Bridget Jones #2),Womens Fiction,Womens Fiction,19.18,3.004692014925463,4,Four,1,1,0,37,https://books.toscrape.com/catalogue/the-edge-of-reason-bridget-jones-2_63/index.html
+The Complete Maus (Maus #1-2),Sequential Art,Sequential Art,10.64,2.454447442303292,3,Three,1,1,0,29,https://books.toscrape.com/catalogue/the-complete-maus-maus-1-2_62/index.html
+The Communist Manifesto,Add a comment,Add a comment,14.76,2.757475084429733,3,Three,1,1,0,23,https://books.toscrape.com/catalogue/the-communist-manifesto_61/index.html
+The Bhagavad Gita,Religion,Other,57.49,4.068855799454934,3,Three,1,1,0,17,https://books.toscrape.com/catalogue/the-bhagavad-gita_60/index.html
+The Bette Davis Club,Fiction,Fiction,30.66,3.4550540544528663,3,Three,1,1,0,20,https://books.toscrape.com/catalogue/the-bette-davis-club_59/index.html
+The Art of Not Breathing,Young Adult,Young Adult,40.83,3.733613785454107,4,Four,1,1,0,24,https://books.toscrape.com/catalogue/the-art-of-not-breathing_58/index.html
+Taking Shots (Assassins #1),Default,Default,18.88,2.989714201228428,2,Two,1,1,0,27,https://books.toscrape.com/catalogue/taking-shots-assassins-1_57/index.html
+Starlark,Historical Fiction,Historical Fiction,25.83,3.2895206644375325,3,Three,1,1,0,8,https://books.toscrape.com/catalogue/starlark_56/index.html
+"Skip Beat!, Vol. 01 (Skip Beat! #1)",Sequential Art,Sequential Art,42.12,3.7639869266007415,3,Three,1,1,0,35,https://books.toscrape.com/catalogue/skip-beat-vol-01-skip-beat-1_55/index.html
+Sister Sable (The Mad Queen #1),Fantasy,Fantasy,13.33,2.6623552418400807,3,Three,1,1,0,31,https://books.toscrape.com/catalogue/sister-sable-the-mad-queen-1_54/index.html
+Shatter Me (Shatter Me #1),Default,Default,42.4,3.770459441106359,1,One,1,1,0,26,https://books.toscrape.com/catalogue/shatter-me-shatter-me-1_53/index.html
+Shameless,New Adult,Other,58.35,4.083452121055677,3,Three,1,1,0,9,https://books.toscrape.com/catalogue/shameless_52/index.html
+Shadow Rites (Jane Yellowrock #10),Fantasy,Fantasy,21.72,3.1232455938529506,4,Four,1,1,0,34,https://books.toscrape.com/catalogue/shadow-rites-jane-yellowrock-10_51/index.html
+Settling the Score (The Summer Games #1),Sports and Games,Other,44.91,3.826682958261131,2,Two,1,1,0,40,https://books.toscrape.com/catalogue/settling-the-score-the-summer-games-1_50/index.html
+Sense and Sensibility,Classics,Classics,37.46,3.6496187401606335,1,One,1,1,0,21,https://books.toscrape.com/catalogue/sense-and-sensibility_49/index.html
+"Saga, Volume 1 (Saga (Collected Editions) #1)",Sequential Art,Sequential Art,28.48,3.383712067321136,1,One,1,1,0,45,https://books.toscrape.com/catalogue/saga-volume-1-saga-collected-editions-1_48/index.html
+"Rhythm, Chord & Malykhin",Romance,Romance,28.34,3.3789517727148355,2,Two,1,1,0,24,https://books.toscrape.com/catalogue/rhythm-chord-malykhin_47/index.html
+"Rat Queens, Vol. 1: Sass & Sorcery (Rat Queens (Collected Editions) #1-5)",Sequential Art,Sequential Art,46.96,3.8703673301593136,5,Five,1,1,0,73,https://books.toscrape.com/catalogue/rat-queens-vol-1-sass-sorcery-rat-queens-collected-editions-1-5_46/index.html
+Paradise Lost (Paradise #1),Default,Default,24.96,3.2565568918358894,1,One,1,1,0,27,https://books.toscrape.com/catalogue/paradise-lost-paradise-1_45/index.html
+"Paper Girls, Vol. 1 (Paper Girls #1-5)",Sequential Art,Sequential Art,21.71,3.122805356117467,4,Four,1,1,0,38,https://books.toscrape.com/catalogue/paper-girls-vol-1-paper-girls-1-5_44/index.html
+"Ouran High School Host Club, Vol. 1 (Ouran High School Host Club #1)",Sequential Art,Sequential Art,29.87,3.429784838514068,3,Three,1,1,0,68,https://books.toscrape.com/catalogue/ouran-high-school-host-club-vol-1-ouran-high-school-host-club-1_43/index.html
+Origins (Alphas 0.5),Fantasy,Fantasy,28.99,3.4008639927609177,1,One,1,1,0,20,https://books.toscrape.com/catalogue/origins-alphas-05_42/index.html
+One Second (Seven #7),Fantasy,Fantasy,52.94,3.987872317711584,2,Two,1,1,0,21,https://books.toscrape.com/catalogue/one-second-seven-7_41/index.html
+On the Road (Duluoz Legend),Default,Default,32.36,3.507357577490546,3,Three,1,1,0,27,https://books.toscrape.com/catalogue/on-the-road-duluoz-legend_40/index.html
+Old Records Never Die: One Man's Quest for His Vinyl and His Past,Music,Music,55.66,4.03706849440237,2,Two,1,1,0,65,https://books.toscrape.com/catalogue/old-records-never-die-one-mans-quest-for-his-vinyl-and-his-past_39/index.html
+Off Sides (Off #1),New Adult,Other,39.45,3.700066643504501,5,Five,1,1,0,18,https://books.toscrape.com/catalogue/off-sides-off-1_38/index.html
+Of Mice and Men,Classics,Classics,47.11,3.8734900557113625,2,Two,1,1,0,15,https://books.toscrape.com/catalogue/of-mice-and-men_37/index.html
+Myriad (Prentor #1),Fantasy,Fantasy,58.75,4.09016919081162,4,Four,1,1,0,19,https://books.toscrape.com/catalogue/myriad-prentor-1_36/index.html
+My Perfect Mistake (Over the Top #1),Romance,Romance,38.92,3.686877451443263,2,Two,1,1,0,36,https://books.toscrape.com/catalogue/my-perfect-mistake-over-the-top-1_35/index.html
+"Ms. Marvel, Vol. 1: No Normal (Ms. Marvel (2014-2015) #1)",Sequential Art,Sequential Art,39.39,3.6985822295753215,4,Four,1,1,0,57,https://books.toscrape.com/catalogue/ms-marvel-vol-1-no-normal-ms-marvel-2014-2015-1_34/index.html
+Meditations,Philosophy,Philosophy,25.89,3.2917544702807735,2,Two,1,1,0,11,https://books.toscrape.com/catalogue/meditations_33/index.html
+Matilda,Childrens,Childrens,28.34,3.3789517727148355,1,One,1,1,0,7,https://books.toscrape.com/catalogue/matilda_32/index.html
+Lost Among the Living,Historical Fiction,Historical Fiction,27.7,3.3568971227655755,4,Four,1,1,0,21,https://books.toscrape.com/catalogue/lost-among-the-living_31/index.html
+Lord of the Flies,Add a comment,Add a comment,24.89,3.2538567937634464,3,Three,1,1,0,17,https://books.toscrape.com/catalogue/lord-of-the-flies_30/index.html
+Listen to Me (Fusion #1),Romance,Romance,58.99,4.094177881665002,3,Three,1,1,0,24,https://books.toscrape.com/catalogue/listen-to-me-fusion-1_29/index.html
+Kitchens of the Great Midwest,Fiction,Fiction,57.2,4.063885354737392,5,Five,1,1,0,29,https://books.toscrape.com/catalogue/kitchens-of-the-great-midwest_28/index.html
+Jane Eyre,Default,Default,38.43,3.674526947889536,5,Five,1,1,0,9,https://books.toscrape.com/catalogue/jane-eyre_27/index.html
+Imperfect Harmony,Romance,Romance,34.74,3.576270509731282,4,Four,1,1,0,17,https://books.toscrape.com/catalogue/imperfect-harmony_26/index.html
+Icing (Aces Hockey #2),Sports and Games,Other,40.44,3.7242465979512276,4,Four,1,1,0,22,https://books.toscrape.com/catalogue/icing-aces-hockey-2_25/index.html
+"Hawkeye, Vol. 1: My Life as a Weapon (Hawkeye #1)",Sequential Art,Sequential Art,45.24,3.833845224364122,3,Three,1,1,0,49,https://books.toscrape.com/catalogue/hawkeye-vol-1-my-life-as-a-weapon-hawkeye-1_24/index.html
+Having the Barbarian's Baby (Ice Planet Barbarians #7.5),Science Fiction,Science Fiction,34.96,3.5824072096034194,4,Four,1,1,0,56,https://books.toscrape.com/catalogue/having-the-barbarians-baby-ice-planet-barbarians-75_23/index.html
+"Giant Days, Vol. 1 (Giant Days #1-4)",Sequential Art,Sequential Art,56.76,4.05629649458457,4,Four,1,1,0,36,https://books.toscrape.com/catalogue/giant-days-vol-1-giant-days-1-4_22/index.html
+"Fruits Basket, Vol. 1 (Fruits Basket #1)",Sequential Art,Sequential Art,40.28,3.720378121173307,5,Five,1,1,0,40,https://books.toscrape.com/catalogue/fruits-basket-vol-1-fruits-basket-1_21/index.html
+Frankenstein,Default,Default,38.0,3.6635616461296463,2,Two,1,1,0,12,https://books.toscrape.com/catalogue/frankenstein_20/index.html
+Forever Rockers (The Rocker #12),Music,Music,28.8,3.3945083935113587,3,Three,1,1,0,32,https://books.toscrape.com/catalogue/forever-rockers-the-rocker-12_19/index.html
+Fighting Fate (Fighting #6),Romance,Romance,39.24,3.6948615257914836,3,Three,1,1,0,27,https://books.toscrape.com/catalogue/fighting-fate-fighting-6_18/index.html
+Emma,Classics,Classics,32.93,3.5242995787961386,2,Two,1,1,0,4,https://books.toscrape.com/catalogue/emma_17/index.html
+"Eat, Pray, Love",Nonfiction,Nonfiction,51.32,3.9573787071489432,3,Three,1,1,0,15,https://books.toscrape.com/catalogue/eat-pray-love_16/index.html
+Deep Under (Walker Security #1),Romance,Romance,47.09,3.873074255289571,5,Five,1,1,0,31,https://books.toscrape.com/catalogue/deep-under-walker-security-1_15/index.html
+Choosing Our Religion: The Spiritual Lives of America's Nones,Religion,Other,28.42,3.3816747151732915,4,Four,1,1,0,61,https://books.toscrape.com/catalogue/choosing-our-religion-the-spiritual-lives-of-americas-nones_14/index.html
+Charlie and the Chocolate Factory (Charlie Bucket #1),Childrens,Childrens,22.85,3.1717842173343502,3,Three,1,1,0,53,https://books.toscrape.com/catalogue/charlie-and-the-chocolate-factory-charlie-bucket-1_13/index.html
+Charity's Cross (Charles Towne Belles #4),Romance,Romance,41.24,3.743367639398006,1,One,1,1,0,41,https://books.toscrape.com/catalogue/charitys-cross-charles-towne-belles-4_12/index.html
+Bright Lines,Fiction,Fiction,39.07,3.6906279246480533,5,Five,1,1,0,12,https://books.toscrape.com/catalogue/bright-lines_11/index.html
+Bridget Jones's Diary (Bridget Jones #1),Womens Fiction,Womens Fiction,29.82,3.42816382989197,1,One,1,1,0,40,https://books.toscrape.com/catalogue/bridget-joness-diary-bridget-jones-1_10/index.html
+Bounty (Colorado Mountain #7),Romance,Romance,37.26,3.644404964012107,4,Four,1,1,0,29,https://books.toscrape.com/catalogue/bounty-colorado-mountain-7_9/index.html
+Blood Defense (Samantha Brinkman #1),Mystery,Mystery,20.3,3.0587070727153796,3,Three,1,1,0,36,https://books.toscrape.com/catalogue/blood-defense-samantha-brinkman-1_8/index.html
+"Bleach, Vol. 1: Strawberry and the Soul Reapers (Bleach #1)",Sequential Art,Sequential Art,34.65,3.573749146860305,5,Five,1,1,0,59,https://books.toscrape.com/catalogue/bleach-vol-1-strawberry-and-the-soul-reapers-bleach-1_7/index.html
+Beyond Good and Evil,Philosophy,Philosophy,43.38,3.792788917504448,1,One,1,1,0,20,https://books.toscrape.com/catalogue/beyond-good-and-evil_6/index.html
+Alice in Wonderland (Alice's Adventures in Wonderland #1),Classics,Classics,55.53,4.0347714706871995,1,One,1,1,0,57,https://books.toscrape.com/catalogue/alice-in-wonderland-alices-adventures-in-wonderland-1_5/index.html
+"Ajin: Demi-Human, Volume 1 (Ajin: Demi-Human #1)",Sequential Art,Sequential Art,57.06,4.061476958596484,4,Four,1,1,0,48,https://books.toscrape.com/catalogue/ajin-demi-human-volume-1-ajin-demi-human-1_4/index.html
+A Spy's Devotion (The Regency Spies of London #1),Historical Fiction,Historical Fiction,16.97,2.8887037007954675,5,Five,1,1,0,49,https://books.toscrape.com/catalogue/a-spys-devotion-the-regency-spies-of-london-1_3/index.html
+1st to Die (Women's Murder Club #1),Mystery,Mystery,53.98,4.0069694827371,1,One,1,1,0,35,https://books.toscrape.com/catalogue/1st-to-die-womens-murder-club-1_2/index.html
+"1,000 Places to See Before You Die",Travel,Travel,26.08,3.298795448044074,5,Five,1,1,0,34,https://books.toscrape.com/catalogue/1000-places-to-see-before-you-die_1/index.html
